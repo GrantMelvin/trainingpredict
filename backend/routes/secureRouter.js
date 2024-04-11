@@ -7,7 +7,7 @@ secureRouter
 .route("/Login")
 .get(async (req, res) => {
     // User authentication logic here
-    email = req.body.email
+    email = req.user.email
     // Assume we have a function that verifies the user's credentials
     // Query db to check account
     const user = true

@@ -1,10 +1,12 @@
 import React from "react";
 import { AccountContext } from "../AccountContext";
 import { useContext } from "react" ;
-  
+import { useNavigate } from "react-router";
+
 const Register = () => {
 
     const {setUser} = useContext(AccountContext) ;
+    const navigate = useNavigate();
 
     const submit = async () => {
         await fetch("http://localhost:4000/unsecure-route/Register", {
@@ -17,18 +19,24 @@ const Register = () => {
         })
         .then(response => response.json())
         .then(data => {
-            console.log(data)
+            if(data.success === true){
+                navigate('/Login')
+            }
         })
         .catch(error => console.error('Error:', error));
     }
 
     return (
         <div>
-        <h1>Register</h1>
         <button
         onClick={() => {
             submit()
-        }}>asd</button>
+        }}>Register</button>
+        {'     '}
+        <button
+        onClick={() => {
+            navigate('Login')
+        }}>Login</button>
         </div>
     );
 };

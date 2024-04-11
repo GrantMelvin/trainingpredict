@@ -10,7 +10,6 @@ import PrivateRoutes from './PrivateRoutes';
 
 const Views = () => {
   const {user} = useContext(AccountContext) ;
-  console.log(user)
   return user.loggedIn === null ? (
     ""
   ): (

@@ -5,6 +5,7 @@ import { useNavigate } from "react-router";
   
 const Login = () => {
 
+    const {user, setUser} = useContext(AccountContext) ;
     const navigate = useNavigate();
 
     const submit = async () => {
@@ -18,24 +19,26 @@ const Login = () => {
         })
         .then(response => response.json())
         .then(data => {
-            console.log(data.token)
             localStorage.setItem('token', data.token);
+            setUser({...data})
+        })
+        .then(() => {
+            navigate('/Home')
         })
         .catch(error => console.error('Error:', error));
     }
 
     return (
         <div>
-        <h1>Login</h1>
         <button
         onClick={() => {
             submit()
-        }}>asd</button>
-        <div> <button
+        }}>Login</button>
+        {'          '}
+        <button
         onClick={() => {
-            navigate("/Home")
-        }}>home</button></div>
-       
+            navigate('/Register')
+        }}>Register</button>
         </div>
     );
 };

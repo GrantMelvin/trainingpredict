@@ -15,8 +15,8 @@ const UserContext = ({ children }) => {
   useEffect(() => {
     // Check if the JWT token exists in localStorage
     const token = localStorage.getItem("token");
-    console.log(token)
     if (!token) {
+      console.log('no token')
       // If no token is found, set the user as not logged in
       setUser({ loggedIn: false });
     } else {
@@ -35,13 +35,11 @@ const UserContext = ({ children }) => {
       })
       .then(data => {
         // Set the user data received from the server
-        setUser({ loggedIn: true, ...data });
-        navigate("/");
+        setUser({ loggedIn: true, token: data.token, email: data.email });
       })
       .catch(error => {
         console.error('Error:', error);
         // Handle error cases, e.g., token is invalid or expired
-        setUser({ loggedIn: false });
         localStorage.removeItem("token"); // Consider removing the invalid token
       });
     }

@@ -11,10 +11,9 @@ router
         // Assume we have a function that verifies the user's credentials
         // Signup logic
         const user = true
-        console.log(email)
         if (user) {
             // Return the token. Alternatively, you can set it in an HTTP-only cookie
-            return res.status(200);
+            return res.status(200).json({success:true});
         } else {
             return res.status(400).send("Invalid Credentials");
         }
@@ -37,7 +36,7 @@ router
             },
         );
         // Return the token. Alternatively, you can set it in an HTTP-only cookie
-        return res.status(200).json({ token, email });
+        return res.status(200).json({ token, email, loggedIn: true });
     } else {
         return res.status(400).send("Invalid Credentials");
     }
