@@ -1,9 +1,12 @@
 import React from "react";
+import { AccountContext } from "../AccountContext";
+import { useContext } from "react" ;
   
 const Home = () => {
 
+
     const submit = async () => {
-        await fetch("http://localhost:4000/secure-route/login", {
+        await fetch("http://localhost:4000/unsecure-route/register", {
             method: "POST",
             credentials: "include",
             headers: {
@@ -22,7 +25,7 @@ const Home = () => {
 
     return (
         <div>
-        <h1>Hello</h1>
+        <h1>Home</h1>
         <button
         onClick={() => {
             submit()
