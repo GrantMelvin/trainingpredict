@@ -1,8 +1,8 @@
 import {Routes, Route} from 'react-router' ;
 
 import Home from './pages/Home';
-import Register from './pages/Register'
-import Login from './pages/Login'
+import Register from './pages/entry/Register'
+import Login from './pages/entry/Login'
 import { useContext } from 'react';
 import { AccountContext } from './AccountContext';
 import PrivateRoutes from './PrivateRoutes';

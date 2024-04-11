@@ -1,5 +1,5 @@
-import React from "react";
-import { AccountContext } from "../AccountContext";
+import React, { useState } from "react";
+import { AccountContext } from "../../AccountContext";
 import { useContext } from "react" ;
 import { useNavigate } from "react-router";
 import {Input, Box, VStack, InputRightElement, InputGroup, Button, HStack, ButtonGroup} from '@chakra-ui/react'
@@ -7,6 +7,9 @@ import {Input, Box, VStack, InputRightElement, InputGroup, Button, HStack, Butto
 const Login = () => {
 
     const {user, setUser} = useContext(AccountContext) ;
+
+    const [email, setEmail] = useState('')
+    const [pwd, setPWD] = useState('')
 
     const [show, setShow] = React.useState(false)
     const handleClick = () => setShow(!show)
@@ -20,7 +23,7 @@ const Login = () => {
             headers: {
                 "Content-Type": "application/json",
             },
-            body: JSON.stringify({ email: 'user@example.com', password: 'password' }),
+            body: JSON.stringify({ email: email, password: pwd }),
         })
         .then(response => response.json())
         .then(data => {
@@ -40,9 +43,16 @@ const Login = () => {
             
             <VStack w='20%' h='100%' mt='20%'>
 
+                <h1>Lifting Analysis Login</h1>
+
                 <Input
                     pr='4.5rem'
-                    placeholder='Enter Username'
+                    placeholder='Enter Email'
+                    value={email} // Control the input's value with React state
+                    onChange={(e) => {
+                        console.log(e.target.value); // Log the current input value
+                        setEmail(e.target.value); // Update the state with the input value
+                    }}
                 />
 
                 <InputGroup size='md'>
@@ -50,6 +60,11 @@ const Login = () => {
                         pr='4.5rem'
                         type={show ? 'text' : 'password'}
                         placeholder='Enter password'
+                        value={pwd} // Control the input's value with React state
+                        onChange={(e) => {
+                            console.log(e.target.value); // Log the current input value
+                            setPWD(e.target.value); // Update the state with the input value
+                        }}
                     />
                     <InputRightElement width='4.5rem'>
                         <Button h='1.75rem' size='sm' onClick={handleClick}>
@@ -60,7 +75,7 @@ const Login = () => {
 
             </VStack>
         
-        <ButtonGroup>
+        <ButtonGroup mt='2.3%'>
             <Button
             onClick={() => {
                 submit()

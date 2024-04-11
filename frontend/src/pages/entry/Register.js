@@ -1,5 +1,5 @@
-import React from "react";
-import { AccountContext } from "../AccountContext";
+import React, { useState } from "react";
+import { AccountContext } from "../../AccountContext";
 import { useContext } from "react" ;
 import { useNavigate } from "react-router";
 import {Input, Box, VStack, InputRightElement, InputGroup, Button, HStack, ButtonGroup} from '@chakra-ui/react'
@@ -7,6 +7,10 @@ import {Input, Box, VStack, InputRightElement, InputGroup, Button, HStack, Butto
 const Login = () => {
 
     const {user, setUser} = useContext(AccountContext) ;
+
+    const [email, setEmail] = useState('')
+    const [pwd1, setpwd1] = useState('')
+    const [pwd2, setpwd2] = useState('')
 
     const [show, setShow] = React.useState(false)
     const handleClick = () => setShow(!show)
@@ -39,9 +43,16 @@ const Login = () => {
             
             <VStack w='20%' h='100%' mt='20%'>
 
+                <h1>Lifting Analysis Registration</h1>
+
                 <Input
                     pr='4.5rem'
-                    placeholder='Enter Username'
+                    placeholder='Enter Email'
+                    value={email} // Control the input's value with React state
+                    onChange={(e) => {
+                        console.log(e.target.value); // Log the current input value
+                        setEmail(e.target.value); // Update the state with the input value
+                    }}
                 />
 
                 <InputGroup size='md'>
@@ -49,6 +60,11 @@ const Login = () => {
                         pr='4.5rem'
                         type={show ? 'text' : 'password'}
                         placeholder='Enter password'
+                        value={pwd1}
+                        onChange={(e) => {
+                            console.log(e.target.value)
+                            setpwd1(e.target.value)
+                        }}
                     />
                     <InputRightElement width='4.5rem'>
                         <Button h='1.75rem' size='sm' onClick={handleClick}>
@@ -61,6 +77,11 @@ const Login = () => {
                         pr='4.5rem'
                         type={show ? 'text' : 'password'}
                         placeholder='Confirm password'
+                        value={pwd2}
+                        onChange={(e) => {
+                            console.log(e.target.value)
+                            setpwd2(e.target.value)
+                        }}
                     />
                 </InputGroup>
 
@@ -69,7 +90,11 @@ const Login = () => {
         <ButtonGroup>
             <Button
             onClick={() => {
-                submit()
+                if(pwd1 === pwd2){
+                    submit()
+                }else{
+                    // some flag
+                }
             }}>Register</Button>
             <Button
             onClick={() => {
