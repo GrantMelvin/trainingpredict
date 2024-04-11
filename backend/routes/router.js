@@ -1,19 +1,18 @@
 const express = require('express')
 const router = express.Router()
-
-console.log('3')
+const jwt = require('jsonwebtoken');
+require("dotenv").config();
 
 router
-    .route("/login")
+    .route("/register")
     .post(async (req, res) => {
         // User authentication logic here
-        console.log('yes')
         const { email, password } = req.body;
         // Assume we have a function that verifies the user's credentials
+        // Signup logic
         const user = true
-        
+        console.log(email)
         if (user) {
-            console.log('2')
             const token = jwt.sign(
                 { userId: user.id, email },
                 process.env.JWT_SECRET,
@@ -23,7 +22,7 @@ router
             );
             
             // Return the token. Alternatively, you can set it in an HTTP-only cookie
-            return res.status(200).json({ token });
+            return res.status(200).json({ token, email });
         } else {
             return res.status(400).send("Invalid Credentials");
         }
