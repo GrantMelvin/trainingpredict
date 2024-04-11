@@ -48,7 +48,8 @@ app.use(session({
     }
 }))
 
-app.use("/authRouter", verifyToken, router) ; 
+
+app.use("/", verifyToken, router) ; 
 
 // Confirms connection to dev
 server.listen(4000, ()=>{
