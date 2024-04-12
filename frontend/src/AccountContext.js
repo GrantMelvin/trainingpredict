@@ -35,7 +35,7 @@ const UserContext = ({ children }) => {
       })
       .then(data => {
         // Set the user data received from the server
-        setUser({ loggedIn: true, token: data.token, email: data.email });
+        setUser({ ...data});
       })
       .catch(error => {
         console.error('Error:', error);

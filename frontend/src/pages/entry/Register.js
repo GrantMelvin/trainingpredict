@@ -39,9 +39,9 @@ const Login = () => {
     }
 
     return (
-        <VStack w='100%' h='100%'>
+        <VStack w='100bw' h='100vh'>
             
-            <VStack w='20%' h='100%' mt='20%'>
+            <VStack w='20%' h='100%' mt='10%'>
 
                 <h1>Lifting Analysis Registration</h1>
 
@@ -84,23 +84,23 @@ const Login = () => {
                         }}
                     />
                 </InputGroup>
-
+                <ButtonGroup>
+                    <Button
+                    onClick={() => {
+                        if(pwd1 === pwd2){
+                            submit()
+                        }else{
+                            // some flag
+                        }
+                    }}>Register</Button>
+                    <Button
+                    onClick={() => {
+                        navigate('/Login')
+                    }}>Login</Button>
+                </ButtonGroup>
             </VStack>
         
-        <ButtonGroup>
-            <Button
-            onClick={() => {
-                if(pwd1 === pwd2){
-                    submit()
-                }else{
-                    // some flag
-                }
-            }}>Register</Button>
-            <Button
-            onClick={() => {
-                navigate('/Login')
-            }}>Login</Button>
-        </ButtonGroup>
+        
         
         </VStack>
     );

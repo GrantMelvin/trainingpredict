@@ -1,9 +1,9 @@
 const express = require('express')
-const router = express.Router()
+const unsecureRouter = express.Router()
 const jwt = require('jsonwebtoken');
 require("dotenv").config();
 
-router
+unsecureRouter
     .route("/Register")
     .post(async (req, res) => {
         // User authentication logic here
@@ -19,7 +19,7 @@ router
         }
 });
 
-router
+unsecureRouter
 .route("/Login")
 .post(async (req, res) => {
     // User authentication logic here
@@ -42,4 +42,4 @@ router
     }
 });
 
-module.exports = router 
+module.exports = unsecureRouter 

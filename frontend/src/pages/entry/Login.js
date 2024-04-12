@@ -39,9 +39,9 @@ const Login = () => {
     }
 
     return (
-        <VStack w='100%' h='100%'>
+        <VStack w='100vw' h='100vh'>
             
-            <VStack w='20%' h='100%' mt='20%'>
+            <VStack w='20%' h='100%' mt='10%'>
 
                 <h1>Lifting Analysis Login</h1>
 
@@ -72,19 +72,19 @@ const Login = () => {
                         </Button>
                     </InputRightElement>
                 </InputGroup>
-
+                <ButtonGroup mt='2.3%'>
+                            <Button
+                            onClick={() => {
+                                submit()
+                            }}>Login</Button>
+                            <Button
+                            onClick={() => {
+                                navigate('/Register')
+                            }}>Register</Button>
+                </ButtonGroup>
             </VStack>
         
-        <ButtonGroup mt='2.3%'>
-            <Button
-            onClick={() => {
-                submit()
-            }}>Login</Button>
-            <Button
-            onClick={() => {
-                navigate('/Register')
-            }}>Register</Button>
-        </ButtonGroup>
+       
         
         </VStack>
     );

@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 const server = require("http").createServer(app);
 const helmet = require('helmet');
-const router = require('./routes/router');
+const unsecureRouter = require('./routes/unsecureRouter');
 const secureRouter = require('./routes/secureRouter')
 const session = require('express-session');
 const cookieParser = require('cookie-parser');
@@ -50,7 +50,7 @@ app.use(session({
 // Protect specific routes with JWT authentication
 app.use("/secure-route", verifyToken, secureRouter);
 
-app.use("/unsecure-route", router);
+app.use("/unsecure-route", unsecureRouter);
 
 // Use server.listen instead of app.listen when working with Socket.IO
 server.listen(4000, () => {
