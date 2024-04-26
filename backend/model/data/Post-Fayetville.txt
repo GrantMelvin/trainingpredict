@@ -1,21 +1,4 @@
 2020 Post-Fayetteville Training
-
-[START]
-New Dawson Mobility and foam rolling drills:
-90/90 breathing with foam roller between legs and KB on psoas 
-Bird Dogs - 2 sets of 10 reps or 5-6 second holds
-T-Spine rotations - 2 sets of 10 each side
-Hip Airplane - 3 sets of 3-4 reps 
-Hip Side-to-Side - 2 sets of 10 each side
-Hip Front-to-Back - 2 sets of 10 each side
-Pigeon Holds 
-New Dawson Bench Warmup drills:
-Unilateral Band Dislocations - 2 sets of 15 each arm
-Shoulder Dislocations - 2 sets of 10 - don’t continue these
-Y Pulls - depress and retract scapula, 3 sets of 10
-Stick to old bench warmup	
-[END]
-
 5/3/20
 Dawson Warmup
 Pause Comp Squat - 315x3x3@6 - right on target with RPE, trying to engage upper back and evenly descent as much as possible, pause needs to be longer next week
@@ -104,7 +87,7 @@ Neutral Grip Lat Pulldown - 175x4x6
 Rubber Grip Unilateral Cable Row - 110x4x10
 5/21/20
 Warmup
-Comp Bench Press - 305x1@9, 325x1@10, 290x2x2@9,10, 280x2x2@8,8.5 - slight overshoot on backoffs but very nice increase 
+Comp Bench Press - 305x1@9, 325x1@10, 290x2x2@9, 280x2x2@8 - slight overshoot on backoffs but very nice increase 
 High Bar Squat - 330x3x7@7 - hard but okay sets 
 5/23/20
 Mobility, Warmup
@@ -120,10 +103,10 @@ Seated Dumbbell Overhead Press - 55x4x8
 Rear Delt Flys - 85x4x12
 Dumbbell Curls - 40x3x8
 Tietz Rope Extension - 47.5x4x8
-5/26/20 - 11:50-1:40
+5/26/20
 Mobility, Warmup
-Pause Comp Squat - 315x3x3@<6 - wider stance feels much better with knee forward cue 
-Comp Bench Press - 245x3x3@<6 - need to make a variation in future
+Pause Comp Squat - 315x3x3@6 - wider stance feels much better with knee forward cue 
+Comp Bench Press - 245x3x3@6 - need to make a variation in future
 Hip Adductor - 210x4x15
 Hip Abductor - 155x4x15
 5/27/20
@@ -140,7 +123,7 @@ Comp Squat - 455x1, 475x1@8, 515x1@9.5, 455x2x2@9, (-11%)405x2x3
 Comp Bench Press - 275x4x4@8,8.5,9,10
 6/1/20
 No moblity
-Comp Squat - 405x1@<6, 315x3x5@<6 - all easy and great feeling
+Comp Squat - 405x1@6, 315x3x5@6 - all easy and great feeling
 Comp Bench - 275x1@6
 Closer Grip Bench Press - 225x3x6@
 Neutral Grip Lat Pulldown - 120x3x8
@@ -153,7 +136,7 @@ Unilateral Bicep Curls - 25x3x8
 6/4/20
 Foam Rolling, Mobility, Warmup
 SSB Squat - 330x1@6.5, 240x3x3 - decided to get some practice before ssb starts next block
-Comp Bench Press - 285x1@7.5, 255x3x2@ - single was slightly higher rpe than anticipated because of 2 second pause and new equipment
+Comp Bench Press - 285x1@7.5, 255x3x2- single was slightly higher rpe than anticipated because of 2 second pause and new equipment
 Rope Tricep Extensions - 50x4x10
 Face Pulls - 30x3x12
 6/8/20
@@ -174,7 +157,7 @@ Alternating Bicep Curls - 30x3x12
 No Mobility 
 Comp Squat - 405x2, 425x3@7.5, (-15%)365x4x4 - death.
 No accessories because of taxing day beforehand
-6/11/20 - 220.6 BW
+6/11/20
 Comp Bench Press - 275,285,295x1, 255x5, (-19%)235x2x7 - last set felt the best despite fucking up so much, just need feet towards head another inch and to depress scapula more
 Bent Over Rows - 155x3x8
 Rope Tricep Extensions - 30x3x10
@@ -187,7 +170,7 @@ Larsen Press - 245x3@6.5, 230x3x6 - I was literally half off of the bench on top
 Beltless Comp Deadlift - 405,425,455@6.5, (-10%)410x3x3 - fucked setup on top set but still moved fine 
 6/15/20
 No mobility
-High Bar Squat - 405x1@7, 355x3x5@ - single was very solid 
+High Bar Squat - 405x1@7, 355x3x5 - single was very solid 
 Comp Deadlift - 455x5@7, 425x3x7 - 10lb PR set of 5, 20lb PR sets of 7, all very sub max since adaptation has occurred since last Monday, just think of the sets as three doubles and a single and it’s so much easier 
 Dumbbell RDL - 20x4x12
 Belt Squat - 35x3x12 - easier than last week forsure
@@ -227,7 +210,7 @@ Hammer Curls - 40x3x12
 Foam Rolling, Mobility, Warmup
 Comp Squat - 405x2, 415,455x1, 385x3x3, 365x3 - going off of 425 for the double, everything feels so slow and off
 Belt Squat - 45x4x10
-Reverse-Hyper - 50x3x12
+Reverse Hyper - 50x3x12
 Banded Hyperextensions - 3x12
 6/25/20
 Foam Rolling, Mobility, Warmup
@@ -296,7 +279,7 @@ Dumbbell RDL - 55x3x8
 Leg Extensions - 110x3x12
 7/14/20
 Mobility, Warmup
-Comp Bench Press - 295@tendonitis, 245x3x3@6-8, (-10%)230x3 - hurts like a bitch
+Comp Bench Press - 295, 245x3x3@6-8, (-10%)230x3 - hurts like a bitch
 Incline Hammer Press - 140x3x8
 V-Bar Tricep Extensions - 52.5,57.5,62.5,67.5x4x8
 Cable Curls - 32.5x3x12
@@ -307,7 +290,7 @@ Comp Squat - 495@9, 475@10 - missed Saturday technique session and just feels fu
 Leg Extensions - 150x3x12
 7/18/20
 Mobility, Warmup
-Comp Bench Press - 275@6-7, 255x4x5@6-9 - tendonitis was tolerable today
+Comp Bench Press - 275@6-7, 255x4x5@6/9 - tendonitis was tolerable today
 Wide Grip Cable Curl - 47.5x4x10
 Wide Grip Tricep Extension - 42.5+10kg each set for 5 sets of 8
 7/19/20
@@ -317,7 +300,7 @@ Larsen Press - 275x2@9, 245x4x4 - double was very well executed and backoffs fee
 7/27/20 - first day back from vacation
 10 min bike warmup
 Mobility, Warmup ( added Dawson elbow warmup for squat ) 
-Comp Squat - 405x1@5, 365x7@<6, (-12%)320x2x6 - top set of 7 is going to take some adjusting....
+Comp Squat - 405x1@5, 365x7@6, (-12%)320x2x6 - top set of 7 is going to take some adjusting....
 3:1:0 Tempo Comp Bench Press - 275@7, 245x3x3@6 - using belt to try and increase tightness, nope didn’t do that past 185, can use same rep weight for next week and be fine
 Single Arm T-Bar Row - 70x3x12 - can add dramatically next week, pack lat and squeeze 
 Wide Grip Cable Curl - 42.5x3x12
@@ -325,14 +308,14 @@ Rope Tricep Extensions - 42.5x3x12
 Wide Grip Lat Pulldown - 50x3x12
 7/28/20
 Mobility, Warmup - added shoulder t nation movement and unilateral kneeling KB press
-Comp Bench Press - 285@6-6.5, 245x3x5@<6-6 - foot position needs to be straight forward and wide relative to previous positions, position>speed
-Flat Dumbbell Feet-Up Bench Press - 50x3x12 - very easy actually
+Comp Bench Press - 285@6-6.5, 245x3x5@6 - foot position needs to be straight forward and wide relative to previous positions, position>speed
+Flat Dumbbell Feet Up Bench Press - 50x3x12 - very easy actually
 Rope Tricep Extensions - 42.5x3x10 
 Face Pulls - 42.5x3x15
 Lat Pulldown - 65x3x12
 7/30/20
 10 min bike warmup, Mobility, Warmup
-Comp Deadlift - 405x6@I could’ve done 35 reps - technically felt perfect and great starting point
+Comp Deadlift - 405x6@5 - technically felt perfect and great starting point
 Candito Deadlift - 315x3x5 - need to do beltless but feels amazing on quads
 Spoto Press - 245,255,265x2 - foot position feels great, stick to wider foot position for stability and Spoto will take time to get used to ( trying to bring it to chest every rep and looks unnatural ) 
 Dumbbell RDL - 55x3x10
@@ -340,12 +323,12 @@ Goblet Split Squats - 25x3x10 - feels so much more stable in a front goblet posi
 7/31/20
 10min bike warmup 
 Mobility, Warmup
-Pause Comp Squat - 405@<6, (-10%)365x2x4 - very technically sound, Backoffs the bar kept sliding down back even with a7 shirt and very annoying
+Pause Comp Squat - 405@6, (-10%)365x2x4 - very technically sound, Backoffs the bar kept sliding down back even with a7 shirt and very annoying
 Comp Bench Press - 280@6, 265x3@6, (-5%)250x2x2, (-5%)240x2x3 - every set felt very technically solid
 Incline Dumbbell Bench Press - 60x3x12
 8/1/20
 10min bike ride 64cal, Mobility, Warmup
-High Bar Squat - 385@<6-6, 335x3x4@<6 - easy just hurts as a third day
+High Bar Squat - 385@6, 335x3x4@6 - easy just hurts as a third day
 Comp Deadlift - 445,455,455,460,460x1 - all fucking easy, wedging is best it’s ever been by using the hips cue pre-knee
 Close Grip Bench Press - 235x7@5-6, (-10%)215x2x6 - extremely smooth and easy
 Triset:
@@ -371,9 +354,3 @@ Spoto Press - 245x4x3 - money and no tendonitis
 Paused Comp Squat - 425@7.5-8, 365x3x3 - flats for first time and feel great 
 Comp Bench - 285x3x1, 285x3AMRAP, (82%/311E1rm)255x2x2
 Comp Deadlift - 475x2x1, 485x2x1, 495x1 - tired af going into it but easy
-
-
-￼
-
-
-
