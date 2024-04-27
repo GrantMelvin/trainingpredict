@@ -1,508 +1,508 @@
 ,Date,Exercise,Weights,Sets,Reps,RPE,Notes,Mobility
-0, 5/31/19,dips,[45.0],[3],[8],[None],very difficult rpe10 every set,
-1, 6/2/19,tng bench,[185.0],[3],[10],[None],rpe6 sleeved without much leg drive and quality sleep,
-2, 6/2/19,beltless high bar,[275.0],[3],[8],[None],"feels very good considering sleep schedule, rpe8",
-3, 6/3/19,comp bench,[195.0],[3],[10],[None],rpe8 good and smooth,
-4, 6/3/19,pause beltless sumo deadlift,"[425.0, 375.0]","[1, 4]","[1, 5]","[None, None]",smooth but heavy,
-5, 6/4/19,close grip bench,[185.0],[3],[8],[None],rpe8 smooth,
-6, 6/4/19,beltless pause low bar squat,"[385.0, 345.0]","[1, 4]","[1, 3]","[None, None]",every rep rpe10 felt awful couldn’t do 355 for any sets,
-7, 6/7/19,comp bench,[230.0],[6],[3],[None],"felt good rpe7.5, toes instead of heels felt bad, head down felt better than head up",
-8, 6/7/19,conventional beltless deadlift,[345.0],[2],[9],[None],back fatigued feels good with rolling technique,
-9, 6/9/19,tng bench,[195.0],[3],[12],[None],"sleeveless, sets in rpe 8,9,10",
-10, 6/9/19,beltless high bar,[280.0],[3],[9],[None],"every set hard, technique failing at the 8th and 9th rep / last set is most sound",
-11, 6/10/19,comp bench,[205.0],[3],[10],[None],"sleeved, first set rpe8, last 2 sets rpe10 fatigued from yesterday bench session",
-12, 6/10/19,beltless pause sumo deadlift,[395.0],[5],[5],[None],"had to psychologically arouse for every set, set 1/3 rpe7, set 4/5 rpe 9",
-13, 6/10/19,incline dumbbell bench,[55.0],[3],[12],[None],short rest periods rpe6,
-14, 6/12/19,beltless pause low bar squat,[345.0],[5],[3],[None],so smooth and felt better than any other week,
-15, 6/12/19,close grip bench,[190.0],[3],[9],[None],"very easy rpe 6,7,7 sleeveless",
-16, 6/19/19,come bench,"[215.0, 270.0]","[1, 1]","[10, 1]","[None, None]","10 set was rpe 8, single was misgrooved but fast",
-17, 6/19/19,beltless pause sumo,"[455.0, 365.0]","[1, 2]","[1, 5]","[None, None]","easy rpe 9 single and sets were difficult, single and first backoff set was strapless",
-18, 6/20/19,beltless pause low bar squat,"[405.0, 315.0]","[1, 3]","[1, 3]","[None, None]","single was good pause and fast,  taxing but fast",
-19, 6/21/19,comp bench,[225.0],[4],[3],[None],"felt slow, not feeling good generally today / slow and sluggish",
-20, 6/21/19,beltless conventional deadlift,[315.0],[1],[8],[None],felt very strong despite stomach ache,
-21, 6/24/19,comp bench,[205.0],[5],[8],[None],felt really good with sore lats,
-22, 6/24/19,beltless sumo deadlift,"[475.0, 385.0]","[1, 5]","[1, 3]","[None, None]","deadlift party had to max, missed 515 because of strength and mis positioning / working sets felt solid, just extreme lat soreness from tubing",
-23, 6/24/19,inverted rows,[0.0],[5],[8],[None],no weight because of late,
-24, 6/24/19,incline dumbbell press,[60.0],[3],[8],[None],no weight increase because of soreness,
-25, 6/25/19,close grip bench,[225.0],[5],[3],[None],"sleeveless, smooth, all sets rpe 7, trying to aim lower on chest for highest point",
-26, 6/25/19,beltless low bar squat,[320.0],[3],[5],[None],very smooth with closer stance despite extreme erector fatigue,
-27, 6/27/19,wide grip rdl,[275.0],[5],[5],[None],"good weight, hard to keep positioning",
-28, 6/28/19,comp bench,[215.0],[5],[5],[None],"left shoulder flaring up, felt smooth with heels up",
-29, 6/28/19,beltless conventional deadlift,[345.0],[5],[5],[None],felt smooth and explosive,
-30, 6/28/19,incline dumbbell flys,[25.0],[4],[10],[None],increase by 10lb next week,
-31, 6/28/19,incline dumbbell press,[65.0],[4],[10],[None],solid sets,
-32, 6/29/19,tng bench,[205.0],[4],[10],[None],"sleeveless, rpe 7,8,10,  each set respectively",
-33, 6/29/19,beltless high bar,[275.0],[3],[10],[None],"smooth, very hard and tiring",
-34, 6/29/19,band face pulls,[5.0],[1],[30],[None],40,
-35, 6/29/19,alternating hammer curls,[30.0],[5],[10],[None],"too easy, 35s next 5x10",
-36, 7/1/19,comp bench,"[250.0, 215.0]","[1, 4]","[1, 8]","[None, None]","single was rpe 6, sets rpe 7, 8, 9, 10",
-37, 7/1/19,beltless sumo deadlift,"[445.0, 410.0]","[1, 4]","[1, 3]","[None, None]","single felt heavy, possibly too heavy jumps in warmups, be more aggressive off the floor and flip head up to accelerate",
-38, 7/1/19,incline dumbbell bench,[60.0],[3],[12],[None],"very easy, strength progressing well",
-39, 7/2/19,close grip bench,[230.0],[4],[3],[None],should’ve done 235 easy,
-40, 7/2/19,beltless low bar squat,"[410.0, 345.0]","[1, 3]","[1, 5]","[None, None]",find correct knee position without belt,
-41, 7/2/19,bulgarian split squats,[0.0],[3],[10],[None],slow eccentric focus contraction,
-42, 7/4/19,inverted rows,[25.0],[4],[15],[None],set on knees for more even pulling,
-43, 7/5/19,comp bench,[225.0],[5],[5],[None],"very smooth, good difficulty, rpe 7/8 all sets",
-44, 7/5/19,incline dumbbell bench,[60.0],[4],[10],[None],"since added 10lb to flys, keeping press a little lower than last weeks 65lb",
-45, 7/7/19,comp bench,[225.0],[3],[8],[None],"smooth with sleeves, rpe 8,9,10",
-46, 7/7/19,beltless sumo deadlift,[430.0],[3],[3],[None],"very very easy, rpe 7 all sets",
-47, 7/7/19,incline dumbbell bench,[65.0],[3],[12],[None],smooth all rpe 8,
-48, 7/7/19,machine preacher curls,[90.0],[3],[10],[None],good starting weight,
-49, 7/9/19,close grip bench,"[295.0, 245.0]","[1, 3]","[1, 3]","[None, None]","smooth, was shaking from excitement but flew up, single was pause and 20lb pr",
-50, 7/9/19,side lateral,[30.0],[4],[12],[None],good weight,
-51, 7/12/19,comp bench,"[295.0, 240.0]","[1, 5]","[1, 5]","[None, None]","sets easy, all smooth",
-52, 7/12/19,beltless conventional deadlift,"[455.0, 415.0]","[1, 3]","[1, 5]","[None, None]","single was smooth but slow, sets are slow and hard, rpe 10 all the way through, upper back isn’t tight enough and hips are rising too early",
-53, 7/15/19,comp bench,"[280.0, 185.0]","[1, 2]","[1, 8]","[None, None]","single rpe 7.5 long pause, bench progressing great",
-54, 7/15/19,beltless sumo deadlift,"[495.0, 395.0]","[1, 1]","[1, 3]","[None, None]",single moved at rpe 9 but was 9.5 very smooth,
-55, 7/16/19,close grip tng sleeved bench,"[300.0, 225.0]","[1, 3]","[1, 3]","[None, None]",sets were feet up and pause but still with sleeves,
-56, 7/18/19,comp bench,"[255.0, 215.0]","[1, 2]","[5, 5]","[None, None]","rep pr was rpe 10,  rpe 7",
-57, 7/18/19,beltless conventional deadlift,[345.0],[2],[5],[None],smooth and good technique,
-58, 7/18/19,incline dumbbell flys,[20.0],[4],[10],[None],deload week,
-59, 7/18/19,incline dumbbell bench,[50.0],[4],[10],[None],deload week,
-60, 7/19/19,tng bench,"[275.0, 205.0]","[1, 2]","[1, 8]","[None, None]","single was rpe 8 but slower than anticipated, all done with belt and felt decent",
-61, 7/19/19,beltled sleeveless high bar,[0.0],[1],[0],[None],"left shoulder irritation too high, calves too sore to come out of the hole, not worth the risk of injury, need to adjust squat numbers",
-62, 7/19/19,face pulls,[32.5],[5],[30],[None],40,
-63, 7/21/19 ,comp squat,[370.0],[4],[5],[None],"first time with belt in 2 months, very hard but smooth sets, extremely hard",
-64, 7/21/19 ,comp bench,[205.0],[3],[7],[None],"very easy and smooth, using thick plates as well, positioning is good and timing is on, all sets rpe 6/7",
-65, 7/22/19,comp deadlift,[425.0],[3],[4],[None],"first time belted sumo in 2 months, feels smooth but hard, shoulders need to be above the bar not in front",
-66, 7/22/19,comp bench,[225.0],[4],[5],[None],"in power rack i hate this, smooth and easy",
-67, 8/5/19 ,comp squat,"[365.0, 315.0]","[1, 3]","[1, 2]","[None, None]","single was rpe 6/7, everything moving fast but technique and cns isn’t there, sets were rpe 6",
-68, 8/5/19 ,comp bench,"[275.0, 245.0, 225.0]","[1, 3, 3]","[1, 2, 5]","[None, None, None]","single was rpe 10 but not bad at all, doubles were fast rpe 8, 5’s were challenging but smooth",
-69, 8/5/19 ,overhead press,"[155.0, 135.0]","[2, 2]","[1, 3]","[None, None]","first single was fast with normal grip, wider isn’t better, sets are okay but ab is cramping every time",
-70, 8/5/19 ,sitting calves,[45.0],[5],[10],[None],pause at the bottom very easy to help soreness,
-71, 8/6/19,comp deadlift,"[475.0, 515.0, 555.0]","[1, 1, 1]","[1, 1, 0]","[None, None, None]","got 555 off ground but just not there yet, previous singles flew",
-72, 8/8/19,overhead press,[175.0],[1],[1],[None],"absolute max, 10 second rep with sleeves",
-73, 8/9/19,comp squat,"[405.0, 315.0]","[1, 3]","[1, 3]","[None, None]","still readjusting to belted, will take more time",
-74, 8/12/19,comp squat,[370.0],[4],[5],[None],"so much easier than last time with this workout, deloading payed off",
-75, 8/13/19,comp deadlift,[425.0],[3],[4],[None],hard time breathing and bracing,
-76, 8/13/19,comp bench,[225.0],[4],[5],[None],smooth just fatigued from deadlifts,
-77, 8/13/19,bent over rows,[185.0],[3],[6],[None],irritates hip injury,
-78, 8/15/19,comp squat,[345.0],[3],[7],[None],"power is there, conditioning is terrible, smooth sets just hard",
-79, 8/15/19,overhead press,[100.0],[2],[8],[None],sleeveless but with a belt,
-80, 8/17/19,comp bench,[230.0],[3],[4],[None],smooth but will slide without a7 shirt,
-81, 8/17/19,pause sumo belted deadlift,[375.0],[2],[3],[None],smooth as can be after walking 3 miles today because of car,
-82, 8/17/19,bent over rows,[185.0],[4],[5],[None],easy not irritating hip as much,
-83, 8/19/19,comp squat,[375.0],[5],[5],[None],smoother than last week even with minor back fatigue and new gym environment,
-84, 8/19/19,comp bench,[215.0],[4],[7],[None],weird bench setup but it as similar as possible to a comp bench that i have access to,
-85, 8/19/19,close grip bench,[205.0],[4],[6],[None],very hard because of squat and bench fatigue beforehand,
-86, 8/20/19,comp deadlift,[435.0],[4],[4],[None],"smooth but very hard, start with head more upright to avoid discomfort and pull shoulders back",
-87, 8/20/19,comp bench,[225.0],[5],[5],[None],chest is sore but is still smooth and rpe 7/8,
-88, 8/22/19,comp squat,[355.0],[4],[7],[None],"rpe 10 last 3 sets, form breakdown on last set, should’ve taken extra day off but got it done",
-89, 8/22/19,overhead press,[95.0],[3],[8],[None],"beltless, too out of breathe and dizzy to put it back on after squats / a rest day would’ve been smart",
-90, 8/22/19,t bar row,[90.0],[4],[10],[None],"again, wanted to do more but fatigue is too high",
-91, 8/26/19,comp bench,"[275.0, 235.0]","[1, 4]","[1, 4]","[9.0, None]",feeling smooth without bar grip shirt,
-92, 8/26/19,close grip bench,[225.0],[2],[3],[None],hard and foreign,
-93, 8/26/19,belted pause sumo deadlift,[375.0],[2],[3],[None],feels good just hamstring issues,
-94, 8/28/19,comp squat,[455.0],[1],[1],[8.5],smooth but felt so heavy due to lack of singles,
-95, 8/28/19,comp bench,"[285.0, 220.0]","[1, 4]","[1, 7]","[9.5, None]","single was smooth and felt solid, sets were smooth but tough",
-96, 8/29/19,comp bench,[235.0],[5],[5],[None],smooth and doable,
-97, 8/29/19,hamstring curl,[110.0],[3],[6],[None],"extreme discomfort, obviously something is wrong",
-98, 9/2/19 ,comp squat,"[380.0, 325.0]","[3, 2]","[3, 5]","[None, None]",focused on getting confidence back on squats,
-99, 9/2/19 ,comp bench,"[230.0, 195.0]","[4, 1]","[3, 10]","[None, None]","smooth as usual, nothing interesting without a7 shirt,  were supposed to be 2x5 but it was stupid easy anyways",
-100, 9/2/19 ,stiff legged deadlift,[225.0],[4],[9],[None],these just fucking suck,
-101, 9/3/19,comp deadlift,"[415.0, 355.0]","[3, 2]","[3, 5]","[None, None]","smooth but hard, still adjusting to belt",
-102, 9/3/19,2sec pause bench,[225.0],[3],[4],[None],wanted 235 but fatigue from faster pace is too much,
-103, 9/3/19,comp squat,[315.0],[2],[5],[None],so fatigued,
-104, 9/3/19,t bar row,[200.0],[4],[10],[None],10lb unloaded each side in machine area,
-105, 9/5/19,2ct pause squats,[345.0],[4],[4],[None],good starting point and fit rpe 8 very well,
-106, 9/5/19,comp bench,[205.0],[6],[5],[None],rpe 6/7 for all sets,
-107, 9/5/19,feet up bench,[195.0],[4],[5],[None],rpe 6.5 but new positioning to adjust to,
-108, 9/5/19,comp deadlift,[340.0],[2],[5],[None],hamstring still irritated but new texas bar is nice,
-109, 9/8/19 ,pause deadlifts,[365.0],[4],[4],[None],going off of 4 hours of sleep total / switching to beltless,
-110, 9/8/19 ,tng bench,[225.0],[3],[6],[None],very heavy since sleep and am exhausted,
-111, 9/8/19 ,close grip incline bench,"[135.0, 155.0]","[1, 3]","[8, 8]","[None, None]",different but the rom is massive,
-112, 9/10/19,comp squat,"[390.0, 335.0]","[4, 1]","[3, 5]","[None, None]","new bar, feels very different, not getting a lot of rebound out of the hole to avoid hip pain, smooth but mentally very difficult, technique felt different on every rep, had to cut the last back off / too fatigued and tired",
-113, 9/10/19,comp bench,"[240.0, 205.0]","[5, 3]","[3, 5]","[None, None]","incredibly fatigued from squats, having a hard time firing on all cylinders, cutting sldl and ab work / too exhausted",
-114, 9/11/19,beltless deadlift,"[500.0, 425.0]","[1, 4]","[1, 3]","[None, None]","did 500 for a single instead of the 2  sets just to readjust to heavy weight, beltless feels infinitely better",
-115, 9/11/19,comp bench,"[300.0, 250.0]","[1, 4]","[1, 3]","[None, None]","single felt very smooth, may have gotten a pound of resistance help from spotter but extemely minimal, sets were very smooth and doable",
-116, 9/13/19,pause squats,[365.0],[5],[3],[None],"fairly smooth, pretty difficult but form is 90% there",
-117, 9/13/19,comp bench,[210.0],[4],[6],[None],did 4x6 instead of 6x4 because it’s easy,
-118, 9/13/19,feet up bench,[225.0],[3],[4],[None],tng but difficult still,
-119, 9/13/19,comp deadlift,[355.0],[3],[5],[None],hip hurting badly but sets are fine,
-120, 9/14/19,pause deadlifts,[385.0],[5],[3],[None],"positioning is much smoother, smoothest deadlift sets of the fucking prep the fire is back im back, hip pain is 7/10, pain started becoming noticeable after 3rd set even though all of the sets were rpe 6",
-121, 9/14/19,tng bench,"[275.0, 205.0]","[1, 3]","[1, 12]","[None, None]","tng feels harder than comp bench for singles, failed very last rep of the sets, just too fatigued and didn’t take long enough of a rest, no big deal",
-122, 9/14/19,close grip incline bench,[160.0],[4],[7],[None],easy money,
-123, 9/17/19,comp squat,"[410.0, 340.0]","[5, 2]","[2, 4]","[None, None]","adjusting to heavier loads very well, doesn’t feel bad, best squat session of the prep",
-124, 9/17/19,comp bench,"[285.0, 250.0, 225.0]","[1, 5, 2]","[1, 2, 4]","[None, None, None]","easy as usual, nothing special",
-125, 9/17/19,sldl,[185.0],[4],[8],[None],very good weight,
-126, 9/18/19,comp deadlift,"[445.0, 375.0]","[5, 2]","[2, 4]","[None, None]","comfortable, not a ton of pain but need to lockout more",
-127, 9/18/19,comp bench,[250.0],[3],[3],[None],easy and casual,
-128, 9/18/19,comp squat,[0.0],[1],[0],[None],"irritated hip, hamstring, knee, everything",
-129, 9/20/19,comp squat,"[455.0, 475.0]","[1, 1]","[1, 1]","[None, None]",475 was faster than 455 off of 4 hours of sleep,
-130, 9/20/19,comp bench,"[275.0, 225.0]","[1, 6]","[1, 3]","[None, None]","slight elbow discomfort, possible tendonitis but very manageable",
-131, 9/20/19,feet up bench,[230.0],[4],[3],[None],much easier than last week,
-132, 9/20/19,comp deadlift,[370.0],[2],[5],[None],"didn’t do, irritated hip from 135 warmup, need sleep and add to next non deadlift day",
-133, 9/23/19,comp squat,"[405.0, 355.0]","[4, 3]","[3, 4]","[None, None]","elbows up, rebound trick, have hips and shoulders even until the hole and then intentionally drop hips as fast as comfortable, no set was a complete rpe 10, most were 9/9.5",
-134, 9/23/19,comp bench,"[275.0, 245.0, 225.0]","[1, 5, 3]","[1, 3, 4]","[None, None, None]","single was awful lift off and 3 sec pause and still flew, all sets rpe 8/8.5",
-135, 9/25/19,comp deadlift,"[440.0, 440.0]","[1, 1]","[3, 2]","[None, None]","flu like symptoms yesterday and today but the fire is there, back popped on second set no more",
-136, 9/25/19,comp bench,[225.0],[4],[4],[None],felt bad because of back,
-137, 9/30/19 ,comp squat,"[425.0, 295.0]","[1, 6]","[2, 5]","[None, None]","went for a top triple but it wasn’t there, no fail just not strong enough first day back",
-138, 9/30/19 ,come bench,"[265.0, 185.0]","[1, 7]","[2, 5]","[None, None]","first time i’m prep bench felt weak off the chest, barely got the double",
-139, 10/1/19,comp deadlift,"[475.0, 335.0]","[1, 1]","[2, 2]","[None, None]","belt makes everything move so much better, couldn’t get the triple, just not strong enough, hamstring irritated but nothing compared to earlier in prep, hamstring too irritated to do prescribed back off sets",
-140, 10/1/19,2ct pause bench,[245.0],[3],[4],[None],"smooth but so sore, trending upwards",
-141, 10/1/19,comp squat,[315.0],[3],[4],[None],hard so fatigued jesus christ,
-142, 10/3/19,pin squat,"[365.0, 315.0]","[1, 2]","[3, 4]","[None, None]","very solid triple, perfect weight, back offs perfect weight",
-143, 10/3/19,close grip bench,"[245.0, 225.0]","[1, 2]","[3, 3]","[None, None]",,
-144, 10/3/19,tng bench,"[245.0, 225.0]","[1, 2]","[3, 5]","[None, None]","245 too heavy without rewarming up, and stressed for time so that can’t happen",
-145, 10/4/19,comp deadlift,"[435.0, 385.0]","[1, 1]","[3, 1]","[None, None]",hip and hamstring too hurt for back offs,
-146, 10/4/19,feet up bench,[225.0],[4],[5],[None],difficult but doable,
-147, 10/7/19,comp squat,"[455.0, 315.0, 365.0, 405.0]","[1, 1, 1, 1]","[1, 3, 2, 1]","[None, None, None, None]","so tired, no preworkout, felt terrible i fucking hate this, had to adjust belt, back offs feel much better than top single",
-148, 10/7/19,comp bench,"[275.0, 245.0]","[1, 2]","[2, 3]","[None, None]",felt surprisingly good despite sleep loss,
-149, 10/8/19,comp deadlift,"[475.0, 425.0]","[1, 2]","[1, 2]","[None, None]","warmups flew, feeling good with tightened belt, back offs felt bad, be more aggressive off of the ground and all of your problems will go away",
-150, 10/8/19,comp bench,"[275.0, 255.0]","[1, 3]","[1, 3]","[None, None]",single was 2sec pause and smooth but difficult,
-151, 10/10/19,pin squat,"[405.0, 335.0]","[1, 2]","[2, 3]","[None, None]","positioning feeling great with slightly more upright chest in the hole, top double could be so much more with practice in this lift, just had to find balance off of the safeties and then it flew",
-152, 10/10/19,comp bench,[255.0],[2],[4],[None],"feeling improved from close previous sessions, need tighter arch, had to split the last set up into 3/1 because of inconsistent sleep",
-153, 10/11/19,comp deadlift,"[475.0, 405.0]","[1, 1]","[2, 1]","[None, None]","double was rpe 9.5, aggressiveness in the beginning of the pull fixed a lot of problems, back offs were cut short because of knee and hamstring ache, can’t risk pulling this close to comp",
-154, 10/11/19,tng bench,[245.0],[4],[4],[None],felt good with consistent setup but not like weeks ago when it was weightless,
-155, 10/14/19,comp squat,"[455.0, 325.0]","[1, 1]","[1, 3]","[None, None]","single was on the better side considering bad sleep the night before, fork chest in a more upright position to get more rebound out of the hole, could’ve hit 475 after but it would’ve been ugly",
-156, 10/14/19,comp bench,"[295.0, 225.0]","[1, 3]","[1, 3]","[None, None]",smooth single,
-157, 10/15/19,comp deadlift,"[455.0, 315.0]","[1, 1]","[1, 3]","[None, None]","fatigued from yesterday, so sick of training",
-158, 10/15/19,comp bench,"[275.0, 265.0]","[1, 2]","[2, 2]","[None, None]","top double was very fast,  were difficult because of mental climax on top set",
-159, 10/17/19,pin squat,"[440.0, 365.0]","[1, 2]","[1, 2]","[None, None]","single was rpe 9/9.5 smooth, everything in this prep is mental burnout and the strength is there",
-160, 10/17/19,comp bench,"[280.0, 265.0]","[1, 2]","[1, 2]","[None, None]","pr double with ammonia, first rep very smooth second one took a year",
-161, 10/19/19,comp deadlift,"[495.0, 405.0]","[1, 1]","[1, 3]","[None, None]","best single of prep no question, was rpe 8.5",
-162, 10/19/19,tng bench,[260.0],[2],[3],[None],"surprisingly easier than previous tng sessions, maybe even a rep pr",
-163, 10/21/19,comp squat,"[450.0, 390.0]","[1, 3]","[1, 2]","[None, None]","squat is such a shitshow, can’t decide on form and sleep is bad",
-164, 10/21/19,comp bench,"[270.0, 245.0]","[1, 3]","[1, 2]","[None, None]","warmups flying, dialed in, single was smooth, back off sets were solid, form coming back",
-165, 10/22/19,comp deadlift,"[470.0, 425.0]","[1, 2]","[1, 2]","[None, None]","opener was 8.5 even with soreness and ache from yesterday’s session,  were slower than anticipated but technically sound, knee/hip/hamstring ache",
-166, 10/22/19,comp bench,[245.0],[4],[1],[None],easy as it should be,
-167, 10/25/19 ,comp squat,"[406.0, 352.0]","[1, 2]","[1, 2]","[None, None]","single very heavy due to jet lag and lack of sleep, probably dropping opener 5kg",
-168, 10/25/19 ,comp bench,"[245.0, 225.0]","[1, 2]","[1, 2]","[None, None]",easy,
-0,12/15/19,high bar,"[345.0, 315.0]","[1, 4]","[6, 6]","[None, None]","top set was 7.5,  were technically sound, sets were rpe 7, 7.5, 7.5, 8, last set just lined up under the bar uneven but everything else was fine",jts squat mobility and warmup
-1,12/15/19,incline bench,[155.0],[3],[6],[None],sets done at rpe 6,jts squat mobility and warmup
-2,12/15/19,snatch grip deadlift,[225.0],[3],[15],[None],conditioning is fucking shit,jts squat mobility and warmup
-3,12/17/19,2” board press,"[245.0, 225.0]","[2, 2]","[6, 6]","[None, None]","feels good on positioning and no pain anywhere, sets were rpe 9,10,8,9",jts bench mobility and warmup
-4,12/17/19,comp deadlift,"[425.0, 380.0]","[1, 5]","[4, 4]","[None, None]","need to keep upper back slightly more straight, top set was rpe 8, back/offs were 7, 7.5, 7.5, 7, 7.5",jts bench mobility and warmup
-5,12/17/19,low bar pin squat,[275.0],[3],[6],[None],"trying not to irritate hip, zero hip irritation, all sets rpe sub 6",jts bench mobility and warmup
-6,12/19/19,high bar,[325.0],[4],[6],[None],"every set feels clean and absolutely no pain, in pocket, sets done in rpe 7, 7.5, 7.5,",jts squat mobility and warmup
-7,12/19/19,4” block pull,[335.0],[2],[4],[None],"felt good just very sore back so is a comfortable rpe 6, fully lockout since next competition is conventional",jts squat mobility and warmup
-8,12/19/19,military press,[115.0],[4],[6],[None],"sore shoulder but feels fine, sets done at rpe 6, 6, 6.5, 6.5",jts squat mobility and warmup
-9,12/21/19,comp bench,"[265.0, 170.0, 155.0]","[1, 1, 4]","[1, 6, 6]","[9.0, None, None]","single moved very very well considering the tolerance for singles isn’t there for bench anymore, all sets rpe sub 6",t spine and jts mobility and warmup
-10,12/21/19,skull crushers,[65.0],[3],[15],[None],"15lb bar assuming, slight pressure on elbow but very good tricep exercise",t spine and jts mobility and warmup
-11,12/23/19,high bar,"[355.0, 325.0]","[1, 4]","[8, 8]","[None, None]","great sets, no pain, everything rpe 8",t spine and jts mobility and warmup
-12,12/23/19,incline bench,[165.0],[3],[8],[None],"very smooth, all sets around rpe 7",t spine and jts mobility and warmup
-13,12/23/19,straight bar bicep curls,[60.0],[3],[15],[None],all sets rpe 7 or less,t spine and jts mobility and warmup
-14,12/23/19,snatch grip deadlift,[235.0],[2],[15],[None],"threw up after first set, cancelled last one, not worth it",t spine and jts mobility and warmup
-15,12/24/19,2” board press,"[225.0, 210.0]","[1, 3]","[8, 8]","[None, None]",did top set with a 1” board on accident and following sets with 2”,no mobility
-16,12/25/19,comp deadlift,"[405.0, 375.0, 360.0]","[1, 1, 4]","[6, 6, 6]","[None, None, None]","with soreness top set was still rpe 7.5, had to adjust fatigue after first backdown to “4” after the rpe 9.5 375lb set, technique is feeling completely dialed in, other backdown sets were rpe 8, 8, 7.5, 8, last set done without straps or chalk",jts mobility and warmup
-17,12/25/19,low bar pin squat,[295.0],[3],[8],[None],"warmups feeling amazing, facing away from mirror from now on, all sets were rpe 7",jts mobility and warmup
-18,12/27/19,comp squat,[315.0],[3],[5],[None],"positioning feels fantastic, warmups felt great, all sets rpe sub 6",t spine & jts mobility & warmup
-19,12/27/19,rdl,[335.0],[4],[7],[None],all sets done at rpe 7,t spine & jts mobility & warmup
-20,12/27/19,military press,[125.0],[3],[5],[None],all sets rpe 7,t spine & jts mobility & warmup
-21,12/28/19,comp bench,"[245.0, 200.0, 185.0]","[1, 1, 4]","[1, 5, 5]","[None, None, None]","top single was long pause and rpe 8, top set of 5 was rpe sub 6,  were all sub 6",t spine & jts mobility & warmup
-22,12/28/19,single arm face pulls,[30.0],[3],[15],[None],"all easy, do 2 hands in the future for better connection",t spine & jts mobility & warmup
-23,12/28/19,skull crushers,[70.0],[3],[15],[None],"a lot more comfortable than last week, rpe 7,8,9",t spine & jts mobility & warmup
-24,12/30/19,comp squat,"[350.0, 325.0]","[1, 4]","[6, 6]","[None, None]","top set was rpe sub 6, form felt entirely in pocket, back off sets were sub 6, 0 pain, torque feet outwards and slightly bend knees into position while staying over mid foot",t spine & jts mobility & warmup
-25,12/30/19,incline bench,[175.0],[3],[6],[None],"felt great on joints and muscles, sets were rpe 7, 7, 7",t spine & jts mobility & warmup
-26,12/30/19,preacher ez bar curls,[65.0],[3],[12],[None],assuming 15lb bar,t spine & jts mobility & warmup
-27,12/30/19,lat pulldown,[130.0],[3],[12],[None],"sets were rpe 7.5, 8, 8",t spine & jts mobility & warmup
-28,12/30/19,snatch grip deadlift,[255.0],[3],[10],[None],strength could handle way more reps but conditioning is the limiting factor,t spine & jts mobility & warmup
-29,12/31/19,2” board press,[225.0],[4],[6],[None],all sets rpe 7/7.5,t spine mobility & warmup
-30,12/31/19,rope tricep extensions,[105.0],[3],[12],[None],all sets rpe 7/7.5,t spine mobility & warmup
-31,1/1/20,conventional deadlift,"[525.0, 370.0, 345.0]","[1, 1, 3]","[1, 5, 5]","[None, None, None]","done after a bad night of drinking, internally rotate elbows to allow for better positioning, top set of 5 was rpe 7,  were sub 6 just tired from night/day activities, cancelled the last 2 sets of  since warmups for single accounted for some of that volume",t spine & jts mobility & warmup
-32,1/1/20,low bar pin squat,[315.0],[3],[6],[None],"rpe 7 sets, focus on eccentric and everything else will fall into place",t spine & jts mobility & warmup
-33,1/2/20,comp squat,[340.0],[3],[6],[None],"sets were rpe 7.5, 7, 6.5 because of bloating from food and poor sleep, lower back fatigue is definitely present, form still feels entirely in pocket , 0 hip pain feels great, sets got better and better","bike warmup since havent moved that much today - 12 min @ 4 intensity // slight hamstring soreness showing up, 2 miles total distance , foam rolling, bracing drills, jts mobility & warmup"
-34,1/2/20,rdl,[315.0],[4],[8],[None],"315 is perfect weight considering back soreness, lower back is shot after these sets","bike warmup since havent moved that much today - 12 min @ 4 intensity // slight hamstring soreness showing up, 2 miles total distance , foam rolling, bracing drills, jts mobility & warmup"
-35,1/2/20,military press,[130.0],[3],[6],[None],"sets were rpe 6.5, 7.5, 7.5","bike warmup since havent moved that much today - 12 min @ 4 intensity // slight hamstring soreness showing up, 2 miles total distance , foam rolling, bracing drills, jts mobility & warmup"
-36,1/4/20,comp bench,"[210.0, 195.0]","[1, 4]","[6, 6]","[None, None]","practicing new bar path and elbow position, needs some getting use to, extremely smooth sets, essentially a t/shirt press",no mobility
-37,1/4/20,face pulls,[75.0],[3],[15],[None],can feel rear delts much much more with 2 hand variation,no mobility
-38,1/4/20,skull crushers,[75.0],[3],[12],[None],feel slight tricep strain but bearable,no mobility
-39,1/6/20,comp squat,"[375.0, 350.0]","[1, 4]","[6, 6]","[None, None]","top set was rpe 7.5, felt great going into the session,  were rpe 6, 6.5, 7, 6.5, hip getting very very slightly uncomfortable towards the end, still no pain","jts mobility & warmup, bracing drills"
-40,1/6/20,incline bench,[185.0],[2],[6],[None],"touch n go for every rep except the last, sets were rpe 8, need to keep elbows tucked more than flat bench to keep shoulders safe","jts mobility & warmup, bracing drills"
-41,1/6/20,ez bar bicep curls,[70.0],[3],[12],[None],"all easy, biceps growing","jts mobility & warmup, bracing drills"
-42,1/6/20,lat pulldown,[130.0],[3],[12],[None],unilateral feels much better,"jts mobility & warmup, bracing drills"
-43,1/6/20,snatch grip deadlift,[275.0],[3],[10],[None],"conditioning is much better, felt solid","jts mobility & warmup, bracing drills"
-44,1/7/20,2” block bench,[230.0],[4],[6],[None],all sets rpe 7/7.5,t spine & shoulder mobility
-45,1/8/20,comp deadlift,"[390.0, 365.0]","[1, 5]","[5, 5]","[None, None]","warmups feel very smooth, top set was rpe 7, just trouble finding even grip, need to keep shoulders directly over the bar and not head/whip halfway through, hip position is fine but should avoid any lumbar rounding","foam rolling, bracing drills, jts mobility & warmup"
-46,1/8/20,low bar pin squat,[335.0],[2],[6],[None],"warmups are in pocket, fast, easy, smooth, controlled, in pocket, sets were rpe 6.5/7","foam rolling, bracing drills, jts mobility & warmup"
-47,1/9/20,comp squat,[365.0],[3],[6],[None],"second set much easier than first, hip and foot positioning feels fantastic, more difficult than should be because of lower back soreness but still very manageable, last rep was best rep",foam rolling and jts mobility & warmup
-48,1/9/20,rdl,[345.0],[3],[8],[None],"lower back is fucking blown up, reduce intensity slightly in the future to focus on form",foam rolling and jts mobility & warmup
-49,1/9/20,military press,[135.0],[3],[6],[None],"light headed every set and burns to brace but movement is smooth, sets were rpe 8, 8.5, 9",foam rolling and jts mobility & warmup
-50,1/9/20,comp bench,"[265.0, 225.0, 210.0]","[1, 1, 4]","[1, 6, 6]","[None, None, None]","setting arch much better and keeping elbows stable, let bar sink and not be a t/shirt press, technique and specificity in comp bench are the only issues, strength is there",foam rolling and jts mobility & warmup
-51,1/13/20,comp squat,"[405.0, 365.0]","[1, 4]","[6, 6]","[None, None]","top set was rpe 7.5, everything clicking, make it to the hole and fuck it up, 0 hip pain,  feeling very technically solid except for weight shifting forward as eccentric speed increases, 3rd back off set felt the cleanest up until this point, rest times are abnormally large because of the throwing up sensation i feel coming on",t spine and jts mobility & warmup
-52,1/13/20,incline bench,[190.0],[2],[6],[None],"bench on 4th hole, seat on 1st hole, lats feeling engaged and can contract harder since biceps were done first, sets were rpe 9",t spine and jts mobility & warmup
-53,1/14/20,2” board press,[235.0],[4],[6],[None],"sets rpe 7.5/8, not as much focus on elbows as i’d like but it’ll work for the day",no mobility
-54,1/14/20,snatch grip deadlift,[285.0],[3],[10],[None],still hate these,no mobility
-55,1/16/20,comp deadlift,"[410.0, 375.0]","[1, 5]","[5, 5]","[None, None]","top set was rpe 6.5, in pocket, almost no warmup because of time,  harder than top set, much better at keeping a consistent looking point, hip discomfort afterwards from not being able to warmup",no mobility
-56,1/16/20,low bar pin squat,[345.0],[2],[6],[None],feel amazing despite not eating anything and it being 4pm,no mobility
-57,1/17/20,comp squat,"[455.0, 385.0]","[1, 2]","[1, 6]","[None, None]","had to scratch the itch of a heavy single, was rpe 8 money, actual sets were,  feel great technically, just fatigued from single",no mobility
-58,1/17/20,rdl,[315.0],[3],[8],[None],very appropriate weight reduction from last week leading to much better form,no mobility
-59,1/17/20,military press,[140.0],[2],[6],[None],warmups flew like never before,no mobility
-60,1/18/20,comp bench,"[240.0, 220.0]","[1, 4]","[6, 6]","[None, None]","top set was rpe 9 despite thinking it would be much harder, wrap wrists more downward towards elbow from now on, slight elbow discomfort from squats yesterday",no mobility
-61,1/18/20,rope tricep extensions,[120.0],[3],[12],[None],swapped for skull crushers because of elbow tendonitis and discomfort,no mobility
-62,1/20/20,comp squat,"[425.0, 370.0]","[1, 3]","[5, 6]","[None, None]","combination of less rest days, yolo attempt that kept me from 6, 95lb pr for 5s, only did 3  instead of 4 because of squat rack complaint",no mobility
-63,1/20/20,incline bench,[195.0],[2],[6],[None],"rpe 10, need to deaload and get back at it next block",no mobility
-64,1/20/20,straight bar bicep curls,[80.0],[3],[12],[None],"use pinky’s at the beginning of the wider grip knurling to avoid discomfort and be in best position, all sets rpe 7/8",no mobility
-65,1/20/20,snatch grip deadlift,[295.0],[3],[10],[None],"rpe 7/8, conditioning is getting better",no mobility
-66,1/21/20,2” board press,[235.0],[4],[6],[None],"kept weigbt the same from last week due to overshoot, feels much better and much more in tune with rpe 8",no mobility
-67,1/22/20,comp deadlift,"[445.0, 395.0]","[1, 5]","[5, 5]","[None, None]","top weight was perfect choice, rpe 10 in pocket,  rpe 8 because slow and steady, 5x5 with 96% of my previous 5 rep max so not too bad",no mobility
-68,1/22/20,pin squat,[365.0],[2],[6],[None],"very very easy, just elbow discomfort, very in groove and have adapted to movement pattern at this point",no mobility
-69,1/22/20,lying hamstring curls,[115.0],[3],[12],[None],"deload needed, reset form",no mobility
-70,1/22/20,comp squat,[385.0],[3],[6],[None],"feeling lower back fatigue on 135, second set was smoother than 1st set for the 4th, 5th, and 6th reps, lower back is fried but decent sets",no mobility
-71,1/22/20,rdl,[315.0],[2],[8],[None],"lower back is cooked but trying to maintain weight, lat having a hard time staying tight towards the end of the first set",no mobility
-72,1/22/20,military press,[145.0],[2],[6],[None],first set was surprisingly an 8.5,no mobility
-73,1/25/20,comp bench,"[245.0, 225.0]","[1, 4]","[6, 6]","[None, None]",all easy new bench is amazing,no mobility
-74,1/25/20,face pulls,[47.5],[3],[15],[None],money,no mobility
-75,1/26/20,comp squat,[315.0],[3],[6],[None],late night session because of emotions.,no mobility
-76,1/26/20,incline bench,[170.0],[1],[6],[None],"weird incline setup but doable, incline on 2nd hole from top and bottom is flat",no mobility
-77,1/29/20,2’ board press,[205.0],[2],[6],[None],literally easiest thing ever,no mobility
-78,1/29/20,comp deadlift,[385.0],[3],[5],[None],"easy, lower back pump tho",no mobility
-79,1/29/20,pin squat,[315.0],[1],[6],[None],"slightly deeper than usual but it’s okay since this is the last session for these, last rep was best rep",no mobility
-80,1/30/20,comp squat,[330.0],[2],[6],[None],"easy, in pocket",no mobility
-81,1/30/20,rdl,[275.0],[1],[8],[None],very technically solid,no mobility
-82,1/30/20,military press,[125.0],[1],[6],[None],easy,no mobility
-83,2/3/20,comp squat,"[360.0, 335.0]","[1, 4]","[5, 5]","[None, None]",all sets consistently rpe 6 and smooth/fast and good positioning overall,"mobility & warmup, back extensions (2x10), no pre-workout"
-84,2/3/20,incline bench,[175.0],[3],[5],[None],"incline is in the middle hole while seat is flat, all reps this block on incline will be touch and go, not the increase in weight from last block i wanted because the setup is much different, rpe 8/8.5","mobility & warmup, back extensions (2x10), no pre-workout"
-85,2/3/20,snatch grip deadlift,[275.0],[3],[8],[None],"done on stiff bar, make a sand castle with my feet ( queue hip adductors )","mobility & warmup, back extensions (2x10), no pre-workout"
-86,2/5/20,2” board press,[230.0],[4],[5],[None],"rpe 6.5/7, very obvious adaptation was made, all reps tng",jts mobility & warmup
-87,2/5/20,comp deadlift,"[380.0, 355.0]","[1, 5]","[4, 4]","[None, None]","start with knees 1/2 inch more forward than usual makes a world of a difference with quad activation, all sets rpe 6/6.5",jts mobility & warmup
-88,2/5/20,pause low bar squat,[315.0],[3],[5],[None],"money, just need longer pauses",jts mobility & warmup
-89,2/6/20,comp squat,[345.0],[4],[5],[None],all smooth just feeling light headed and sickish,"foam rolling, jts mobility & warmup, 2x10 back extensions"
-90,2/6/20,rdl,[245.0],[1],[8],[None],"taking intensity back on these to use correct form, after first set just staying light headed, cutting last 3 sets","foam rolling, jts mobility & warmup, 2x10 back extensions"
-91,2/6/20,military press,[125.0],[3],[5],[None],wanted to do 135 but fatigue and sickness puts it here,"foam rolling, jts mobility & warmup, 2x10 back extensions"
-92,2/8/20,comp bench,"[245.0, 215.0, 200.0]","[1, 1, 4]","[1, 5, 5]","[6.0, None, None]","every set rpe sub 6, easy, first day back after illness and feels decent",no mobility
-93,2/13/20,comp squat,"[385.0, 360.0]","[1, 4]","[5, 5]","[None, None]","top set actually moved at maximum weight after 5 days off and 11lb bodyweight loss and was rpe 9,  hard as fuck","jts mobility & warmup, 2x10 ghr"
-94,2/13/20,incline bench,[185.0],[2],[5],[None],all tng because pauses would make my life too easy,"jts mobility & warmup, 2x10 ghr"
-95,2/14/20,2” board press,"[275.0, 235.0]","[1, 4]","[1, 5]","[8.0, None]","had to hit a single for the folks, easy, sets are rpe 7 money, benching feels better in slips",no mobility
-96,2/14/20,comp deadlift,"[405.0, 375.0]","[1, 5]","[4, 4]","[None, None]","top set destroyed hands, probably will need to use straps for other top sets this block,  felt very smooth and in pocket",no mobility
-97,2/14/20,low bar pause squat,[315.0],[3],[5],[None],"same weight as last week to improve pauses, much better pauses just dying from leg soreness",no mobility
-98,2/16/20,comp bench,"[135.0, 185.0, 225.0, 245.0, 275.0, 230.0, 215.0]","[1, 1, 1, 1, 1, 1, 4]","[10, 5, 1, 1, 1, 5, 5]","[None, None, None, None, None, None, None]","single was rpe 8, top set of 5 was easy,  easy, everything is good positioning/wise, focus on scapular repression","jts mobility & warmup, pvc pipe dislocations"
-99,2/16/20,military press,"[45.0, 95.0, 115.0, 135.0]","[1, 1, 1, 3]","[10, 5, 3, 5]","[None, None, None, None]","pretty difficult sets since done after bench, slight shoulder irritation","jts mobility & warmup, pvc pipe dislocations"
-100,2/17/20,comp squat,"[135.0, 225.0, 315.0, 365.0, 410.0, 375.0, 355.0]","[1, 1, 1, 1, 1, 1, 3]","[10, 5, 2, 1, 5, 5, 5]","[None, None, None, None, None, None, None]",top set suffered from lower back fatigue from working out bench 16 hours ago,"foam rolling, jts mobility & warmup, ghrx2x10, kettlebell hip warmups"
-101,2/17/20,football bar bench,"[130.0, 180.0]","[1, 2]","[5, 5]","[None, None]","can feel a lot more in chest, probably replacing incline bench, 40lb bar","foam rolling, jts mobility & warmup, ghrx2x10, kettlebell hip warmups"
-102,2/17/20,snatch grip deadlift,"[135.0, 225.0, 275.0, 295.0]","[1, 1, 1, 3]","[3, 3, 1, 8]","[None, None, None, None]",most technically sound sets of these so far in the program,"foam rolling, jts mobility & warmup, ghrx2x10, kettlebell hip warmups"
-103,2/19/20,2” board press,[240.0],[4],[5],[None],"these are legit rpe 6/6.5, prepare for 10lb jump next week","jts mobility & stretching, foam rolling"
-104,2/20/20,comp squat,[395.0],[3],[5],[None],"had to wrap quad with knee wrap to create tension for minor strain, last set was by far the easiest since i attacked the weight without actively queueing anything","jts mobility & warmup, 2x10each leg kettlebell side squats, 2x10 bw ghr"
-105,2/20/20,sldl,[225.0],[3],[8],[None],don’t want to irritate anything and lower back is already shot,"jts mobility & warmup, 2x10each leg kettlebell side squats, 2x10 bw ghr"
-106,2/20/20,military press,[140.0],[2],[5],[None],"warmups felt bad, quad is stinging on the un rack and shoulders feel beat","jts mobility & warmup, 2x10each leg kettlebell side squats, 2x10 bw ghr"
-107,2/21/20,comp bench,"[285.0, 245.0, 225.0, 275.0]","[1, 1, 4, 1]","[1, 5, 5, 1]","[9.5, None, None, 10.0]","first single was okay even with elbows feeling slightly out of position, got cold after single so top set was dookie rpe 10, positioning was fixed on , 275 done as a tester to see if warmup is the issue with top bench sets...it is not","jts mobility & warmup, 2x10 tricep extensions, iyt’s, 2x10 lat pulldown"
-108,2/24/20,comp squat,"[435.0, 365.0]","[1, 1]","[4, 1]","[None, None]","quad isn’t feeling 100%, switching programs after understanding my needs more","foam rolling, jts mobility & warmup, 2x10 ghr, 2x10 cossack squats"
-109,2/24/20,football bar press,"[185.0, 205.0, 225.0, 235.0]","[1, 1, 1, 1]","[3, 3, 3, 3]","[None, None, None, None]",top set was rpe 8,"foam rolling, jts mobility & warmup, 2x10 ghr, 2x10 cossack squats"
-110,2/24/20,pause sumo deadlift,"[405.0, 455.0, 495.0]","[1, 1, 1]","[1, 1, 1]","[None, None, None]","felt very solid, very minor quad sensation, eat before next training session im so hungry","foam rolling, jts mobility & warmup, 2x10 ghr, 2x10 cossack squats"
-111,2/26/20,larsen press,[225.0],[3],[3],[None],fucking easy,"foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
-112,2/26/20,comp deadlift,"[405.0, 455.0, 495.0]","[1, 1, 1]","[4, 1, 4]","[None, None, 9.0]","do not wear joggers on sumo days, knurling kills pants","foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
-113,2/26/20,conventional deadlift,[365.0],[2],[5],[None],figured out how to wear a belt????,"foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
-114,2/26/20,copenhagen planks,[3.0],[1],[25],[None],touch elbow to knee,"foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
-115,2/29/20,comp squat,"[390.0, 400.0, 410.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","open hips evenly, move left foot first on walkout, ascending sets worked as i fixed technical issues on the way to the top set which was the smoothest set","foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
-116,2/29/20,high bar,[350.0],[3],[5],[None],first time high bar in months and feels off but moves very good,"foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
-117,2/29/20,close grip bench,"[205.0, 205.0, 215.0]","[1, 1, 1]","[7, 7, 7]","[None, None, None]",still sore from 3 days ago but will live,"foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
-118,2/29/20,pendlay rows,[135.0],[3],[8],[None],perfect form great starting point,"foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
-119,3/1/20,comp bench,"[275.0, 235.0]","[1, 3]","[1, 5]","[9.0, None]","no preworkout and cut finger but decent all around, all sets 6/7","foam rolling, t spine mobility, front & side planks, 2x10 w/back extensions, lat pulldown, cable row, iyts"
-120,3/1/20,larsen press,[215.0],[2],[7],[None],squeeze gluten and watch elbow flare,"foam rolling, t spine mobility, front & side planks, 2x10 w/back extensions, lat pulldown, cable row, iyts"
-121,3/1/20,incline dumbbell bench,"[75.0, 75.0, 65.0, 65.0]","[1, 1, 1, 1]","[12, 6, 6, 12]","[None, None, None, None]",hard as fuck,"foam rolling, t spine mobility, front & side planks, 2x10 w/back extensions, lat pulldown, cable row, iyts"
-122,3/2/20,comp deadlift,"[450.0, 460.0, 475.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","all relatively easy and good positioning, can tell ssb will skyrocket this as well","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
-123,3/2/20,pause comp deadlift,[417.5],[2],[4],[None],got cold after comp work so first set was pretty trash but,"foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
-124,3/2/20,ssb squat,"[330.0, 295.0]","[1, 2]","[3, 5]","[None, None]","estimated max was just simply too high, it’s okay, 295 was the correct weight for the day 100%","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
-125,3/2/20,single legged leg press,[90.0],[3],[12],[None],"great starting point, good blood flow, keep sleeves on for comfort","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
-126,3/2/20,split squats,[30.0],[3],[12],[None],"think about being as upright as possible, can jump 10lb next week","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
-127,3/4/20,comp bench,"[45.0, 95.0, 135.0, 185.0, 225.0, 235.0, 242.5, 250.0]","[1, 1, 1, 1, 1, 1, 1, 1]","[15, 10, 8, 5, 1, 3, 3, 3]","[None, None, None, None, None, None, None, None]","trying more warmup sets per shethar, working sets got better as i went on, last set was rpe 6, pec/shoulder felt awkward on warmups, 5ct pause on last rep very easy","foam rolling, front & side planks, t spine mobility, 2x10 lat pulldown, cable row, ghr, iyt’s"
-128,3/4/20,comp bench,[232.5],[5],[2],[None],"aiming for 30/45sec rest between sets to make more difficult and improve setup, done shirtless to see the bar mark on my chest to check pressing point ( was perfect this session )","foam rolling, front & side planks, t spine mobility, 2x10 lat pulldown, cable row, ghr, iyt’s"
-129,3/4/20,lat pulldown,"[130.0, 145.0]","[1, 4]","[8, 8]","[None, None]",feels great on pec “discomfort”,"foam rolling, front & side planks, t spine mobility, 2x10 lat pulldown, cable row, ghr, iyt’s"
-130,3/5/20,comp squat,"[405.0, 445.0]","[1, 1]","[1, 1]","[None, None]",too single was rpe 8.5 and very controlled,"foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
-131,3/5/20,3:1:0 tempo comp squat,[355.0],[3],[3],[None],"feel amazing, 0 pain, great sets and around rpe 8","foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
-132,3/5/20,football bench,"[210.0, 210.0, 210.0, 215.0]","[1, 1, 1, 1]","[4, 4, 4, 4]","[None, None, None, None]",pec discomfort still there on warmups,"foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
-133,3/5/20,conventional deadlift,[402.5],[3],[5],[None],sets rpe 7 as intended,"foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
-134,3/8/20,comp squat,"[395.0, 410.0, 420.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","all felt target rpe after moving all day yesterday, queue adductors throughout the whole movement you dumb fuck","t spine mobility, pitshark, ghr, cossack squats"
-135,3/8/20,high bar,[360.0],[3],[5],[None],"have to fight to keep chest up more, understandable after these levels of fatigue from comp squat but have to put forth the effort to be technically great at everything","t spine mobility, pitshark, ghr, cossack squats"
-136,3/8/20,comp bench,"[45.0, 135.0, 185.0, 225.0, 245.0, 265.0, 285.0, 305.0]","[1, 1, 1, 1, 1, 1, 1, 1]","[20, 10, 3, 2, 1, 1, 1, 0]","[None, None, None, None, None, None, None, None]","absolute technical failure on pr attempt, strength is there so no worries, 285 single was easily rpe 8 and sound","t spine mobility, pitshark, ghr, cossack squats"
-137,3/8/20,close grip bench,"[205.0, 215.0]","[1, 2]","[7, 7]","[None, None]",easy and money,"t spine mobility, pitshark, ghr, cossack squats"
-138,3/10/20,comp bench,"[305.0, 235.0, 235.0, 245.0]","[1, 1, 1, 1]","[1, 5, 5, 5]","[None, None, None, None]","revenge single with sleeves, all sets money and 245 was the easiest set","foam rolling, t spine mobility, lat pulldown, cable row, back extension, iyt’s"
-139,3/10/20,larsen press,[220.0],[2],[7],[None],much better than last week,"foam rolling, t spine mobility, lat pulldown, cable row, back extension, iyt’s"
-140,3/11/20,comp deadlift,"[460.0, 475.0, 495.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","need to cleanup lockout, top set was ugly but it was a stiff bar so still really good","foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
-141,3/11/20,conventional deadlift,[405.0],[3],[5],[None],very easy,"foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
-142,3/11/20,high bar,"[315.0, 315.0, 335.0]","[1, 1, 1]","[5, 5, 5]","[None, None, None]","easy, very money, helps a lot to warmup up instead of dropping from low bar","foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
-143,3/11/20,split squats,[35.0],[3],[12],[None],left foot is so much worse than right,"foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
-144,3/12/20,comp bench,"[250.0, 255.0, 260.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","misloaded twice because 255 was done first and 265 was supposed to be the top set holy shit count next time dumbass, 260 was rpe 6","foam rolling, t spine mobility, 4 types of planks, iyts, db bench, shoulder dislocations"
-145,3/12/20,comp bench,[250.0],[5],[2],[None],"easy, all sub 6","foam rolling, t spine mobility, 4 types of planks, iyts, db bench, shoulder dislocations"
-146,3/14/20,comp squat,[455.0],[1],[1],[None],"easy, rpe 8.5, stay controlled","foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
-147,3/14/20,3:1:0 tempo comp squat,"[355.0, 355.0, 365.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]",all difficult but really smooth,"foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
-148,3/14/20,football bar bench,"[210.0, 215.0]","[2, 2]","[4, 4]","[None, None]","all easy, progressing well, just stay controlled","foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
-149,3/14/20,pause comp deadlift,"[440.0, 455.0, 455.0]","[1, 1, 1]","[1, 1, 1]","[None, None, None]","last set best set, decent speed just need to work on pause length","foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
-150,3/16/20,comp squat,"[410.0, 420.0, 435.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]",too set was rpe 8/8.5 easy fucking easy,"foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
-151,3/16/20,high bar,[370.0],[3],[5],[None],"fairly difficult but very doable, ramp up from one plate instead of immediate drop will make it feel much better","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
-152,3/16/20,comp bench,[295.0],[1],[1],[None],"easy, rpe 8.5","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
-153,3/16/20,close grip bench,[215.0],[3],[7],[None],"all easy, rpe >6","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
-154,3/17/20,comp bench,"[235.0, 245.0]","[1, 2]","[5, 5]","[None, None]","all easy, rpe 6/7","t spine mobility, lat pulldown, cable row, iyt’s"
-155,3/18/20,comp deadlift,"[475.0, 490.0, 505.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","top set was 9.5, hopefully non/fatiguing ramping sets increase potential","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
-156,3/18/20,conventional deadlift,[415.0],[3],[5],[None],beltled and toes/out feels best,"foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
-157,3/18/20,high bar,"[315.0, 335.0]","[1, 2]","[5, 5]","[None, None]","easy, optimal rep range for this high bar day would be 7/8 though","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
-158,3/18/20,split squats,[40.0],[3],[8],[None],why the fuck did i do 12 last week,"foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
-159,3/20/20,comp bench,"[255.0, 265.0, 275.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]",top set was rpe 8.5,"foam rolling, t spine mobility, lat pulldown, cable row, iyt’s, back extensions"
-160,3/20/20,comp bench,[255.0],[5],[2],[None],"last set was perfect, elbows were out of control sets 2/4","foam rolling, t spine mobility, lat pulldown, cable row, iyt’s, back extensions"
-161,3/20/20,lat pulldown,[160.0],[5],[8],[None],best grip by far,"foam rolling, t spine mobility, lat pulldown, cable row, iyt’s, back extensions"
-162,3/21/20,comp squat,"[435.0, 475.0]","[1, 1]","[1, 0]","[None, None]","fell forward, strength is absolutely there for 475+","foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-163,3/21/20,3:1:0 tempo comp squat,"[350.0, 365.0]","[1, 2]","[3, 3]","[None, None]",tempos much easier than last week,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-164,3/21/20,2” board press,"[210.0, 215.0]","[1, 3]","[4, 4]","[None, None]",replaced football bench with this variation for the time being,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-165,3/21/20,pause sumo deadlift,[455.0],[3],[1],[None],"externally rotating elbows with straps makes it a lot more smooth, decent sets forsure","foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-166,3/23/20,comp squat,"[395.0, 410.0, 455.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]",fucking got it. rpe 10.,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-167,3/23/20,high bar,[380.0],[1],[1],[None],"need to adjust backoff on peak weeks, no biggie just fatigued","foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-168,3/23/20,comp bench,"[285.0, 305.0, 315.0]","[1, 1, 1]","[1, 1, 1]","[None, None, None]",sick single,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-169,3/23/20,close grip bench,"[215.0, 215.0, 220.0]","[1, 1, 1]","[7, 7, 7]","[None, None, None]",easy,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-170,3/24/20,comp bench,"[250.0, 255.0, 280.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","warmups feel slow and i’m tired, it moved tho","lat pulldown, cable row, back extension, iyts, no foam rolling or stretching"
-171,3/24/20,comp bench,[260.0],[5],[2],[None],all rpe 6/7,"lat pulldown, cable row, back extension, iyts, no foam rolling or stretching"
-172,3/25/20,comp deadlift,"[460.0, 475.0, 515.0]","[1, 1, 1]","[3, 3, 3]","[None, None, None]","warmups feel like ass and rice, goal moved tho","t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
-173,3/25/20,conventional deadlift,"[420.0, 400.0, 370.0]","[1, 1, 1]","[5, 5, 5]","[None, None, None]",felt good! narrow stance and belt feels acceptable,"t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
-174,3/25/20,high bar,[335.0],[3],[5],[None],pretty money surprisingly,"t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
-175,3/25/20,split squats,[45.0],[3],[8],[None],fuck,"t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
-176,3/27/20,comp bench,"[245.0, 245.0, 260.0, 285.0]","[1, 1, 1, 1]","[5, 5, 5, 1]","[None, None, None, None]","top set of 5 was a safe rpe 8.5, single was fatigued but moved","iyt’s, lat pulldown, cable row, machine press"
-177,3/27/20,larsen press,[220.0],[2],[9],[None],"may have miscounted and done 10 on the last set, was rpe 10 either way","iyt’s, lat pulldown, cable row, machine press"
-178,3/27/20,incline dumbbell bench,[65.0],[3],[12],[None],focusing on full rom feels much better,"iyt’s, lat pulldown, cable row, machine press"
-179,3/27/20,tricep extensions,[67.5],[3],[15],[None],felt good,"iyt’s, lat pulldown, cable row, machine press"
-180,3/30/20,comp squat,"[405.0, 425.0, 455.0, 475.0, 505.0]","[1, 1, 1, 1, 1]","[1, 1, 1, 1, 1]","[None, None, None, None, None]",in pocket!,"foam rolling, t spine mobility, 3 types of planks, kb squat & cossack squat, back extensions"
-181,3/30/20,pause comp deadlift,"[405.0, 455.0, 505.0]","[1, 1, 1]","[1, 1, 1]","[None, None, 7.0]","nice, position was ass because of rushing but still so much stronger than before the block","foam rolling, t spine mobility, 3 types of planks, kb squat & cossack squat, back extensions"
-182,3/31/20,comp bench,[225.0],[2],[4],[None],yea,"lat pulldown & cable row superset, iyt’s, machine press"
-183,3/31/20,larsen press,[185.0],[1],[6],[None],nice,"lat pulldown & cable row superset, iyt’s, machine press"
-184,4/1/20,sumo block pull,[585.0],[1],[1],[9.0],lockout not the weak point,"t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-185,4/1/20,comp deadlift,[455.0],[2],[2],[None],easy but felt very weird after block pulling,"t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
-186,4/6/20,comp squat,"[385.0, 400.0, 415.0]","[1, 1, 1]","[4, 4, 4]","[None, None, None]","sets feel surprisingly technically sound, top set i kept rolling forward on toes but speed was decent","t spine mobility, 4 types of planks, kb cossack & squat, back extensions"
-187,4/6/20,high bar,[350.0],[4],[4],[None],very hard but doable,"t spine mobility, 4 types of planks, kb cossack & squat, back extensions"
-188,4/6/20,comp bench,[285.0],[1],[1],[None],rpe 8.5 very smooth,"t spine mobility, 4 types of planks, kb cossack & squat, back extensions"
-189,4/7/20,comp bench,[240.0],[3],[6],[None],all sets true rpe 7,"foam rolling, warmup, mobility"
-190,4/7/20,2” board close grip press,[225.0],[2],[6],[None],rpe 7 very smooth,"foam rolling, warmup, mobility"
-191,4/7/20,skull crushers,[65.0],[3],[10],[None],"rpe 6, go up 10 next week","foam rolling, warmup, mobility"
-192,4/8/20,comp deadlift,"[440.0, 450.0, 465.0]","[1, 1, 1]","[4, 4, 4]","[None, None, None]",felt uneven but fixed on,"foam rolling, mobility, warmup"
-193,4/8/20,comp deadlift,[420.0],[3],[2],[None],"perfect form, start hips 1 inch lower and go from there","foam rolling, mobility, warmup"
-194,4/8/20,high bar,[325.0],[3],[6],[None],difficult forsure from soreness,"foam rolling, mobility, warmup"
-195,4/10/20,comp bench,"[235.0, 245.0, 255.0]","[1, 1, 1]","[4, 4, 4]","[None, None, None]","pretty sore from wednesday’s session but still moving very well, all at prescribed rpe","foam rolling, mobility, warmup"
-196,4/10/20,comp bench,[245.0],[4],[2],[None],"last set best set, sore and feeling sick symptoms","foam rolling, mobility, warmup"
-197,4/10/20,lat pulldown,[130.0],[4],[8],[None],"combined last 2 sets, up it by 10lb next week","foam rolling, mobility, warmup"
-198,04/14/20,high bar pause squat,[375.0],[1],[1],[None],"depth was great in flats, just need to pause for .3 longer","foam rolling, mobility, warmup"
-199,04/14/20,low bar pause squat,[340.0],[3],[3],[None],all easy and flats were the best decision,"foam rolling, mobility, warmup"
-200,04/14/20,comp bench,"[295.0, 245.0]","[1, 1]","[1, 6]","[None, None]","single was great considering 5lb bw loss and sickness, combined monday and tuesday to some degree","foam rolling, mobility, warmup"
-201,04/14/20,larsen spoto press,[225.0],[1],[5],[None],pretty easy and doable free,"foam rolling, mobility, warmup"
-202,4/15/20,comp deadlift,"[440.0, 465.0, 480.0]","[1, 1, 1]","[4, 4, 4]","[None, None, None]",last set hard as fuck,"foam rolling, mobility, warmup"
-203,4/15/20,comp deadlift,[435.0],[3],[2],[None],easy and in position,"foam rolling, mobility, warmup"
-204,4/16/20,high bar,"[325.0, 325.0, 345.0]","[1, 1, 1]","[6, 6, 6]","[None, None, None]",felt hard but no caffeine before workout,no mobility
-205,4/16/20,comp squat,"[400.0, 415.0, 435.0]","[1, 1, 1]","[1, 4, 3]","[None, None, None]","form was getting risky, need to adjust to flats before going for prs again, lower back pump somehow, forgot to warmup t spine which is why i assume the back pump happened",no mobility
-206,4/16/20,high bar,[360.0],[4],[4],[None],"took 17% off because of failed top set, felt easier than last week with an extra 2% off but still 10lb more",no mobility
-207,4/16/20,comp bench,[300.0],[1],[1],[None],decent single with new shoulder position,no mobility
-208,4/16/20,larsen spoto press,"[215.0, 225.0]","[1, 2]","[5, 5]","[None, None]",helping with adjustment in technique forsure,no mobility
-209,4/16/20,lat pulldown,[160.0],[5],[10],[None],"decent but difficult, a lot less rest than last week",no mobility
-210,4/21/20,comp bench,"[240.0, 240.0, 250.0]","[1, 1, 1]","[6, 6, 6]","[None, None, None]",new technique feels solid just elbow gives closer to failure,"foam rolling, stretching, warmup"
-211,4/21/20,2” close grip board press,[230.0],[2],[6],[None],rpe 7 not bad,"foam rolling, stretching, warmup"
-212,4/22/20,comp deadlift,"[465.0, 480.0, 495.0]","[1, 1, 1]","[4, 4, 4]","[None, None, None]","sets feel very technically sound, solid resets","foam rolling, mobility, warmup"
-213,4/22/20,comp deadlift,[445.0],[3],[2],[None],easy with over under grip,"foam rolling, mobility, warmup"
-214,4/22/20,comp squat,"[360.0, 380.0]","[1, 2]","[6, 6]","[None, None]","very hard, reduce increases if using low bar next block","foam rolling, mobility, warmup"
-215,4/24/20,comp bench,"[245.0, 255.0, 265.0]","[1, 1, 1]","[4, 4, 4]","[None, None, None]","build up sets feel fantastic, top set was @8, slow down decent next week","foam rolling, mobility, warmup"
-216,4/24/20,comp bench,[250.0],[4],[2],[None],easy money,"foam rolling, mobility, warmup"
-217,4/26/20,comp squat,[415.0],[1],[4],[9.0],"just felt really bad with 7am workout, was a true 9 so no offbeat rpe today","foam rolling, mobility, warmup"
-218,4/26/20,high bar,[355.0],[4],[4],[None],felt good @ 7/8,"foam rolling, mobility, warmup"
-219,4/26/20,comp bench,[305.0],[1],[1],[10.0],"overshot but it still moved, old technique doesn’t feel better","foam rolling, mobility, warmup"
-220,4/26/20,larsen spoto press,[225.0],[3],[5],[7.0],right on target rpe of 7,"foam rolling, mobility, warmup"
-221,4/27/20,comp bench,"[250.0, 240.0]","[1, 3]","[6, 5]","[8.0, None]","right on target with rpe, need to focus on evening out hips, all  were rpe 7/7.5","foam rolling, mobility, warmup"
-222,4/27/20,larsen press,"[215.0, 205.0]","[1, 2]","[1, 10]","[None, None]","had to decrease weight after the first set because the initial  were heavier than originally written, failed last rep of last set, just reduce 2% more in future ￼","foam rolling, mobility, warmup"
-223,4/27/20,skull crushers,[75.0],[3],[8],[None],"10 / reps were: 10,10,10","foam rolling, mobility, warmup"
-224,4/27/20,rope bicep curls,[57.5],[3],[12],[None],"15 / reps were: 15,15,15","foam rolling, mobility, warmup"
-225,4/28/20,comp deadlift,"[505.0, 545.0, 455.0]","[1, 1, 3]","[4, 1, 3]","[8.5, 9.5, None]","top set shouldve been amrapd, single was fastest it’s ever been on a stiff bar,  were over under and felt decent","foam rolling, mobility, warmup"
-226,4/28/20,comp squat,"[365.0, 315.0]","[2, 1]","[6, 6]","[None, 6.0]","first two sets were @10, need to not let ego skew weights on this day moving forward","foam rolling, mobility, warmup"
-227,4/30/20,comp bench,"[280.0, 265.0, 235.0]","[1, 3, 2]","[4, 3, 8]","[None, None, None]","top set went for 5 but it wasn’t there, still a very solid set, backoff triples were rpe 7/8, backoff 8s were rpe 8 because i smacked the rack half the time","foam rolling, mobility, warmup"
-228,4/30/20,rope tricep extension,[47.5],[3],[12],[None],upper back is retracted and down focusing on the long head,"foam rolling, mobility, warmup"
-229,4/30/20,seated dumbbell overhead press,[35.0],[3],[10],[None],fixes shoulder pain completely with complete rom,"foam rolling, mobility, warmup"
-230,4/30/20,lat pulldown,[65.0],[4],[8],[None],focus on protraction as much as retraction,"foam rolling, mobility, warmup"
-231,4/30/20,comp bench,[320.0],[0],[0],[None],if i try without previous workout fatigue it definitely would fly,"foam rolling, mobility, warmup"
-0,5/3/20,pause comp squat,[315.0],[3],[3],[6.0],"right on target with rpe, trying to engage upper back and evenly descent as much as possible, pause needs to be longer next week",dawson warmup
-1,5/3/20,comp bench,[285.0],[1],[1],[8.0],"true 8, shoulder irritated from different warmups but will fix in future",dawson warmup
-2,5/3/20,close grip bench,[225.0],[3],[6],[6.0],"great starting point, focus on upper back tightness, right on target rpe",dawson warmup
-3,5/4/20,comp squat,"[425.0, 375.0]","[1, 4]","[1, 5]","[6.0, 7.0]","single was right on target, keep the same back position throughout, more upright position is necessary to stay over midfoot, slight right quad irritation from now doing a type of squat in warmup, last set rpe 7","dawson warmup, add goblet squats next time"
-4,5/5/20,comp deadlift,"[495.0, 435.0]","[1, 3]","[3, 5]","[7.0, 6.0]","top triple was right on rpe,  were fine rpe but form sucked from being rushed, feet were pointed too far forwards, need to open more",dawson warmup + goblet squats
-5,5/5/20,comp bench,[240.0],[4],[5],[7.0],"right on rpe target, fatigue made back position harder to keep but was manageable",dawson warmup + goblet squats
-6,5/6/20,high bar,[325.0],[3],[7],[6.0],"rpe 7/8, video says 6, keep weight same next week",dawson warmup
-7,5/7/20,beltless conventional deadlift,"[365.0, 315.0]","[1, 3]","[4, 5]","[7.0, 6.0]","less weight than anticipated, but need to readjust to the movement pattern and can make a bigger jump next week, start with hips more behind bar and vertical shin angle",no mobility
-8,5/7/20,comp bench,"[315.0, 275.0]","[1, 5]","[1, 2]","[9.0, 8.0]","single was so much smoother than my last 315, 320 was there @10, doubles were right above rpe target @7.5, lost some upper back position on the last set",no mobility
-9,5/7/20,machine chest flys,[110.0],[4],[12],[None],felt great with no shoulder pain,no mobility
-10,5/8/20,comp squat,"[455.0, 415.0]","[1, 4]","[1, 2]","[8.0, 8.0]","thought the single on program was @9, whoops!  were decent, just harder because no food and bad sleep","foam rolling, mobility, warmup"
-11,5/8/20,comp bench,[245.0],[3],[3],[6.0],"easy money, sore af tho","foam rolling, mobility, warmup"
-12,5/8/20,pull ups,[0.0],[3],[5],[None],focus on adding a rep each week,"foam rolling, mobility, warmup"
-13,5/11/20,pause comp squat,[315.0],[3],[3],[None],"much more solid pauses than week 1, felt great go up 5 next week","foam rolling, warmup, mobility"
-14,5/11/20,comp bench,"[295.0, 320.0]","[1, 1]","[1, 1]","[7.0, 10.0]","nice pr and was clean, 295 was @7, strength trending very upward","foam rolling, warmup, mobility"
-15,5/11/20,close grip bench,[235.0],[3],[7],[7.0],"great sets, right on target rpe","foam rolling, warmup, mobility"
-16,5/11/20,rear delt flys,[75.0],[4],[12],[None],have palms open and facing each other,"foam rolling, warmup, mobility"
-17,5/12/20,comp squat,"[435.0, 385.0]","[1, 4]","[1, 4]","[7.0, 7.0]","single felt like @8 but video dictates @7, speed on  is great just feels hard, speed dictates rpe 7 on last set of","foam rolling, mobility, warmup"
-18,5/13/20,comp deadlift,"[515.0, 440.0]","[1, 3]","[2, 5]","[7.0, None]","didn’t eat before so the single was @8.5, did the lower end of  and don’t know what’s going on with elbow/bicep area, no lower body pain so big improvement from last week","foam rolling, mobility, warmup"
-19,5/13/20,comp bench,[250.0],[4],[4],[7.0],right on target rpe,"foam rolling, mobility, warmup"
-20,5/13/20,t bar row,[180.0],[3],[10],[None],full protraction,"foam rolling, mobility, warmup"
-21,5/15/20,comp squat,"[465.0, 425.0]","[1, 4]","[1, 2]","[8.0, 8.0]","single was perfect rpe,  we’re perfect rpe, 0 pain at all today, think about tight glutes to engage everything ( don’t fart )","foam rolling, mobility, warmup"
-22,5/15/20,comp bench,"[305.0, 280.0]","[1, 5]","[1, 2]","[8.0, 8.0]","single was right on target, no pain on anything, just above average soreness because of day sequences,  were great target for rpe","foam rolling, mobility, warmup"
-23,5/16/20,high bar,[325.0],[4],[6],[6.0],"death, but did at the correct rpe","foam rolling, mobility, warmup"
-24,5/16/20,conventional deadlift,"[475.0, 345.0]","[1, 3]","[1, 5]","[9.0, 7.0]","did a single instead of 5 because of high bar fatigue and was very smooth,  were @6","foam rolling, mobility, warmup"
-25,5/16/20,comp bench,[245.0],[3],[3],[6.0],right at prescribed rpe,"foam rolling, mobility, warmup"
-26,5/18/20,comp squat,"[445.0, 395.0]","[1, 4]","[1, 4]","[6.0, None]","single was very easy just couldn’t focus because of shitting pants, sets were prescribed rpe 8","foam rolling, mobility, warmup"
-27,5/18/20,comp bench,[295.0],[1],[1],[8.0],"pec and shoulder felt terrible, need to rearrange heavy and light single days, was 8.5","foam rolling, mobility, warmup"
-28,5/18/20,close grip bench,[240.0],[3],[8],[None],"sets were rpe 8,9,9","foam rolling, mobility, warmup"
-29,5/20/20,comp deadlift,"[515.0, 445.0]","[1, 3]","[3, 5]","[9.0, 8.0]","triple was slightly overshot, very slow but no form breakdown,  were right on rpe, last set was best set",no mobility
-30,5/21/20,comp bench,"[305.0, 325.0, 290.0, 280.0]","[1, 1, 2, 2]","[1, 1, 2, 2]","[9.0, 10.0, 9.0, 8.0]",slight overshoot on  but very nice increase,warmup
-31,5/21/20,high bar,[330.0],[3],[7],[7.0],hard but okay sets,warmup
-32,5/23/20,comp squat,"[455.0, 435.0, 405.0]","[1, 3, 1]","[1, 2, 3]","[7.0, 9.0, 6.0]","single was way too fast and loose in the hole but moved and felt like a 7, last rep of  was misgrooved but good other than that, fitness set was very easy and technically sound for the most part, cue “just man the weight up” to have a more direct and intentional bar path","mobility, warmup"
-33,5/23/20,beltless conventional deadlift,"[425.0, 365.0]","[1, 3]","[5, 6]","[8.0, 7.0]","top set of 5 was right on the money, maybe a 7/7.5 even,  were cake","mobility, warmup"
-34,5/23/20,comp bench,[260.0],[4],[5],[8.0],sets got easier as it went,"mobility, warmup"
-35,5/25/20,comp squat,"[455.0, 405.0, 365.0]","[1, 3, 1]","[1, 4, 5]","[7.0, 8.0, None]","felt great, form finally coming together entirely, drive knees forward on ascent","foam rolling, mobility, warmup"
-36,5/25/20,comp bench,"[305.0, 240.0, 225.0]","[1, 3, 1]","[1, 8, 8]","[9.0, None, 8.0]","single was supposed to be @7 but ego played too large of a role, accidentally misloaded second set of  /2.5lb, last set was perfect rpe","foam rolling, mobility, warmup"
-37,5/26/20,pause comp squat,[315.0],[3],[3],[6.0],wider stance feels much better with knee forward cue,"mobility, warmup"
-38,5/26/20,comp bench,[245.0],[3],[3],[6.0],need to make a variation in future,"mobility, warmup"
-39,5/27/20,comp deadlift,"[545.0, 585.0]","[1, 1]","[1, 1]","[9.0, 10.0]","wanted 6 beans, wasn’t there today, sike.","mobility, warmup"
-40,6/1/20,comp squat,"[405.0, 315.0]","[1, 3]","[1, 5]","[6.0, 6.0]",all easy and great feeling,no moblity
-41,6/4/20,ssb squat,"[330.0, 240.0]","[1, 3]","[1, 3]","[6.5, None]",decided to get some practice before ssb starts next block,"foam rolling, mobility, warmup"
-42,6/4/20,comp bench,"[285.0, 255.0]","[1, 3]","[1, 2]","[7.5, None]",single was slightly higher rpe than anticipated because of 2 second pause and new equipment,"foam rolling, mobility, warmup"
-43,6/8/20,high bar,"[385.0, 335.0]","[1, 3]","[1, 6]","[6.0, 5.0]","6 / adductor hates me, high bar in flats from now on, no adductor pain with flats","mobility, warmup"
-44,6/8/20,comp deadlift,"[385.0, 435.0, 405.0]","[1, 1, 3]","[3, 5, 7]","[5.0, 6.0, None]","rushed the last 3 reps of top set from just being uncomfortable, so fucking tired felt like throw up was coming on every set but finished it","mobility, warmup"
-45,6/8/20,dumbbell rdl,[15.0],[4],[12],[None],"great stretch, incredibly light weight for proper form","mobility, warmup"
-46,6/8/20,belt squat,[25.0],[3],[12],[None],just fucking kill me,"mobility, warmup"
-47,6/9/20,comp bench,"[245.0, 260.0, 240.0]","[1, 1, 4]","[3, 5, 5]","[5.0, 10.0, None]","need you adjust to new equipment forsure, last set was @9","mobility, warmup"
-48,6/9/20,db flys,[20.0],[3],[12],[None],deep and pause,"mobility, warmup"
-49,6/10/20,comp squat,"[405.0, 425.0, 365.0]","[1, 1, 4]","[2, 3, 4]","[None, 7.5, None]",death.,no mobility
-50,6/11/20,comp bench,"[275.0, 285.0, 295.0, 255.0, 235.0]","[1, 1, 1, 1, 2]","[1, 1, 1, 5, 7]","[None, None, None, None, None]","last set felt the best despite fucking up so much, just need feet towards head another inch and to depress scapula more","comp bench - 275,285,295x1, 255x5, 235x2x7 - last set felt the best despite fucking up so much, just need feet towards head another inch and to depress scapula more"
-51,6/13/20,larsen press,"[245.0, 230.0]","[1, 3]","[3, 6]","[6.5, None]",i was literally half off of the bench on top set but it was very easy,"foam rolling, mobility, warmup"
-52,6/13/20,beltless comp deadlift,"[405.0, 425.0, 455.0, 410.0]","[1, 1, 1, 3]","[1, 1, 1, 3]","[None, None, 6.5, None]",fucked setup on top set but still moved fine,"foam rolling, mobility, warmup"
-53,6/15/20,high bar,"[405.0, 355.0]","[1, 3]","[1, 5]","[7.0, None]",single was very solid,no mobility
-54,6/15/20,comp deadlift,"[455.0, 425.0]","[1, 3]","[5, 7]","[7.0, None]","10lb pr set of 5, 20lb pr sets of 7, all very sub max since adaptation has occurred since last monday, just think of the sets as three doubles and a single and it’s so much easier",no mobility
-55,6/15/20,belt squat,[35.0],[3],[12],[None],easier than last week forsure,no mobility
-56,6/16/20,comp bench,"[265.0, 245.0]","[1, 4]","[5, 4]","[8.5, None]","have to lockout fully, backoff sets rpe 7/8","mobility, warmup"
-57,6/18/20,comp squat,"[405.0, 455.0, 465.0, 420.0]","[1, 1, 1, 4]","[2, 1, 3, 3]","[None, None, 8.0, None]","top set was fucking mint,  easy","mobility, warmup"
-58,6/19/20,comp bench,"[295.0, 315.0, 240.0, 245.0]","[1, 1, 1, 2]","[1, 1, 7, 7]","[7.0, 9.0, None, 6.0]","8 / last set may have been 8 but lost count, one ring wider feels really good","mobility, warmup - use iyt’s to just bounce the weight from lats"
-59,6/22/20,high bar,"[425.0, 365.0]","[1, 3]","[1, 5]","[8.0, 7.0]",7.5 / last set was best set because i found comfort in the hole,"foam rolling, mobility, warmup"
-60,6/23/20,comp bench,"[245.0, 265.0, 275.0, 255.0]","[1, 1, 1, 4]","[3, 2, 5, 4]","[None, None, 10.0, None]",were @7/8,no mobility
-61,6/24/20,comp squat,"[405.0, 415.0, 455.0, 385.0, 365.0]","[1, 1, 1, 3, 1]","[2, 1, 1, 3, 3]","[None, None, None, None, None]","going off of 425 for the double, everything feels so slow and off","foam rolling, mobility, warmup"
-62,6/25/20,t bar row,[90.0],[4],[8],[None],did instead of pendlay row and feels really good on shoulder,"foam rolling, mobility, warmup"
-63,6/27/20,pause comp squat,"[405.0, 365.0]","[1, 2]","[3, 4]","[7.5, 5.5]","6.5, 340x1x5 / elbows down gives me the best fucking leverages ever","mobility, warmup"
-64,6/27/20,larsen press,[265.0],[1],[3],[8.0],"8.5, 235x3x6@6/8 / fucking money","mobility, warmup"
-65,6/27/20,beltless comp deadlift,"[425.0, 455.0, 475.0]","[1, 1, 3]","[1, 1, 1]","[None, None, 7.0]","8, 430x3x3","mobility, warmup"
-66,6/29/20,high bar,"[365.0, 375.0, 375.0, 385.0]","[1, 1, 1, 1]","[1, 1, 1, 4]","[None, None, None, 7.0]",8,"added westside style warmups, mobility"
-67,6/29/20,comp deadlift,"[495.0, 405.0]","[1, 1]","[4, 7]","[9.5, None]",overshot top set and misgrooved last rep,"added westside style warmups, mobility"
-68,6/30/20,comp bench,[280.0],[2],[3],[8.5],"9, 265x3x4, 245x5","mobility, warmup"
-69,6/30/20,flat dumbbell bench,[65.0],[3],[10],[None],add into warmup??? helps stabilization quite a bit,"mobility, warmup"
-70,7/2/20,comp squat,"[495.0, 425.0, 435.0, 435.0]","[1, 1, 1, 1]","[1, 1, 1, 3]","[8.0, None, None, 6.0]","8, 385x1x3","mobility, warmup"
-71,7/3/20,comp bench,"[305.0, 255.0]","[1, 3]","[1, 6]","[9.0, 7.5]","8 / single felt okay with wider grip, just need to adjust","mobility, warmup"
-72,7/5/20,pause comp squat,"[415.0, 375.0]","[1, 2]","[3, 4]","[6.0, 5.5]","6.5, 340x1x5 / top set was amazing except the 3rd rep wasn’t pause and didn’t fully lockout first rep but flew, positioning feels godlike","mobility, warmup"
-73,7/5/20,larsen press,[270.0],[1],[3],[8.0],"8.5, 240x3x5@6/8 / soft touch feeling a lot better","mobility, warmup"
-74,7/7/20,high bar,[385.0],[3],[4],[7.0],"8, 355x4 / sets feel really good! heels are stronger but just need to make sure the hips approve, belt broke before 3rd working set fuck me","mobility, warmup"
-75,7/7/20,comp deadlift,"[565.0, 515.0, 475.0]","[1, 1, 2]","[1, 2, 2]","[8.5, 8.5, 7.0]",7.5 / positioning feels a1 baby,"mobility, warmup"
-76,7/9/20,comp bench,"[295.0, 315.0, 275.0]","[1, 1, 4]","[1, 1, 3]","[7.0, 10.0, 7.0]",8 / positioning and actual lift felt the best it has with this grip,no mobility
-77,7/11/20,comp bench,[245.0],[2],[1],[None],"can’t continue, bicep tendonitis is too much","mobility, warmup"
-78,7/13/20,high bar,[365.0],[3],[4],[7.5],"8.5, 340x4 / not trying to go insane before 545 squat attempt in 3 days, fitness drops very fast if sessions are missed but still completed the sets in about 30/35min","mobility, warmup"
-79,7/13/20,comp deadlift,"[545.0, 495.0]","[1, 1]","[1, 2]","[7.5, 8.0]","8.5, 455x2x2 / money!","mobility, warmup"
-80,7/14/20,comp bench,"[295.0, 245.0]","[1, 3]","[1, 3]","[None, 6.0]","8, 230x3 / hurts like a bitch","mobility, warmup"
-81,7/15/20,comp squat,"[495.0, 475.0]","[1, 1]","[1, 1]","[9.0, 10.0]","missed saturday technique session and just feels fucking terrible today, no  because of tendonitis","mobility, warmup"
-82,7/18/20,comp bench,[275.0],[1],[1],[6.0],"7, 255x4x5@6/9 / tendonitis was tolerable today","mobility, warmup"
-83,7/19/20,pause comp deadlift,"[545.0, 455.0, 405.0]","[1, 1, 2]","[1, 3, 3]","[10.0, None, None]",money money,"mobility, warmup"
-84,7/19/20,larsen press,"[275.0, 245.0]","[1, 4]","[2, 4]","[9.0, None]",double was very well executed and  feel solid,"mobility, warmup"
-85,7/19/20,comp squat,"[405.0, 365.0, 320.0]","[1, 1, 2]","[1, 7, 6]","[5.0, 6.0, None]",top set of 7 is going to take some adjusting....,"mobility, warmup"
-86,7/19/20,3:1:0 tempo comp bench,"[275.0, 245.0]","[1, 3]","[1, 3]","[7.0, 6.0]","using belt to try and increase tightness, nope didn’t do that past 185, can use same rep weight for next week and be fine","mobility, warmup"
-87,7/19/20,single arm t bar row,[70.0],[3],[12],[None],"can add dramatically next week, pack lat and squeeze","mobility, warmup"
-88,7/28/20,comp bench,[285.0],[1],[1],[6.0],"6.5, 245x3x5@6 / foot position needs to be straight forward and wide relative to previous positions, position>speed","mobility, warmup - added shoulder t nation movement and unilateral kneeling kb press"
-89,7/28/20,flat dumbbell feet up bench,[50.0],[3],[12],[None],very easy actually,"mobility, warmup - added shoulder t nation movement and unilateral kneeling kb press"
-90,7/30/20,comp deadlift,[405.0],[1],[6],[5.0],technically felt perfect and great starting point,"10 min bike warmup, mobility, warmup"
-91,7/30/20,candito deadlift,[315.0],[3],[5],[None],need to do beltless but feels amazing on quads,"10 min bike warmup, mobility, warmup"
-92,7/30/20,spoto press,"[245.0, 255.0, 265.0]","[1, 1, 1]","[2, 2, 2]","[None, None, None]","foot position feels great, stick to wider foot position for stability and spoto will take time to get used to ( trying to bring it to chest every rep and looks unnatural )","10 min bike warmup, mobility, warmup"
-93,7/30/20,goblet split squats,[25.0],[3],[10],[None],feels so much more stable in a front goblet position,"10 min bike warmup, mobility, warmup"
-94,7/31/20,pause comp squat,"[405.0, 365.0]","[1, 2]","[1, 4]","[6.0, None]","very technically sound,  the bar kept sliding down back even with a7 shirt and very annoying",10min bike warmup
-95,7/31/20,comp bench,"[280.0, 265.0, 250.0, 240.0]","[1, 1, 2, 2]","[1, 3, 2, 3]","[6.0, 6.0, None, None]",every set felt very technically solid,10min bike warmup
-96,8/1/20,high bar,"[385.0, 335.0]","[1, 3]","[1, 4]","[6.0, 6.0]",easy just hurts as a third day,"10min bike ride 64cal, mobility, warmup"
-97,8/1/20,comp deadlift,"[445.0, 455.0, 455.0, 460.0, 460.0]","[1, 1, 1, 1, 1]","[1, 1, 1, 1, 1]","[None, None, None, None, None]","all fucking easy, wedging is best it’s ever been by using the hips cue pre/knee","10min bike ride 64cal, mobility, warmup"
-98,8/1/20,close grip bench,[235.0],[1],[7],[5.0],"6, 215x2x6 / extremely smooth and easy","10min bike ride 64cal, mobility, warmup"
-99,8/3/20,comp squat,"[455.0, 385.0]","[1, 1]","[1, 7]","[7.0, 6.0]","7, 365x2x7 / hip flaring on top set of 7 but moved great","mobility, warmup"
-100,8/3/20,3:1:0 tempo bench,[305.0],[1],[1],[8.5],"9, 245x3x3@5/6 / think about reaching chest the entire movement, reach reach reach","mobility, warmup"
-101,8/3/20,comp bench,"[295.0, 255.0]","[1, 4]","[1, 5]","[7.0, 7.0]",either only have primer singles the day before or no single at all,"mobility, warmup"
-102,8/5/20,comp deadlift,[425.0],[3],[7],[None],fucking tiring,"56cal 10min bike ride warmup, mobility, warmup"
-103,8/5/20,spoto press,[245.0],[4],[3],[None],money and no tendonitis,"56cal 10min bike ride warmup, mobility, warmup"
-104,8/7/20,pause comp squat,[425.0],[1],[1],[7.5],"8, 365x3x3 / flats for first time and feel great","58cal 10min bike ride warmup, mobility, warmup"
-105,8/7/20,comp deadlift,"[475.0, 485.0, 495.0]","[2, 2, 1]","[1, 1, 1]","[None, None, None]",tired af going into it but easy,"58cal 10min bike ride warmup, mobility, warmup"
+0, 5/31/19,dips,[45.0],[3],[8.0],[None],very difficult rpe10 every set,nan
+1, 6/2/19,tng bench,[185.0],[3],[10.0],[None],rpe6 sleeved without much leg drive and quality sleep,nan
+2, 6/2/19,beltless high bar,[275.0],[3],[8.0],[None],"feels very good considering sleep schedule, rpe8",nan
+3, 6/3/19,comp bench,[195.0],[3],[10.0],[None],rpe8 good and smooth,nan
+4, 6/3/19,pause beltless sumo deadlift,"[425.0, 375.0]","[1, 4]","[1.0, 5.0]","[None, None]",smooth but heavy,nan
+5, 6/4/19,close grip bench,[185.0],[3],[8.0],[None],rpe8 smooth,nan
+6, 6/4/19,beltless pause low bar squat,"[385.0, 345.0]","[1, 4]","[1.0, 3.0]","[None, None]",every rep rpe10 felt awful couldn’t do 355 for any sets,nan
+7, 6/7/19,comp bench,[230.0],[6],[3.0],[None],"felt good rpe7.5, toes instead of heels felt bad, head down felt better than head up",nan
+8, 6/7/19,conventional beltless deadlift,[345.0],[2],[9.0],[None],back fatigued feels good with rolling technique,nan
+9, 6/9/19,tng bench,[195.0],[3],[12.0],[None],"sleeveless, sets in rpe 8,9,10",nan
+10, 6/9/19,beltless high bar,[280.0],[3],[9.0],[None],"every set hard, technique failing at the 8th and 9th rep / last set is most sound",nan
+11, 6/10/19,comp bench,[205.0],[3],[10.0],[None],"sleeved, first set rpe8, last 2 sets rpe10 fatigued from yesterday bench session",nan
+12, 6/10/19,beltless pause sumo deadlift,[395.0],[5],[5.0],[None],"had to psychologically arouse for every set, set 1/3 rpe7, set 4/5 rpe 9",nan
+13, 6/10/19,incline dumbbell bench,[55.0],[3],[12.0],[None],short rest periods rpe6,nan
+14, 6/12/19,beltless pause low bar squat,[345.0],[5],[3.0],[None],so smooth and felt better than any other week,nan
+15, 6/12/19,close grip bench,[190.0],[3],[9.0],[None],"very easy rpe 6,7,7 sleeveless",nan
+16, 6/19/19,come bench,"[215.0, 270.0]","[1, 1]","[10.0, 1.0]","[None, None]","10 set was rpe 8, single was misgrooved but fast",nan
+17, 6/19/19,beltless pause sumo,"[455.0, 365.0]","[1, 2]","[1.0, 5.0]","[None, None]","easy rpe 9 single and sets were difficult, single and first backoff set was strapless",nan
+18, 6/20/19,beltless pause low bar squat,"[405.0, 315.0]","[1, 3]","[1.0, 3.0]","[None, None]","single was good pause and fast,  taxing but fast",nan
+19, 6/21/19,comp bench,[225.0],[4],[3.0],[None],"felt slow, not feeling good generally today / slow and sluggish",nan
+20, 6/21/19,beltless conventional deadlift,[315.0],[1],[8.0],[None],felt very strong despite stomach ache,nan
+21, 6/24/19,comp bench,[205.0],[5],[8.0],[None],felt really good with sore lats,nan
+22, 6/24/19,beltless sumo deadlift,"[475.0, 385.0]","[1, 5]","[1.0, 3.0]","[None, None]","deadlift party had to max, missed 515 because of strength and mis positioning / working sets felt solid, just extreme lat soreness from tubing",nan
+23, 6/24/19,inverted rows,[0.0],[5],[8.0],[None],no weight because of late,nan
+24, 6/24/19,incline dumbbell press,[60.0],[3],[8.0],[None],no weight increase because of soreness,nan
+25, 6/25/19,close grip bench,[225.0],[5],[3.0],[None],"sleeveless, smooth, all sets rpe 7, trying to aim lower on chest for highest point",nan
+26, 6/25/19,beltless low bar squat,[320.0],[3],[5.0],[None],very smooth with closer stance despite extreme erector fatigue,nan
+27, 6/27/19,wide grip rdl,[275.0],[5],[5.0],[None],"good weight, hard to keep positioning",nan
+28, 6/28/19,comp bench,[215.0],[5],[5.0],[None],"left shoulder flaring up, felt smooth with heels up",nan
+29, 6/28/19,beltless conventional deadlift,[345.0],[5],[5.0],[None],felt smooth and explosive,nan
+30, 6/28/19,incline dumbbell flys,[25.0],[4],[10.0],[None],increase by 10lb next week,nan
+31, 6/28/19,incline dumbbell press,[65.0],[4],[10.0],[None],solid sets,nan
+32, 6/29/19,tng bench,[205.0],[4],[10.0],[None],"sleeveless, rpe 7,8,10,  each set respectively",nan
+33, 6/29/19,beltless high bar,[275.0],[3],[10.0],[None],"smooth, very hard and tiring",nan
+34, 6/29/19,band face pulls,[5.0],[1],[30.0],[None],40,nan
+35, 6/29/19,alternating hammer curls,[30.0],[5],[10.0],[None],"too easy, 35s next 5x10",nan
+36, 7/1/19,comp bench,"[250.0, 215.0]","[1, 4]","[1.0, 8.0]","[None, None]","single was rpe 6, sets rpe 7, 8, 9, 10",nan
+37, 7/1/19,beltless sumo deadlift,"[445.0, 410.0]","[1, 4]","[1.0, 3.0]","[None, None]","single felt heavy, possibly too heavy jumps in warmups, be more aggressive off the floor and flip head up to accelerate",nan
+38, 7/1/19,incline dumbbell bench,[60.0],[3],[12.0],[None],"very easy, strength progressing well",nan
+39, 7/2/19,close grip bench,[230.0],[4],[3.0],[None],should’ve done 235 easy,nan
+40, 7/2/19,beltless low bar squat,"[410.0, 345.0]","[1, 3]","[1.0, 5.0]","[None, None]",find correct knee position without belt,nan
+41, 7/2/19,bulgarian split squats,[0.0],[3],[10.0],[None],slow eccentric focus contraction,nan
+42, 7/4/19,inverted rows,[25.0],[4],[15.0],[None],set on knees for more even pulling,nan
+43, 7/5/19,comp bench,[225.0],[5],[5.0],[None],"very smooth, good difficulty, rpe 7/8 all sets",nan
+44, 7/5/19,incline dumbbell bench,[60.0],[4],[10.0],[None],"since added 10lb to flys, keeping press a little lower than last weeks 65lb",nan
+45, 7/7/19,comp bench,[225.0],[3],[8.0],[None],"smooth with sleeves, rpe 8,9,10",nan
+46, 7/7/19,beltless sumo deadlift,[430.0],[3],[3.0],[None],"very very easy, rpe 7 all sets",nan
+47, 7/7/19,incline dumbbell bench,[65.0],[3],[12.0],[None],smooth all rpe 8,nan
+48, 7/7/19,machine preacher curls,[90.0],[3],[10.0],[None],good starting weight,nan
+49, 7/9/19,close grip bench,"[295.0, 245.0]","[1, 3]","[1.0, 3.0]","[None, None]","smooth, was shaking from excitement but flew up, single was pause and 20lb pr",nan
+50, 7/9/19,side lateral,[30.0],[4],[12.0],[None],good weight,nan
+51, 7/12/19,comp bench,"[295.0, 240.0]","[1, 5]","[1.0, 5.0]","[None, None]","sets easy, all smooth",nan
+52, 7/12/19,beltless conventional deadlift,"[455.0, 415.0]","[1, 3]","[1.0, 5.0]","[None, None]","single was smooth but slow, sets are slow and hard, rpe 10 all the way through, upper back isn’t tight enough and hips are rising too early",nan
+53, 7/15/19,comp bench,"[280.0, 185.0]","[1, 2]","[1.0, 8.0]","[None, None]","single rpe 7.5 long pause, bench progressing great",nan
+54, 7/15/19,beltless sumo deadlift,"[495.0, 395.0]","[1, 1]","[1.0, 3.0]","[None, None]",single moved at rpe 9 but was 9.5 very smooth,nan
+55, 7/16/19,close grip tng sleeved bench,"[300.0, 225.0]","[1, 3]","[1.0, 3.0]","[None, None]",sets were feet up and pause but still with sleeves,nan
+56, 7/18/19,comp bench,"[255.0, 215.0]","[1, 2]","[5.0, 5.0]","[None, None]","rep pr was rpe 10,  rpe 7",nan
+57, 7/18/19,beltless conventional deadlift,[345.0],[2],[5.0],[None],smooth and good technique,nan
+58, 7/18/19,incline dumbbell flys,[20.0],[4],[10.0],[None],deload week,nan
+59, 7/18/19,incline dumbbell bench,[50.0],[4],[10.0],[None],deload week,nan
+60, 7/19/19,tng bench,"[275.0, 205.0]","[1, 2]","[1.0, 8.0]","[None, None]","single was rpe 8 but slower than anticipated, all done with belt and felt decent",nan
+61, 7/19/19,beltled sleeveless high bar,[0.0],[1],[0.0],[None],"left shoulder irritation too high, calves too sore to come out of the hole, not worth the risk of injury, need to adjust squat numbers",nan
+62, 7/19/19,face pulls,[32.5],[5],[30.0],[None],40,nan
+63, 7/21/19 ,comp squat,[370.0],[4],[5.0],[None],"first time with belt in 2 months, very hard but smooth sets, extremely hard",nan
+64, 7/21/19 ,comp bench,[205.0],[3],[7.0],[None],"very easy and smooth, using thick plates as well, positioning is good and timing is on, all sets rpe 6/7",nan
+65, 7/22/19,comp deadlift,[425.0],[3],[4.0],[None],"first time belted sumo in 2 months, feels smooth but hard, shoulders need to be above the bar not in front",nan
+66, 7/22/19,comp bench,[225.0],[4],[5.0],[None],"in power rack i hate this, smooth and easy",nan
+67, 8/5/19 ,comp squat,"[365.0, 315.0]","[1, 3]","[1.0, 2.0]","[None, None]","single was rpe 6/7, everything moving fast but technique and cns isn’t there, sets were rpe 6",nan
+68, 8/5/19 ,comp bench,"[275.0, 245.0, 225.0]","[1, 3, 3]","[1.0, 2.0, 5.0]","[None, None, None]","single was rpe 10 but not bad at all, doubles were fast rpe 8, 5’s were challenging but smooth",nan
+69, 8/5/19 ,overhead press,"[155.0, 135.0]","[2, 2]","[1.0, 3.0]","[None, None]","first single was fast with normal grip, wider isn’t better, sets are okay but ab is cramping every time",nan
+70, 8/5/19 ,sitting calves,[45.0],[5],[10.0],[None],pause at the bottom very easy to help soreness,nan
+71, 8/6/19,comp deadlift,"[475.0, 515.0, 555.0]","[1, 1, 1]","[1.0, 1.0, 0.0]","[None, None, None]","got 555 off ground but just not there yet, previous singles flew",nan
+72, 8/8/19,overhead press,[175.0],[1],[1.0],[None],"absolute max, 10 second rep with sleeves",nan
+73, 8/9/19,comp squat,"[405.0, 315.0]","[1, 3]","[1.0, 3.0]","[None, None]","still readjusting to belted, will take more time",nan
+74, 8/12/19,comp squat,[370.0],[4],[5.0],[None],"so much easier than last time with this workout, deloading payed off",nan
+75, 8/13/19,comp deadlift,[425.0],[3],[4.0],[None],hard time breathing and bracing,nan
+76, 8/13/19,comp bench,[225.0],[4],[5.0],[None],smooth just fatigued from deadlifts,nan
+77, 8/13/19,bent over rows,[185.0],[3],[6.0],[None],irritates hip injury,nan
+78, 8/15/19,comp squat,[345.0],[3],[7.0],[None],"power is there, conditioning is terrible, smooth sets just hard",nan
+79, 8/15/19,overhead press,[100.0],[2],[8.0],[None],sleeveless but with a belt,nan
+80, 8/17/19,comp bench,[230.0],[3],[4.0],[None],smooth but will slide without a7 shirt,nan
+81, 8/17/19,pause sumo belted deadlift,[375.0],[2],[3.0],[None],smooth as can be after walking 3 miles today because of car,nan
+82, 8/17/19,bent over rows,[185.0],[4],[5.0],[None],easy not irritating hip as much,nan
+83, 8/19/19,comp squat,[375.0],[5],[5.0],[None],smoother than last week even with minor back fatigue and new gym environment,nan
+84, 8/19/19,comp bench,[215.0],[4],[7.0],[None],weird bench setup but it as similar as possible to a comp bench that i have access to,nan
+85, 8/19/19,close grip bench,[205.0],[4],[6.0],[None],very hard because of squat and bench fatigue beforehand,nan
+86, 8/20/19,comp deadlift,[435.0],[4],[4.0],[None],"smooth but very hard, start with head more upright to avoid discomfort and pull shoulders back",nan
+87, 8/20/19,comp bench,[225.0],[5],[5.0],[None],chest is sore but is still smooth and rpe 7/8,nan
+88, 8/22/19,comp squat,[355.0],[4],[7.0],[None],"rpe 10 last 3 sets, form breakdown on last set, should’ve taken extra day off but got it done",nan
+89, 8/22/19,overhead press,[95.0],[3],[8.0],[None],"beltless, too out of breathe and dizzy to put it back on after squats / a rest day would’ve been smart",nan
+90, 8/22/19,t bar row,[90.0],[4],[10.0],[None],"again, wanted to do more but fatigue is too high",nan
+91, 8/26/19,comp bench,"[275.0, 235.0]","[1, 4]","[1.0, 4.0]","[9.0, None]",feeling smooth without bar grip shirt,nan
+92, 8/26/19,close grip bench,[225.0],[2],[3.0],[None],hard and foreign,nan
+93, 8/26/19,belted pause sumo deadlift,[375.0],[2],[3.0],[None],feels good just hamstring issues,nan
+94, 8/28/19,comp squat,[455.0],[1],[1.0],[8.5],smooth but felt so heavy due to lack of singles,nan
+95, 8/28/19,comp bench,"[285.0, 220.0]","[1, 4]","[1.0, 7.0]","[9.5, None]","single was smooth and felt solid, sets were smooth but tough",nan
+96, 8/29/19,comp bench,[235.0],[5],[5.0],[None],smooth and doable,nan
+97, 8/29/19,hamstring curl,[110.0],[3],[6.0],[None],"extreme discomfort, obviously something is wrong",nan
+98, 9/2/19 ,comp squat,"[380.0, 325.0]","[3, 2]","[3.0, 5.0]","[None, None]",focused on getting confidence back on squats,nan
+99, 9/2/19 ,comp bench,"[230.0, 195.0]","[4, 1]","[3.0, 10.0]","[None, None]","smooth as usual, nothing interesting without a7 shirt,  were supposed to be 2x5 but it was stupid easy anyways",nan
+100, 9/2/19 ,stiff legged deadlift,[225.0],[4],[9.0],[None],these just fucking suck,nan
+101, 9/3/19,comp deadlift,"[415.0, 355.0]","[3, 2]","[3.0, 5.0]","[None, None]","smooth but hard, still adjusting to belt",nan
+102, 9/3/19,2sec pause bench,[225.0],[3],[4.0],[None],wanted 235 but fatigue from faster pace is too much,nan
+103, 9/3/19,comp squat,[315.0],[2],[5.0],[None],so fatigued,nan
+104, 9/3/19,t bar row,[200.0],[4],[10.0],[None],10lb unloaded each side in machine area,nan
+105, 9/5/19,2ct pause squats,[345.0],[4],[4.0],[None],good starting point and fit rpe 8 very well,nan
+106, 9/5/19,comp bench,[205.0],[6],[5.0],[None],rpe 6/7 for all sets,nan
+107, 9/5/19,feet up bench,[195.0],[4],[5.0],[None],rpe 6.5 but new positioning to adjust to,nan
+108, 9/5/19,comp deadlift,[340.0],[2],[5.0],[None],hamstring still irritated but new texas bar is nice,nan
+109, 9/8/19 ,pause deadlifts,[365.0],[4],[4.0],[None],going off of 4 hours of sleep total / switching to beltless,nan
+110, 9/8/19 ,tng bench,[225.0],[3],[6.0],[None],very heavy since sleep and am exhausted,nan
+111, 9/8/19 ,close grip incline bench,"[135.0, 155.0]","[1, 3]","[8.0, 8.0]","[None, None]",different but the rom is massive,nan
+112, 9/10/19,comp squat,"[390.0, 335.0]","[4, 1]","[3.0, 5.0]","[None, None]","new bar, feels very different, not getting a lot of rebound out of the hole to avoid hip pain, smooth but mentally very difficult, technique felt different on every rep, had to cut the last back off / too fatigued and tired",nan
+113, 9/10/19,comp bench,"[240.0, 205.0]","[5, 3]","[3.0, 5.0]","[None, None]","incredibly fatigued from squats, having a hard time firing on all cylinders, cutting sldl and ab work / too exhausted",nan
+114, 9/11/19,beltless deadlift,"[500.0, 425.0]","[1, 4]","[1.0, 3.0]","[None, None]","did 500 for a single instead of the 2  sets just to readjust to heavy weight, beltless feels infinitely better",nan
+115, 9/11/19,comp bench,"[300.0, 250.0]","[1, 4]","[1.0, 3.0]","[None, None]","single felt very smooth, may have gotten a pound of resistance help from spotter but extemely minimal, sets were very smooth and doable",nan
+116, 9/13/19,pause squats,[365.0],[5],[3.0],[None],"fairly smooth, pretty difficult but form is 90% there",nan
+117, 9/13/19,comp bench,[210.0],[4],[6.0],[None],did 4x6 instead of 6x4 because it’s easy,nan
+118, 9/13/19,feet up bench,[225.0],[3],[4.0],[None],tng but difficult still,nan
+119, 9/13/19,comp deadlift,[355.0],[3],[5.0],[None],hip hurting badly but sets are fine,nan
+120, 9/14/19,pause deadlifts,[385.0],[5],[3.0],[None],"positioning is much smoother, smoothest deadlift sets of the fucking prep the fire is back im back, hip pain is 7/10, pain started becoming noticeable after 3rd set even though all of the sets were rpe 6",nan
+121, 9/14/19,tng bench,"[275.0, 205.0]","[1, 3]","[1.0, 12.0]","[None, None]","tng feels harder than comp bench for singles, failed very last rep of the sets, just too fatigued and didn’t take long enough of a rest, no big deal",nan
+122, 9/14/19,close grip incline bench,[160.0],[4],[7.0],[None],easy money,nan
+123, 9/17/19,comp squat,"[410.0, 340.0]","[5, 2]","[2.0, 4.0]","[None, None]","adjusting to heavier loads very well, doesn’t feel bad, best squat session of the prep",nan
+124, 9/17/19,comp bench,"[285.0, 250.0, 225.0]","[1, 5, 2]","[1.0, 2.0, 4.0]","[None, None, None]","easy as usual, nothing special",nan
+125, 9/17/19,sldl,[185.0],[4],[8.0],[None],very good weight,nan
+126, 9/18/19,comp deadlift,"[445.0, 375.0]","[5, 2]","[2.0, 4.0]","[None, None]","comfortable, not a ton of pain but need to lockout more",nan
+127, 9/18/19,comp bench,[250.0],[3],[3.0],[None],easy and casual,nan
+128, 9/18/19,comp squat,[0.0],[1],[0.0],[None],"irritated hip, hamstring, knee, everything",nan
+129, 9/20/19,comp squat,"[455.0, 475.0]","[1, 1]","[1.0, 1.0]","[None, None]",475 was faster than 455 off of 4 hours of sleep,nan
+130, 9/20/19,comp bench,"[275.0, 225.0]","[1, 6]","[1.0, 3.0]","[None, None]","slight elbow discomfort, possible tendonitis but very manageable",nan
+131, 9/20/19,feet up bench,[230.0],[4],[3.0],[None],much easier than last week,nan
+132, 9/20/19,comp deadlift,[370.0],[2],[5.0],[None],"didn’t do, irritated hip from 135 warmup, need sleep and add to next non deadlift day",nan
+133, 9/23/19,comp squat,"[405.0, 355.0]","[4, 3]","[3.0, 4.0]","[None, None]","elbows up, rebound trick, have hips and shoulders even until the hole and then intentionally drop hips as fast as comfortable, no set was a complete rpe 10, most were 9/9.5",nan
+134, 9/23/19,comp bench,"[275.0, 245.0, 225.0]","[1, 5, 3]","[1.0, 3.0, 4.0]","[None, None, None]","single was awful lift off and 3 sec pause and still flew, all sets rpe 8/8.5",nan
+135, 9/25/19,comp deadlift,"[440.0, 440.0]","[1, 1]","[3.0, 2.0]","[None, None]","flu like symptoms yesterday and today but the fire is there, back popped on second set no more",nan
+136, 9/25/19,comp bench,[225.0],[4],[4.0],[None],felt bad because of back,nan
+137, 9/30/19 ,comp squat,"[425.0, 295.0]","[1, 6]","[2.0, 5.0]","[None, None]","went for a top triple but it wasn’t there, no fail just not strong enough first day back",nan
+138, 9/30/19 ,come bench,"[265.0, 185.0]","[1, 7]","[2.0, 5.0]","[None, None]","first time i’m prep bench felt weak off the chest, barely got the double",nan
+139, 10/1/19,comp deadlift,"[475.0, 335.0]","[1, 1]","[2.0, 2.0]","[None, None]","belt makes everything move so much better, couldn’t get the triple, just not strong enough, hamstring irritated but nothing compared to earlier in prep, hamstring too irritated to do prescribed back off sets",nan
+140, 10/1/19,2ct pause bench,[245.0],[3],[4.0],[None],"smooth but so sore, trending upwards",nan
+141, 10/1/19,comp squat,[315.0],[3],[4.0],[None],hard so fatigued jesus christ,nan
+142, 10/3/19,pin squat,"[365.0, 315.0]","[1, 2]","[3.0, 4.0]","[None, None]","very solid triple, perfect weight, back offs perfect weight",nan
+143, 10/3/19,close grip bench,"[245.0, 225.0]","[1, 2]","[3.0, 3.0]","[None, None]",nan,nan
+144, 10/3/19,tng bench,"[245.0, 225.0]","[1, 2]","[3.0, 5.0]","[None, None]","245 too heavy without rewarming up, and stressed for time so that can’t happen",nan
+145, 10/4/19,comp deadlift,"[435.0, 385.0]","[1, 1]","[3.0, 1.0]","[None, None]",hip and hamstring too hurt for back offs,nan
+146, 10/4/19,feet up bench,[225.0],[4],[5.0],[None],difficult but doable,nan
+147, 10/7/19,comp squat,"[455.0, 315.0, 365.0, 405.0]","[1, 1, 1, 1]","[1.0, 3.0, 2.0, 1.0]","[None, None, None, None]","so tired, no preworkout, felt terrible i fucking hate this, had to adjust belt, back offs feel much better than top single",nan
+148, 10/7/19,comp bench,"[275.0, 245.0]","[1, 2]","[2.0, 3.0]","[None, None]",felt surprisingly good despite sleep loss,nan
+149, 10/8/19,comp deadlift,"[475.0, 425.0]","[1, 2]","[1.0, 2.0]","[None, None]","warmups flew, feeling good with tightened belt, back offs felt bad, be more aggressive off of the ground and all of your problems will go away",nan
+150, 10/8/19,comp bench,"[275.0, 255.0]","[1, 3]","[1.0, 3.0]","[None, None]",single was 2sec pause and smooth but difficult,nan
+151, 10/10/19,pin squat,"[405.0, 335.0]","[1, 2]","[2.0, 3.0]","[None, None]","positioning feeling great with slightly more upright chest in the hole, top double could be so much more with practice in this lift, just had to find balance off of the safeties and then it flew",nan
+152, 10/10/19,comp bench,[255.0],[2],[4.0],[None],"feeling improved from close previous sessions, need tighter arch, had to split the last set up into 3/1 because of inconsistent sleep",nan
+153, 10/11/19,comp deadlift,"[475.0, 405.0]","[1, 1]","[2.0, 1.0]","[None, None]","double was rpe 9.5, aggressiveness in the beginning of the pull fixed a lot of problems, back offs were cut short because of knee and hamstring ache, can’t risk pulling this close to comp",nan
+154, 10/11/19,tng bench,[245.0],[4],[4.0],[None],felt good with consistent setup but not like weeks ago when it was weightless,nan
+155, 10/14/19,comp squat,"[455.0, 325.0]","[1, 1]","[1.0, 3.0]","[None, None]","single was on the better side considering bad sleep the night before, fork chest in a more upright position to get more rebound out of the hole, could’ve hit 475 after but it would’ve been ugly",nan
+156, 10/14/19,comp bench,"[295.0, 225.0]","[1, 3]","[1.0, 3.0]","[None, None]",smooth single,nan
+157, 10/15/19,comp deadlift,"[455.0, 315.0]","[1, 1]","[1.0, 3.0]","[None, None]","fatigued from yesterday, so sick of training",nan
+158, 10/15/19,comp bench,"[275.0, 265.0]","[1, 2]","[2.0, 2.0]","[None, None]","top double was very fast,  were difficult because of mental climax on top set",nan
+159, 10/17/19,pin squat,"[440.0, 365.0]","[1, 2]","[1.0, 2.0]","[None, None]","single was rpe 9/9.5 smooth, everything in this prep is mental burnout and the strength is there",nan
+160, 10/17/19,comp bench,"[280.0, 265.0]","[1, 2]","[1.0, 2.0]","[None, None]","pr double with ammonia, first rep very smooth second one took a year",nan
+161, 10/19/19,comp deadlift,"[495.0, 405.0]","[1, 1]","[1.0, 3.0]","[None, None]","best single of prep no question, was rpe 8.5",nan
+162, 10/19/19,tng bench,[260.0],[2],[3.0],[None],"surprisingly easier than previous tng sessions, maybe even a rep pr",nan
+163, 10/21/19,comp squat,"[450.0, 390.0]","[1, 3]","[1.0, 2.0]","[None, None]","squat is such a shitshow, can’t decide on form and sleep is bad",nan
+164, 10/21/19,comp bench,"[270.0, 245.0]","[1, 3]","[1.0, 2.0]","[None, None]","warmups flying, dialed in, single was smooth, back off sets were solid, form coming back",nan
+165, 10/22/19,comp deadlift,"[470.0, 425.0]","[1, 2]","[1.0, 2.0]","[None, None]","opener was 8.5 even with soreness and ache from yesterday’s session,  were slower than anticipated but technically sound, knee/hip/hamstring ache",nan
+166, 10/22/19,comp bench,[245.0],[4],[1.0],[None],easy as it should be,nan
+167, 10/25/19 ,comp squat,"[406.0, 352.0]","[1, 2]","[1.0, 2.0]","[None, None]","single very heavy due to jet lag and lack of sleep, probably dropping opener 5kg",nan
+168, 10/25/19 ,comp bench,"[245.0, 225.0]","[1, 2]","[1.0, 2.0]","[None, None]",easy,nan
+0,12/15/19,high bar,"[345.0, 315.0]","[1, 4]","[6.0, 6.0]","[None, None]","top set was 7.5,  were technically sound, sets were rpe 7, 7.5, 7.5, 8, last set just lined up under the bar uneven but everything else was fine",jts squat mobility and warmup
+1,12/15/19,incline bench,[155.0],[3],[6.0],[None],sets done at rpe 6,jts squat mobility and warmup
+2,12/15/19,snatch grip deadlift,[225.0],[3],[15.0],[None],conditioning is fucking shit,jts squat mobility and warmup
+3,12/17/19,2” board press,"[245.0, 225.0]","[2, 2]","[6.0, 6.0]","[None, None]","feels good on positioning and no pain anywhere, sets were rpe 9,10,8,9",jts bench mobility and warmup
+4,12/17/19,comp deadlift,"[425.0, 380.0]","[1, 5]","[4.0, 4.0]","[None, None]","need to keep upper back slightly more straight, top set was rpe 8, back/offs were 7, 7.5, 7.5, 7, 7.5",jts bench mobility and warmup
+5,12/17/19,low bar pin squat,[275.0],[3],[6.0],[None],"trying not to irritate hip, zero hip irritation, all sets rpe sub 6",jts bench mobility and warmup
+6,12/19/19,high bar,[325.0],[4],[6.0],[None],"every set feels clean and absolutely no pain, in pocket, sets done in rpe 7, 7.5, 7.5,",jts squat mobility and warmup
+7,12/19/19,4” block pull,[335.0],[2],[4.0],[None],"felt good just very sore back so is a comfortable rpe 6, fully lockout since next competition is conventional",jts squat mobility and warmup
+8,12/19/19,military press,[115.0],[4],[6.0],[None],"sore shoulder but feels fine, sets done at rpe 6, 6, 6.5, 6.5",jts squat mobility and warmup
+9,12/21/19,comp bench,"[265.0, 170.0, 155.0]","[1, 1, 4]","[1.0, 6.0, 6.0]","[9.0, None, None]","single moved very very well considering the tolerance for singles isn’t there for bench anymore, all sets rpe sub 6",t spine and jts mobility and warmup
+10,12/21/19,skull crushers,[65.0],[3],[15.0],[None],"15lb bar assuming, slight pressure on elbow but very good tricep exercise",t spine and jts mobility and warmup
+11,12/23/19,high bar,"[355.0, 325.0]","[1, 4]","[8.0, 8.0]","[None, None]","great sets, no pain, everything rpe 8",t spine and jts mobility and warmup
+12,12/23/19,incline bench,[165.0],[3],[8.0],[None],"very smooth, all sets around rpe 7",t spine and jts mobility and warmup
+13,12/23/19,straight bar bicep curls,[60.0],[3],[15.0],[None],all sets rpe 7 or less,t spine and jts mobility and warmup
+14,12/23/19,snatch grip deadlift,[235.0],[2],[15.0],[None],"threw up after first set, cancelled last one, not worth it",t spine and jts mobility and warmup
+15,12/24/19,2” board press,"[225.0, 210.0]","[1, 3]","[8.0, 8.0]","[None, None]",did top set with a 1” board on accident and following sets with 2”,no mobility
+16,12/25/19,comp deadlift,"[405.0, 375.0, 360.0]","[1, 1, 4]","[6.0, 6.0, 6.0]","[None, None, None]","with soreness top set was still rpe 7.5, had to adjust fatigue after first backdown to “4” after the rpe 9.5 375lb set, technique is feeling completely dialed in, other backdown sets were rpe 8, 8, 7.5, 8, last set done without straps or chalk",jts mobility and warmup
+17,12/25/19,low bar pin squat,[295.0],[3],[8.0],[None],"warmups feeling amazing, facing away from mirror from now on, all sets were rpe 7",jts mobility and warmup
+18,12/27/19,comp squat,[315.0],[3],[5.0],[None],"positioning feels fantastic, warmups felt great, all sets rpe sub 6",t spine & jts mobility & warmup
+19,12/27/19,rdl,[335.0],[4],[7.0],[None],all sets done at rpe 7,t spine & jts mobility & warmup
+20,12/27/19,military press,[125.0],[3],[5.0],[None],all sets rpe 7,t spine & jts mobility & warmup
+21,12/28/19,comp bench,"[245.0, 200.0, 185.0]","[1, 1, 4]","[1.0, 5.0, 5.0]","[None, None, None]","top single was long pause and rpe 8, top set of 5 was rpe sub 6,  were all sub 6",t spine & jts mobility & warmup
+22,12/28/19,single arm face pulls,[30.0],[3],[15.0],[None],"all easy, do 2 hands in the future for better connection",t spine & jts mobility & warmup
+23,12/28/19,skull crushers,[70.0],[3],[15.0],[None],"a lot more comfortable than last week, rpe 7,8,9",t spine & jts mobility & warmup
+24,12/30/19,comp squat,"[350.0, 325.0]","[1, 4]","[6.0, 6.0]","[None, None]","top set was rpe sub 6, form felt entirely in pocket, back off sets were sub 6, 0 pain, torque feet outwards and slightly bend knees into position while staying over mid foot",t spine & jts mobility & warmup
+25,12/30/19,incline bench,[175.0],[3],[6.0],[None],"felt great on joints and muscles, sets were rpe 7, 7, 7",t spine & jts mobility & warmup
+26,12/30/19,preacher ez bar curls,[65.0],[3],[12.0],[None],assuming 15lb bar,t spine & jts mobility & warmup
+27,12/30/19,lat pulldown,[130.0],[3],[12.0],[None],"sets were rpe 7.5, 8, 8",t spine & jts mobility & warmup
+28,12/30/19,snatch grip deadlift,[255.0],[3],[10.0],[None],strength could handle way more reps but conditioning is the limiting factor,t spine & jts mobility & warmup
+29,12/31/19,2” board press,[225.0],[4],[6.0],[None],all sets rpe 7/7.5,t spine mobility & warmup
+30,12/31/19,rope tricep extensions,[105.0],[3],[12.0],[None],all sets rpe 7/7.5,t spine mobility & warmup
+31,1/1/20,conventional deadlift,"[525.0, 370.0, 345.0]","[1, 1, 3]","[1.0, 5.0, 5.0]","[None, None, None]","done after a bad night of drinking, internally rotate elbows to allow for better positioning, top set of 5 was rpe 7,  were sub 6 just tired from night/day activities, cancelled the last 2 sets of  since warmups for single accounted for some of that volume",t spine & jts mobility & warmup
+32,1/1/20,low bar pin squat,[315.0],[3],[6.0],[None],"rpe 7 sets, focus on eccentric and everything else will fall into place",t spine & jts mobility & warmup
+33,1/2/20,comp squat,[340.0],[3],[6.0],[None],"sets were rpe 7.5, 7, 6.5 because of bloating from food and poor sleep, lower back fatigue is definitely present, form still feels entirely in pocket , 0 hip pain feels great, sets got better and better","bike warmup since havent moved that much today - 12 min @ 4 intensity // slight hamstring soreness showing up, 2 miles total distance , foam rolling, bracing drills, jts mobility & warmup"
+34,1/2/20,rdl,[315.0],[4],[8.0],[None],"315 is perfect weight considering back soreness, lower back is shot after these sets","bike warmup since havent moved that much today - 12 min @ 4 intensity // slight hamstring soreness showing up, 2 miles total distance , foam rolling, bracing drills, jts mobility & warmup"
+35,1/2/20,military press,[130.0],[3],[6.0],[None],"sets were rpe 6.5, 7.5, 7.5","bike warmup since havent moved that much today - 12 min @ 4 intensity // slight hamstring soreness showing up, 2 miles total distance , foam rolling, bracing drills, jts mobility & warmup"
+36,1/4/20,comp bench,"[210.0, 195.0]","[1, 4]","[6.0, 6.0]","[None, None]","practicing new bar path and elbow position, needs some getting use to, extremely smooth sets, essentially a t/shirt press",no mobility
+37,1/4/20,face pulls,[75.0],[3],[15.0],[None],can feel rear delts much much more with 2 hand variation,no mobility
+38,1/4/20,skull crushers,[75.0],[3],[12.0],[None],feel slight tricep strain but bearable,no mobility
+39,1/6/20,comp squat,"[375.0, 350.0]","[1, 4]","[6.0, 6.0]","[None, None]","top set was rpe 7.5, felt great going into the session,  were rpe 6, 6.5, 7, 6.5, hip getting very very slightly uncomfortable towards the end, still no pain","jts mobility & warmup, bracing drills"
+40,1/6/20,incline bench,[185.0],[2],[6.0],[None],"touch n go for every rep except the last, sets were rpe 8, need to keep elbows tucked more than flat bench to keep shoulders safe","jts mobility & warmup, bracing drills"
+41,1/6/20,ez bar bicep curls,[70.0],[3],[12.0],[None],"all easy, biceps growing","jts mobility & warmup, bracing drills"
+42,1/6/20,lat pulldown,[130.0],[3],[12.0],[None],unilateral feels much better,"jts mobility & warmup, bracing drills"
+43,1/6/20,snatch grip deadlift,[275.0],[3],[10.0],[None],"conditioning is much better, felt solid","jts mobility & warmup, bracing drills"
+44,1/7/20,2” block bench,[230.0],[4],[6.0],[None],all sets rpe 7/7.5,t spine & shoulder mobility
+45,1/8/20,comp deadlift,"[390.0, 365.0]","[1, 5]","[5.0, 5.0]","[None, None]","warmups feel very smooth, top set was rpe 7, just trouble finding even grip, need to keep shoulders directly over the bar and not head/whip halfway through, hip position is fine but should avoid any lumbar rounding","foam rolling, bracing drills, jts mobility & warmup"
+46,1/8/20,low bar pin squat,[335.0],[2],[6.0],[None],"warmups are in pocket, fast, easy, smooth, controlled, in pocket, sets were rpe 6.5/7","foam rolling, bracing drills, jts mobility & warmup"
+47,1/9/20,comp squat,[365.0],[3],[6.0],[None],"second set much easier than first, hip and foot positioning feels fantastic, more difficult than should be because of lower back soreness but still very manageable, last rep was best rep",foam rolling and jts mobility & warmup
+48,1/9/20,rdl,[345.0],[3],[8.0],[None],"lower back is fucking blown up, reduce intensity slightly in the future to focus on form",foam rolling and jts mobility & warmup
+49,1/9/20,military press,[135.0],[3],[6.0],[None],"light headed every set and burns to brace but movement is smooth, sets were rpe 8, 8.5, 9",foam rolling and jts mobility & warmup
+50,1/9/20,comp bench,"[265.0, 225.0, 210.0]","[1, 1, 4]","[1.0, 6.0, 6.0]","[None, None, None]","setting arch much better and keeping elbows stable, let bar sink and not be a t/shirt press, technique and specificity in comp bench are the only issues, strength is there",foam rolling and jts mobility & warmup
+51,1/13/20,comp squat,"[405.0, 365.0]","[1, 4]","[6.0, 6.0]","[None, None]","top set was rpe 7.5, everything clicking, make it to the hole and fuck it up, 0 hip pain,  feeling very technically solid except for weight shifting forward as eccentric speed increases, 3rd back off set felt the cleanest up until this point, rest times are abnormally large because of the throwing up sensation i feel coming on",t spine and jts mobility & warmup
+52,1/13/20,incline bench,[190.0],[2],[6.0],[None],"bench on 4th hole, seat on 1st hole, lats feeling engaged and can contract harder since biceps were done first, sets were rpe 9",t spine and jts mobility & warmup
+53,1/14/20,2” board press,[235.0],[4],[6.0],[None],"sets rpe 7.5/8, not as much focus on elbows as i’d like but it’ll work for the day",no mobility
+54,1/14/20,snatch grip deadlift,[285.0],[3],[10.0],[None],still hate these,no mobility
+55,1/16/20,comp deadlift,"[410.0, 375.0]","[1, 5]","[5.0, 5.0]","[None, None]","top set was rpe 6.5, in pocket, almost no warmup because of time,  harder than top set, much better at keeping a consistent looking point, hip discomfort afterwards from not being able to warmup",no mobility
+56,1/16/20,low bar pin squat,[345.0],[2],[6.0],[None],feel amazing despite not eating anything and it being 4pm,no mobility
+57,1/17/20,comp squat,"[455.0, 385.0]","[1, 2]","[1.0, 6.0]","[None, None]","had to scratch the itch of a heavy single, was rpe 8 money, actual sets were,  feel great technically, just fatigued from single",no mobility
+58,1/17/20,rdl,[315.0],[3],[8.0],[None],very appropriate weight reduction from last week leading to much better form,no mobility
+59,1/17/20,military press,[140.0],[2],[6.0],[None],warmups flew like never before,no mobility
+60,1/18/20,comp bench,"[240.0, 220.0]","[1, 4]","[6.0, 6.0]","[None, None]","top set was rpe 9 despite thinking it would be much harder, wrap wrists more downward towards elbow from now on, slight elbow discomfort from squats yesterday",no mobility
+61,1/18/20,rope tricep extensions,[120.0],[3],[12.0],[None],swapped for skull crushers because of elbow tendonitis and discomfort,no mobility
+62,1/20/20,comp squat,"[425.0, 370.0]","[1, 3]","[5.0, 6.0]","[None, None]","combination of less rest days, yolo attempt that kept me from 6, 95lb pr for 5s, only did 3  instead of 4 because of squat rack complaint",no mobility
+63,1/20/20,incline bench,[195.0],[2],[6.0],[None],"rpe 10, need to deaload and get back at it next block",no mobility
+64,1/20/20,straight bar bicep curls,[80.0],[3],[12.0],[None],"use pinky’s at the beginning of the wider grip knurling to avoid discomfort and be in best position, all sets rpe 7/8",no mobility
+65,1/20/20,snatch grip deadlift,[295.0],[3],[10.0],[None],"rpe 7/8, conditioning is getting better",no mobility
+66,1/21/20,2” board press,[235.0],[4],[6.0],[None],"kept weigbt the same from last week due to overshoot, feels much better and much more in tune with rpe 8",no mobility
+67,1/22/20,comp deadlift,"[445.0, 395.0]","[1, 5]","[5.0, 5.0]","[None, None]","top weight was perfect choice, rpe 10 in pocket,  rpe 8 because slow and steady, 5x5 with 96% of my previous 5 rep max so not too bad",no mobility
+68,1/22/20,pin squat,[365.0],[2],[6.0],[None],"very very easy, just elbow discomfort, very in groove and have adapted to movement pattern at this point",no mobility
+69,1/22/20,lying hamstring curls,[115.0],[3],[12.0],[None],"deload needed, reset form",no mobility
+70,1/22/20,comp squat,[385.0],[3],[6.0],[None],"feeling lower back fatigue on 135, second set was smoother than 1st set for the 4th, 5th, and 6th reps, lower back is fried but decent sets",no mobility
+71,1/22/20,rdl,[315.0],[2],[8.0],[None],"lower back is cooked but trying to maintain weight, lat having a hard time staying tight towards the end of the first set",no mobility
+72,1/22/20,military press,[145.0],[2],[6.0],[None],first set was surprisingly an 8.5,no mobility
+73,1/25/20,comp bench,"[245.0, 225.0]","[1, 4]","[6.0, 6.0]","[None, None]",all easy new bench is amazing,no mobility
+74,1/25/20,face pulls,[47.5],[3],[15.0],[None],money,no mobility
+75,1/26/20,comp squat,[315.0],[3],[6.0],[None],late night session because of emotions.,no mobility
+76,1/26/20,incline bench,[170.0],[1],[6.0],[None],"weird incline setup but doable, incline on 2nd hole from top and bottom is flat",no mobility
+77,1/29/20,2’ board press,[205.0],[2],[6.0],[None],literally easiest thing ever,no mobility
+78,1/29/20,comp deadlift,[385.0],[3],[5.0],[None],"easy, lower back pump tho",no mobility
+79,1/29/20,pin squat,[315.0],[1],[6.0],[None],"slightly deeper than usual but it’s okay since this is the last session for these, last rep was best rep",no mobility
+80,1/30/20,comp squat,[330.0],[2],[6.0],[None],"easy, in pocket",no mobility
+81,1/30/20,rdl,[275.0],[1],[8.0],[None],very technically solid,no mobility
+82,1/30/20,military press,[125.0],[1],[6.0],[None],easy,no mobility
+83,2/3/20,comp squat,"[360.0, 335.0]","[1, 4]","[5.0, 5.0]","[None, None]",all sets consistently rpe 6 and smooth/fast and good positioning overall,"mobility & warmup, back extensions (2x10), no pre-workout"
+84,2/3/20,incline bench,[175.0],[3],[5.0],[None],"incline is in the middle hole while seat is flat, all reps this block on incline will be touch and go, not the increase in weight from last block i wanted because the setup is much different, rpe 8/8.5","mobility & warmup, back extensions (2x10), no pre-workout"
+85,2/3/20,snatch grip deadlift,[275.0],[3],[8.0],[None],"done on stiff bar, make a sand castle with my feet ( queue hip adductors )","mobility & warmup, back extensions (2x10), no pre-workout"
+86,2/5/20,2” board press,[230.0],[4],[5.0],[None],"rpe 6.5/7, very obvious adaptation was made, all reps tng",jts mobility & warmup
+87,2/5/20,comp deadlift,"[380.0, 355.0]","[1, 5]","[4.0, 4.0]","[None, None]","start with knees 1/2 inch more forward than usual makes a world of a difference with quad activation, all sets rpe 6/6.5",jts mobility & warmup
+88,2/5/20,pause low bar squat,[315.0],[3],[5.0],[None],"money, just need longer pauses",jts mobility & warmup
+89,2/6/20,comp squat,[345.0],[4],[5.0],[None],all smooth just feeling light headed and sickish,"foam rolling, jts mobility & warmup, 2x10 back extensions"
+90,2/6/20,rdl,[245.0],[1],[8.0],[None],"taking intensity back on these to use correct form, after first set just staying light headed, cutting last 3 sets","foam rolling, jts mobility & warmup, 2x10 back extensions"
+91,2/6/20,military press,[125.0],[3],[5.0],[None],wanted to do 135 but fatigue and sickness puts it here,"foam rolling, jts mobility & warmup, 2x10 back extensions"
+92,2/8/20,comp bench,"[245.0, 215.0, 200.0]","[1, 1, 4]","[1.0, 5.0, 5.0]","[6.0, None, None]","every set rpe sub 6, easy, first day back after illness and feels decent",no mobility
+93,2/13/20,comp squat,"[385.0, 360.0]","[1, 4]","[5.0, 5.0]","[None, None]","top set actually moved at maximum weight after 5 days off and 11lb bodyweight loss and was rpe 9,  hard as fuck","jts mobility & warmup, 2x10 ghr"
+94,2/13/20,incline bench,[185.0],[2],[5.0],[None],all tng because pauses would make my life too easy,"jts mobility & warmup, 2x10 ghr"
+95,2/14/20,2” board press,"[275.0, 235.0]","[1, 4]","[1.0, 5.0]","[8.0, None]","had to hit a single for the folks, easy, sets are rpe 7 money, benching feels better in slips",no mobility
+96,2/14/20,comp deadlift,"[405.0, 375.0]","[1, 5]","[4.0, 4.0]","[None, None]","top set destroyed hands, probably will need to use straps for other top sets this block,  felt very smooth and in pocket",no mobility
+97,2/14/20,low bar pause squat,[315.0],[3],[5.0],[None],"same weight as last week to improve pauses, much better pauses just dying from leg soreness",no mobility
+98,2/16/20,comp bench,"[135.0, 185.0, 225.0, 245.0, 275.0, 230.0, 215.0]","[1, 1, 1, 1, 1, 1, 4]","[10.0, 5.0, 1.0, 1.0, 1.0, 5.0, 5.0]","[None, None, None, None, None, None, None]","single was rpe 8, top set of 5 was easy,  easy, everything is good positioning/wise, focus on scapular repression","jts mobility & warmup, pvc pipe dislocations"
+99,2/16/20,military press,"[45.0, 95.0, 115.0, 135.0]","[1, 1, 1, 3]","[10.0, 5.0, 3.0, 5.0]","[None, None, None, None]","pretty difficult sets since done after bench, slight shoulder irritation","jts mobility & warmup, pvc pipe dislocations"
+100,2/17/20,comp squat,"[135.0, 225.0, 315.0, 365.0, 410.0, 375.0, 355.0]","[1, 1, 1, 1, 1, 1, 3]","[10.0, 5.0, 2.0, 1.0, 5.0, 5.0, 5.0]","[None, None, None, None, None, None, None]",top set suffered from lower back fatigue from working out bench 16 hours ago,"foam rolling, jts mobility & warmup, ghrx2x10, kettlebell hip warmups"
+101,2/17/20,football bar bench,"[130.0, 180.0]","[1, 2]","[5.0, 5.0]","[None, None]","can feel a lot more in chest, probably replacing incline bench, 40lb bar","foam rolling, jts mobility & warmup, ghrx2x10, kettlebell hip warmups"
+102,2/17/20,snatch grip deadlift,"[135.0, 225.0, 275.0, 295.0]","[1, 1, 1, 3]","[3.0, 3.0, 1.0, 8.0]","[None, None, None, None]",most technically sound sets of these so far in the program,"foam rolling, jts mobility & warmup, ghrx2x10, kettlebell hip warmups"
+103,2/19/20,2” board press,[240.0],[4],[5.0],[None],"these are legit rpe 6/6.5, prepare for 10lb jump next week","jts mobility & stretching, foam rolling"
+104,2/20/20,comp squat,[395.0],[3],[5.0],[None],"had to wrap quad with knee wrap to create tension for minor strain, last set was by far the easiest since i attacked the weight without actively queueing anything","jts mobility & warmup, 2x10each leg kettlebell side squats, 2x10 bw ghr"
+105,2/20/20,sldl,[225.0],[3],[8.0],[None],don’t want to irritate anything and lower back is already shot,"jts mobility & warmup, 2x10each leg kettlebell side squats, 2x10 bw ghr"
+106,2/20/20,military press,[140.0],[2],[5.0],[None],"warmups felt bad, quad is stinging on the un rack and shoulders feel beat","jts mobility & warmup, 2x10each leg kettlebell side squats, 2x10 bw ghr"
+107,2/21/20,comp bench,"[285.0, 245.0, 225.0, 275.0]","[1, 1, 4, 1]","[1.0, 5.0, 5.0, 1.0]","[9.5, None, None, 10.0]","first single was okay even with elbows feeling slightly out of position, got cold after single so top set was dookie rpe 10, positioning was fixed on , 275 done as a tester to see if warmup is the issue with top bench sets...it is not","jts mobility & warmup, 2x10 tricep extensions, iyt’s, 2x10 lat pulldown"
+108,2/24/20,comp squat,"[435.0, 365.0]","[1, 1]","[4.0, 1.0]","[None, None]","quad isn’t feeling 100%, switching programs after understanding my needs more","foam rolling, jts mobility & warmup, 2x10 ghr, 2x10 cossack squats"
+109,2/24/20,football bar press,"[185.0, 205.0, 225.0, 235.0]","[1, 1, 1, 1]","[3.0, 3.0, 3.0, 3.0]","[None, None, None, None]",top set was rpe 8,"foam rolling, jts mobility & warmup, 2x10 ghr, 2x10 cossack squats"
+110,2/24/20,pause sumo deadlift,"[405.0, 455.0, 495.0]","[1, 1, 1]","[1.0, 1.0, 1.0]","[None, None, None]","felt very solid, very minor quad sensation, eat before next training session im so hungry","foam rolling, jts mobility & warmup, 2x10 ghr, 2x10 cossack squats"
+111,2/26/20,larsen press,[225.0],[3],[3.0],[None],fucking easy,"foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
+112,2/26/20,comp deadlift,"[405.0, 455.0, 495.0]","[1, 1, 1]","[4.0, 1.0, 4.0]","[None, None, 9.0]","do not wear joggers on sumo days, knurling kills pants","foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
+113,2/26/20,conventional deadlift,[365.0],[2],[5.0],[None],figured out how to wear a belt????,"foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
+114,2/26/20,copenhagen planks,[3.0],[1],[25.0],[None],touch elbow to knee,"foam rolling 1x30sec each side plank, 45 sec straight plank, 2x10 ghr, lat pulldown, cable row, and iyt’s"
+115,2/29/20,comp squat,"[390.0, 400.0, 410.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","open hips evenly, move left foot first on walkout, ascending sets worked as i fixed technical issues on the way to the top set which was the smoothest set","foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
+116,2/29/20,high bar,[350.0],[3],[5.0],[None],first time high bar in months and feels off but moves very good,"foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
+117,2/29/20,close grip bench,"[205.0, 205.0, 215.0]","[1, 1, 1]","[7.0, 7.0, 7.0]","[None, None, None]",still sore from 3 days ago but will live,"foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
+118,2/29/20,pendlay rows,[135.0],[3],[8.0],[None],perfect form great starting point,"foam rolling, t spine mobility, front & side planks, copenhagen planks, 90-90 hip transfers"
+119,3/1/20,comp bench,"[275.0, 235.0]","[1, 3]","[1.0, 5.0]","[9.0, None]","no preworkout and cut finger but decent all around, all sets 6/7","foam rolling, t spine mobility, front & side planks, 2x10 w/back extensions, lat pulldown, cable row, iyts"
+120,3/1/20,larsen press,[215.0],[2],[7.0],[None],squeeze gluten and watch elbow flare,"foam rolling, t spine mobility, front & side planks, 2x10 w/back extensions, lat pulldown, cable row, iyts"
+121,3/1/20,incline dumbbell bench,"[75.0, 75.0, 65.0, 65.0]","[1, 1, 1, 1]","[12.0, 6.0, 6.0, 12.0]","[None, None, None, None]",hard as fuck,"foam rolling, t spine mobility, front & side planks, 2x10 w/back extensions, lat pulldown, cable row, iyts"
+122,3/2/20,comp deadlift,"[450.0, 460.0, 475.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","all relatively easy and good positioning, can tell ssb will skyrocket this as well","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
+123,3/2/20,pause comp deadlift,[417.5],[2],[4.0],[None],got cold after comp work so first set was pretty trash but,"foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
+124,3/2/20,ssb squat,"[330.0, 295.0]","[1, 2]","[3.0, 5.0]","[None, None]","estimated max was just simply too high, it’s okay, 295 was the correct weight for the day 100%","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
+125,3/2/20,single legged leg press,[90.0],[3],[12.0],[None],"great starting point, good blood flow, keep sleeves on for comfort","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
+126,3/2/20,split squats,[30.0],[3],[12.0],[None],"think about being as upright as possible, can jump 10lb next week","foam rolling, front & side planks, copenhagens, 3x10 ghr, 3x12kb squat, 3x6 kb cossack squat"
+127,3/4/20,comp bench,"[45.0, 95.0, 135.0, 185.0, 225.0, 235.0, 242.5, 250.0]","[1, 1, 1, 1, 1, 1, 1, 1]","[15.0, 10.0, 8.0, 5.0, 1.0, 3.0, 3.0, 3.0]","[None, None, None, None, None, None, None, None]","trying more warmup sets per shethar, working sets got better as i went on, last set was rpe 6, pec/shoulder felt awkward on warmups, 5ct pause on last rep very easy","foam rolling, front & side planks, t spine mobility, 2x10 lat pulldown, cable row, ghr, iyt’s"
+128,3/4/20,comp bench,[232.5],[5],[2.0],[None],"aiming for 30/45sec rest between sets to make more difficult and improve setup, done shirtless to see the bar mark on my chest to check pressing point ( was perfect this session )","foam rolling, front & side planks, t spine mobility, 2x10 lat pulldown, cable row, ghr, iyt’s"
+129,3/4/20,lat pulldown,"[130.0, 145.0]","[1, 4]","[8.0, 8.0]","[None, None]",feels great on pec “discomfort”,"foam rolling, front & side planks, t spine mobility, 2x10 lat pulldown, cable row, ghr, iyt’s"
+130,3/5/20,comp squat,"[405.0, 445.0]","[1, 1]","[1.0, 1.0]","[None, None]",too single was rpe 8.5 and very controlled,"foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
+131,3/5/20,3:1:0 tempo comp squat,[355.0],[3],[3.0],[None],"feel amazing, 0 pain, great sets and around rpe 8","foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
+132,3/5/20,football bench,"[210.0, 210.0, 210.0, 215.0]","[1, 1, 1, 1]","[4.0, 4.0, 4.0, 4.0]","[None, None, None, None]",pec discomfort still there on warmups,"foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
+133,3/5/20,conventional deadlift,[402.5],[3],[5.0],[None],sets rpe 7 as intended,"foam rolling, trifecta planks, 2x10 ghr, kb cossack squats, kb squats"
+134,3/8/20,comp squat,"[395.0, 410.0, 420.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","all felt target rpe after moving all day yesterday, queue adductors throughout the whole movement you dumb fuck","t spine mobility, pitshark, ghr, cossack squats"
+135,3/8/20,high bar,[360.0],[3],[5.0],[None],"have to fight to keep chest up more, understandable after these levels of fatigue from comp squat but have to put forth the effort to be technically great at everything","t spine mobility, pitshark, ghr, cossack squats"
+136,3/8/20,comp bench,"[45.0, 135.0, 185.0, 225.0, 245.0, 265.0, 285.0, 305.0]","[1, 1, 1, 1, 1, 1, 1, 1]","[20.0, 10.0, 3.0, 2.0, 1.0, 1.0, 1.0, 0.0]","[None, None, None, None, None, None, None, None]","absolute technical failure on pr attempt, strength is there so no worries, 285 single was easily rpe 8 and sound","t spine mobility, pitshark, ghr, cossack squats"
+137,3/8/20,close grip bench,"[205.0, 215.0]","[1, 2]","[7.0, 7.0]","[None, None]",easy and money,"t spine mobility, pitshark, ghr, cossack squats"
+138,3/10/20,comp bench,"[305.0, 235.0, 235.0, 245.0]","[1, 1, 1, 1]","[1.0, 5.0, 5.0, 5.0]","[None, None, None, None]","revenge single with sleeves, all sets money and 245 was the easiest set","foam rolling, t spine mobility, lat pulldown, cable row, back extension, iyt’s"
+139,3/10/20,larsen press,[220.0],[2],[7.0],[None],much better than last week,"foam rolling, t spine mobility, lat pulldown, cable row, back extension, iyt’s"
+140,3/11/20,comp deadlift,"[460.0, 475.0, 495.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","need to cleanup lockout, top set was ugly but it was a stiff bar so still really good","foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
+141,3/11/20,conventional deadlift,[405.0],[3],[5.0],[None],very easy,"foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
+142,3/11/20,high bar,"[315.0, 315.0, 335.0]","[1, 1, 1]","[5.0, 5.0, 5.0]","[None, None, None]","easy, very money, helps a lot to warmup up instead of dropping from low bar","foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
+143,3/11/20,split squats,[35.0],[3],[12.0],[None],left foot is so much worse than right,"foam rolling, t spine mobility, 4 types of planks, kb squats & cossack squats"
+144,3/12/20,comp bench,"[250.0, 255.0, 260.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","misloaded twice because 255 was done first and 265 was supposed to be the top set holy shit count next time dumbass, 260 was rpe 6","foam rolling, t spine mobility, 4 types of planks, iyts, db bench, shoulder dislocations"
+145,3/12/20,comp bench,[250.0],[5],[2.0],[None],"easy, all sub 6","foam rolling, t spine mobility, 4 types of planks, iyts, db bench, shoulder dislocations"
+146,3/14/20,comp squat,[455.0],[1],[1.0],[None],"easy, rpe 8.5, stay controlled","foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
+147,3/14/20,3:1:0 tempo comp squat,"[355.0, 355.0, 365.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]",all difficult but really smooth,"foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
+148,3/14/20,football bar bench,"[210.0, 215.0]","[2, 2]","[4.0, 4.0]","[None, None]","all easy, progressing well, just stay controlled","foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
+149,3/14/20,pause comp deadlift,"[440.0, 455.0, 455.0]","[1, 1, 1]","[1.0, 1.0, 1.0]","[None, None, None]","last set best set, decent speed just need to work on pause length","foam rolling, t spine mobility, 4 types of planks, cossack squats, ghr, kb squat"
+150,3/16/20,comp squat,"[410.0, 420.0, 435.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]",too set was rpe 8/8.5 easy fucking easy,"foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
+151,3/16/20,high bar,[370.0],[3],[5.0],[None],"fairly difficult but very doable, ramp up from one plate instead of immediate drop will make it feel much better","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
+152,3/16/20,comp bench,[295.0],[1],[1.0],[None],"easy, rpe 8.5","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
+153,3/16/20,close grip bench,[215.0],[3],[7.0],[None],"all easy, rpe >6","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, back extensions, kb squats"
+154,3/17/20,comp bench,"[235.0, 245.0]","[1, 2]","[5.0, 5.0]","[None, None]","all easy, rpe 6/7","t spine mobility, lat pulldown, cable row, iyt’s"
+155,3/18/20,comp deadlift,"[475.0, 490.0, 505.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","top set was 9.5, hopefully non/fatiguing ramping sets increase potential","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
+156,3/18/20,conventional deadlift,[415.0],[3],[5.0],[None],beltled and toes/out feels best,"foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
+157,3/18/20,high bar,"[315.0, 335.0]","[1, 2]","[5.0, 5.0]","[None, None]","easy, optimal rep range for this high bar day would be 7/8 though","foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
+158,3/18/20,split squats,[40.0],[3],[8.0],[None],why the fuck did i do 12 last week,"foam rolling, t spine mobility, 4 types of planks, kb cossack squats, kb squats, back extensions"
+159,3/20/20,comp bench,"[255.0, 265.0, 275.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]",top set was rpe 8.5,"foam rolling, t spine mobility, lat pulldown, cable row, iyt’s, back extensions"
+160,3/20/20,comp bench,[255.0],[5],[2.0],[None],"last set was perfect, elbows were out of control sets 2/4","foam rolling, t spine mobility, lat pulldown, cable row, iyt’s, back extensions"
+161,3/20/20,lat pulldown,[160.0],[5],[8.0],[None],best grip by far,"foam rolling, t spine mobility, lat pulldown, cable row, iyt’s, back extensions"
+162,3/21/20,comp squat,"[435.0, 475.0]","[1, 1]","[1.0, 0.0]","[None, None]","fell forward, strength is absolutely there for 475+","foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+163,3/21/20,3:1:0 tempo comp squat,"[350.0, 365.0]","[1, 2]","[3.0, 3.0]","[None, None]",tempos much easier than last week,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+164,3/21/20,2” board press,"[210.0, 215.0]","[1, 3]","[4.0, 4.0]","[None, None]",replaced football bench with this variation for the time being,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+165,3/21/20,pause sumo deadlift,[455.0],[3],[1.0],[None],"externally rotating elbows with straps makes it a lot more smooth, decent sets forsure","foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+166,3/23/20,comp squat,"[395.0, 410.0, 455.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]",fucking got it. rpe 10.,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+167,3/23/20,high bar,[380.0],[1],[1.0],[None],"need to adjust backoff on peak weeks, no biggie just fatigued","foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+168,3/23/20,comp bench,"[285.0, 305.0, 315.0]","[1, 1, 1]","[1.0, 1.0, 1.0]","[None, None, None]",sick single,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+169,3/23/20,close grip bench,"[215.0, 215.0, 220.0]","[1, 1, 1]","[7.0, 7.0, 7.0]","[None, None, None]",easy,"foam rolling, t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+170,3/24/20,comp bench,"[250.0, 255.0, 280.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","warmups feel slow and i’m tired, it moved tho","lat pulldown, cable row, back extension, iyts, no foam rolling or stretching"
+171,3/24/20,comp bench,[260.0],[5],[2.0],[None],all rpe 6/7,"lat pulldown, cable row, back extension, iyts, no foam rolling or stretching"
+172,3/25/20,comp deadlift,"[460.0, 475.0, 515.0]","[1, 1, 1]","[3.0, 3.0, 3.0]","[None, None, None]","warmups feel like ass and rice, goal moved tho","t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
+173,3/25/20,conventional deadlift,"[420.0, 400.0, 370.0]","[1, 1, 1]","[5.0, 5.0, 5.0]","[None, None, None]",felt good! narrow stance and belt feels acceptable,"t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
+174,3/25/20,high bar,[335.0],[3],[5.0],[None],pretty money surprisingly,"t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
+175,3/25/20,split squats,[45.0],[3],[8.0],[None],fuck,"t spine mobility, 3 types of planks, cossack/kb squat superset, back extensions"
+176,3/27/20,comp bench,"[245.0, 245.0, 260.0, 285.0]","[1, 1, 1, 1]","[5.0, 5.0, 5.0, 1.0]","[None, None, None, None]","top set of 5 was a safe rpe 8.5, single was fatigued but moved","iyt’s, lat pulldown, cable row, machine press"
+177,3/27/20,larsen press,[220.0],[2],[9.0],[None],"may have miscounted and done 10 on the last set, was rpe 10 either way","iyt’s, lat pulldown, cable row, machine press"
+178,3/27/20,incline dumbbell bench,[65.0],[3],[12.0],[None],focusing on full rom feels much better,"iyt’s, lat pulldown, cable row, machine press"
+179,3/27/20,tricep extensions,[67.5],[3],[15.0],[None],felt good,"iyt’s, lat pulldown, cable row, machine press"
+180,3/30/20,comp squat,"[405.0, 425.0, 455.0, 475.0, 505.0]","[1, 1, 1, 1, 1]","[1.0, 1.0, 1.0, 1.0, 1.0]","[None, None, None, None, None]",in pocket!,"foam rolling, t spine mobility, 3 types of planks, kb squat & cossack squat, back extensions"
+181,3/30/20,pause comp deadlift,"[405.0, 455.0, 505.0]","[1, 1, 1]","[1.0, 1.0, 1.0]","[None, None, 7.0]","nice, position was ass because of rushing but still so much stronger than before the block","foam rolling, t spine mobility, 3 types of planks, kb squat & cossack squat, back extensions"
+182,3/31/20,comp bench,[225.0],[2],[4.0],[None],yea,"lat pulldown & cable row superset, iyt’s, machine press"
+183,3/31/20,larsen press,[185.0],[1],[6.0],[None],nice,"lat pulldown & cable row superset, iyt’s, machine press"
+184,4/1/20,sumo block pull,[585.0],[1],[1.0],[9.0],lockout not the weak point,"t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+185,4/1/20,comp deadlift,[455.0],[2],[2.0],[None],easy but felt very weird after block pulling,"t spine mobility, 3 types of planks, cossack squats, kb squats, back extensions"
+186,4/6/20,comp squat,"[385.0, 400.0, 415.0]","[1, 1, 1]","[4.0, 4.0, 4.0]","[None, None, None]","sets feel surprisingly technically sound, top set i kept rolling forward on toes but speed was decent","t spine mobility, 4 types of planks, kb cossack & squat, back extensions"
+187,4/6/20,high bar,[350.0],[4],[4.0],[None],very hard but doable,"t spine mobility, 4 types of planks, kb cossack & squat, back extensions"
+188,4/6/20,comp bench,[285.0],[1],[1.0],[None],rpe 8.5 very smooth,"t spine mobility, 4 types of planks, kb cossack & squat, back extensions"
+189,4/7/20,comp bench,[240.0],[3],[6.0],[None],all sets true rpe 7,"foam rolling, warmup, mobility"
+190,4/7/20,2” board close grip press,[225.0],[2],[6.0],[None],rpe 7 very smooth,"foam rolling, warmup, mobility"
+191,4/7/20,skull crushers,[65.0],[3],[10.0],[None],"rpe 6, go up 10 next week","foam rolling, warmup, mobility"
+192,4/8/20,comp deadlift,"[440.0, 450.0, 465.0]","[1, 1, 1]","[4.0, 4.0, 4.0]","[None, None, None]",felt uneven but fixed on,"foam rolling, mobility, warmup"
+193,4/8/20,comp deadlift,[420.0],[3],[2.0],[None],"perfect form, start hips 1 inch lower and go from there","foam rolling, mobility, warmup"
+194,4/8/20,high bar,[325.0],[3],[6.0],[None],difficult forsure from soreness,"foam rolling, mobility, warmup"
+195,4/10/20,comp bench,"[235.0, 245.0, 255.0]","[1, 1, 1]","[4.0, 4.0, 4.0]","[None, None, None]","pretty sore from wednesday’s session but still moving very well, all at prescribed rpe","foam rolling, mobility, warmup"
+196,4/10/20,comp bench,[245.0],[4],[2.0],[None],"last set best set, sore and feeling sick symptoms","foam rolling, mobility, warmup"
+197,4/10/20,lat pulldown,[130.0],[4],[8.0],[None],"combined last 2 sets, up it by 10lb next week","foam rolling, mobility, warmup"
+198,04/14/20,high bar pause squat,[375.0],[1],[1.0],[None],"depth was great in flats, just need to pause for .3 longer","foam rolling, mobility, warmup"
+199,04/14/20,low bar pause squat,[340.0],[3],[3.0],[None],all easy and flats were the best decision,"foam rolling, mobility, warmup"
+200,04/14/20,comp bench,"[295.0, 245.0]","[1, 1]","[1.0, 6.0]","[None, None]","single was great considering 5lb bw loss and sickness, combined monday and tuesday to some degree","foam rolling, mobility, warmup"
+201,04/14/20,larsen spoto press,[225.0],[1],[5.0],[None],pretty easy and doable free,"foam rolling, mobility, warmup"
+202,4/15/20,comp deadlift,"[440.0, 465.0, 480.0]","[1, 1, 1]","[4.0, 4.0, 4.0]","[None, None, None]",last set hard as fuck,"foam rolling, mobility, warmup"
+203,4/15/20,comp deadlift,[435.0],[3],[2.0],[None],easy and in position,"foam rolling, mobility, warmup"
+204,4/16/20,high bar,"[325.0, 325.0, 345.0]","[1, 1, 1]","[6.0, 6.0, 6.0]","[None, None, None]",felt hard but no caffeine before workout,no mobility
+205,4/16/20,comp squat,"[400.0, 415.0, 435.0]","[1, 1, 1]","[1.0, 4.0, 3.0]","[None, None, None]","form was getting risky, need to adjust to flats before going for prs again, lower back pump somehow, forgot to warmup t spine which is why i assume the back pump happened",no mobility
+206,4/16/20,high bar,[360.0],[4],[4.0],[None],"took 17% off because of failed top set, felt easier than last week with an extra 2% off but still 10lb more",no mobility
+207,4/16/20,comp bench,[300.0],[1],[1.0],[None],decent single with new shoulder position,no mobility
+208,4/16/20,larsen spoto press,"[215.0, 225.0]","[1, 2]","[5.0, 5.0]","[None, None]",helping with adjustment in technique forsure,no mobility
+209,4/16/20,lat pulldown,[160.0],[5],[10.0],[None],"decent but difficult, a lot less rest than last week",no mobility
+210,4/21/20,comp bench,"[240.0, 240.0, 250.0]","[1, 1, 1]","[6.0, 6.0, 6.0]","[None, None, None]",new technique feels solid just elbow gives closer to failure,"foam rolling, stretching, warmup"
+211,4/21/20,2” close grip board press,[230.0],[2],[6.0],[None],rpe 7 not bad,"foam rolling, stretching, warmup"
+212,4/22/20,comp deadlift,"[465.0, 480.0, 495.0]","[1, 1, 1]","[4.0, 4.0, 4.0]","[None, None, None]","sets feel very technically sound, solid resets","foam rolling, mobility, warmup"
+213,4/22/20,comp deadlift,[445.0],[3],[2.0],[None],easy with over under grip,"foam rolling, mobility, warmup"
+214,4/22/20,comp squat,"[360.0, 380.0]","[1, 2]","[6.0, 6.0]","[None, None]","very hard, reduce increases if using low bar next block","foam rolling, mobility, warmup"
+215,4/24/20,comp bench,"[245.0, 255.0, 265.0]","[1, 1, 1]","[4.0, 4.0, 4.0]","[None, None, None]","build up sets feel fantastic, top set was @8, slow down decent next week","foam rolling, mobility, warmup"
+216,4/24/20,comp bench,[250.0],[4],[2.0],[None],easy money,"foam rolling, mobility, warmup"
+217,4/26/20,comp squat,[415.0],[1],[4.0],[9.0],"just felt really bad with 7am workout, was a true 9 so no offbeat rpe today","foam rolling, mobility, warmup"
+218,4/26/20,high bar,[355.0],[4],[4.0],[None],felt good @ 7/8,"foam rolling, mobility, warmup"
+219,4/26/20,comp bench,[305.0],[1],[1.0],[10.0],"overshot but it still moved, old technique doesn’t feel better","foam rolling, mobility, warmup"
+220,4/26/20,larsen spoto press,[225.0],[3],[5.0],[7.0],right on target rpe of 7,"foam rolling, mobility, warmup"
+221,4/27/20,comp bench,"[250.0, 240.0]","[1, 3]","[6.0, 5.0]","[8.0, None]","right on target with rpe, need to focus on evening out hips, all  were rpe 7/7.5","foam rolling, mobility, warmup"
+222,4/27/20,larsen press,"[215.0, 205.0]","[1, 2]","[1.0, 10.0]","[None, None]","had to decrease weight after the first set because the initial  were heavier than originally written, failed last rep of last set, just reduce 2% more in future ￼","foam rolling, mobility, warmup"
+223,4/27/20,skull crushers,[75.0],[3],[8.0],[None],"10 / reps were: 10,10,10","foam rolling, mobility, warmup"
+224,4/27/20,rope bicep curls,[57.5],[3],[12.0],[None],"15 / reps were: 15,15,15","foam rolling, mobility, warmup"
+225,4/28/20,comp deadlift,"[505.0, 545.0, 455.0]","[1, 1, 3]","[4.0, 1.0, 3.0]","[8.5, 9.5, None]","top set shouldve been amrapd, single was fastest it’s ever been on a stiff bar,  were over under and felt decent","foam rolling, mobility, warmup"
+226,4/28/20,comp squat,"[365.0, 315.0]","[2, 1]","[6.0, 6.0]","[None, 6.0]","first two sets were @10, need to not let ego skew weights on this day moving forward","foam rolling, mobility, warmup"
+227,4/30/20,comp bench,"[280.0, 265.0, 235.0]","[1, 3, 2]","[4.0, 3.0, 8.0]","[None, None, None]","top set went for 5 but it wasn’t there, still a very solid set, backoff triples were rpe 7/8, backoff 8s were rpe 8 because i smacked the rack half the time","foam rolling, mobility, warmup"
+228,4/30/20,rope tricep extension,[47.5],[3],[12.0],[None],upper back is retracted and down focusing on the long head,"foam rolling, mobility, warmup"
+229,4/30/20,seated dumbbell overhead press,[35.0],[3],[10.0],[None],fixes shoulder pain completely with complete rom,"foam rolling, mobility, warmup"
+230,4/30/20,lat pulldown,[65.0],[4],[8.0],[None],focus on protraction as much as retraction,"foam rolling, mobility, warmup"
+231,4/30/20,comp bench,[320.0],[0],[0.0],[None],if i try without previous workout fatigue it definitely would fly,"foam rolling, mobility, warmup"
+0,5/3/20,pause comp squat,[315.0],[3],[3.0],[6.0],"right on target with rpe, trying to engage upper back and evenly descent as much as possible, pause needs to be longer next week",dawson warmup
+1,5/3/20,comp bench,[285.0],[1],[1.0],[8.0],"true 8, shoulder irritated from different warmups but will fix in future",dawson warmup
+2,5/3/20,close grip bench,[225.0],[3],[6.0],[6.0],"great starting point, focus on upper back tightness, right on target rpe",dawson warmup
+3,5/4/20,comp squat,"[425.0, 375.0]","[1, 4]","[1.0, 5.0]","[6.0, 7.0]","single was right on target, keep the same back position throughout, more upright position is necessary to stay over midfoot, slight right quad irritation from now doing a type of squat in warmup, last set rpe 7","dawson warmup, add goblet squats next time"
+4,5/5/20,comp deadlift,"[495.0, 435.0]","[1, 3]","[3.0, 5.0]","[7.0, 6.0]","top triple was right on rpe,  were fine rpe but form sucked from being rushed, feet were pointed too far forwards, need to open more",dawson warmup + goblet squats
+5,5/5/20,comp bench,[240.0],[4],[5.0],[7.0],"right on rpe target, fatigue made back position harder to keep but was manageable",dawson warmup + goblet squats
+6,5/6/20,high bar,[325.0],[3],[7.0],[6.0],"rpe 7/8, video says 6, keep weight same next week",dawson warmup
+7,5/7/20,beltless conventional deadlift,"[365.0, 315.0]","[1, 3]","[4.0, 5.0]","[7.0, 6.0]","less weight than anticipated, but need to readjust to the movement pattern and can make a bigger jump next week, start with hips more behind bar and vertical shin angle",no mobility
+8,5/7/20,comp bench,"[315.0, 275.0]","[1, 5]","[1.0, 2.0]","[9.0, 8.0]","single was so much smoother than my last 315, 320 was there @10, doubles were right above rpe target @7.5, lost some upper back position on the last set",no mobility
+9,5/7/20,machine chest flys,[110.0],[4],[12.0],[None],felt great with no shoulder pain,no mobility
+10,5/8/20,comp squat,"[455.0, 415.0]","[1, 4]","[1.0, 2.0]","[8.0, 8.0]","thought the single on program was @9, whoops!  were decent, just harder because no food and bad sleep","foam rolling, mobility, warmup"
+11,5/8/20,comp bench,[245.0],[3],[3.0],[6.0],"easy money, sore af tho","foam rolling, mobility, warmup"
+12,5/8/20,pull ups,[0.0],[3],[5.0],[None],focus on adding a rep each week,"foam rolling, mobility, warmup"
+13,5/11/20,pause comp squat,[315.0],[3],[3.0],[None],"much more solid pauses than week 1, felt great go up 5 next week","foam rolling, warmup, mobility"
+14,5/11/20,comp bench,"[295.0, 320.0]","[1, 1]","[1.0, 1.0]","[7.0, 10.0]","nice pr and was clean, 295 was @7, strength trending very upward","foam rolling, warmup, mobility"
+15,5/11/20,close grip bench,[235.0],[3],[7.0],[7.0],"great sets, right on target rpe","foam rolling, warmup, mobility"
+16,5/11/20,rear delt flys,[75.0],[4],[12.0],[None],have palms open and facing each other,"foam rolling, warmup, mobility"
+17,5/12/20,comp squat,"[435.0, 385.0]","[1, 4]","[1.0, 4.0]","[7.0, 7.0]","single felt like @8 but video dictates @7, speed on  is great just feels hard, speed dictates rpe 7 on last set of","foam rolling, mobility, warmup"
+18,5/13/20,comp deadlift,"[515.0, 440.0]","[1, 3]","[2.0, 5.0]","[7.0, None]","didn’t eat before so the single was @8.5, did the lower end of  and don’t know what’s going on with elbow/bicep area, no lower body pain so big improvement from last week","foam rolling, mobility, warmup"
+19,5/13/20,comp bench,[250.0],[4],[4.0],[7.0],right on target rpe,"foam rolling, mobility, warmup"
+20,5/13/20,t bar row,[180.0],[3],[10.0],[None],full protraction,"foam rolling, mobility, warmup"
+21,5/15/20,comp squat,"[465.0, 425.0]","[1, 4]","[1.0, 2.0]","[8.0, 8.0]","single was perfect rpe,  we’re perfect rpe, 0 pain at all today, think about tight glutes to engage everything ( don’t fart )","foam rolling, mobility, warmup"
+22,5/15/20,comp bench,"[305.0, 280.0]","[1, 5]","[1.0, 2.0]","[8.0, 8.0]","single was right on target, no pain on anything, just above average soreness because of day sequences,  were great target for rpe","foam rolling, mobility, warmup"
+23,5/16/20,high bar,[325.0],[4],[6.0],[6.0],"death, but did at the correct rpe","foam rolling, mobility, warmup"
+24,5/16/20,conventional deadlift,"[475.0, 345.0]","[1, 3]","[1.0, 5.0]","[9.0, 7.0]","did a single instead of 5 because of high bar fatigue and was very smooth,  were @6","foam rolling, mobility, warmup"
+25,5/16/20,comp bench,[245.0],[3],[3.0],[6.0],right at prescribed rpe,"foam rolling, mobility, warmup"
+26,5/18/20,comp squat,"[445.0, 395.0]","[1, 4]","[1.0, 4.0]","[6.0, None]","single was very easy just couldn’t focus because of shitting pants, sets were prescribed rpe 8","foam rolling, mobility, warmup"
+27,5/18/20,comp bench,[295.0],[1],[1.0],[8.0],"pec and shoulder felt terrible, need to rearrange heavy and light single days, was 8.5","foam rolling, mobility, warmup"
+28,5/18/20,close grip bench,[240.0],[3],[8.0],[None],"sets were rpe 8,9,9","foam rolling, mobility, warmup"
+29,5/20/20,comp deadlift,"[515.0, 445.0]","[1, 3]","[3.0, 5.0]","[9.0, 8.0]","triple was slightly overshot, very slow but no form breakdown,  were right on rpe, last set was best set",no mobility
+30,5/21/20,comp bench,"[305.0, 325.0, 290.0, 280.0]","[1, 1, 2, 2]","[1.0, 1.0, 2.0, 2.0]","[9.0, 10.0, 9.0, 8.0]",slight overshoot on  but very nice increase,warmup
+31,5/21/20,high bar,[330.0],[3],[7.0],[7.0],hard but okay sets,warmup
+32,5/23/20,comp squat,"[455.0, 435.0, 405.0]","[1, 3, 1]","[1.0, 2.0, 3.0]","[7.0, 9.0, 6.0]","single was way too fast and loose in the hole but moved and felt like a 7, last rep of  was misgrooved but good other than that, fitness set was very easy and technically sound for the most part, cue “just man the weight up” to have a more direct and intentional bar path","mobility, warmup"
+33,5/23/20,beltless conventional deadlift,"[425.0, 365.0]","[1, 3]","[5.0, 6.0]","[8.0, 7.0]","top set of 5 was right on the money, maybe a 7/7.5 even,  were cake","mobility, warmup"
+34,5/23/20,comp bench,[260.0],[4],[5.0],[8.0],sets got easier as it went,"mobility, warmup"
+35,5/25/20,comp squat,"[455.0, 405.0, 365.0]","[1, 3, 1]","[1.0, 4.0, 5.0]","[7.0, 8.0, None]","felt great, form finally coming together entirely, drive knees forward on ascent","foam rolling, mobility, warmup"
+36,5/25/20,comp bench,"[305.0, 240.0, 225.0]","[1, 3, 1]","[1.0, 8.0, 8.0]","[9.0, None, 8.0]","single was supposed to be @7 but ego played too large of a role, accidentally misloaded second set of  /2.5lb, last set was perfect rpe","foam rolling, mobility, warmup"
+37,5/26/20,pause comp squat,[315.0],[3],[3.0],[6.0],wider stance feels much better with knee forward cue,"mobility, warmup"
+38,5/26/20,comp bench,[245.0],[3],[3.0],[6.0],need to make a variation in future,"mobility, warmup"
+39,5/27/20,comp deadlift,"[545.0, 585.0]","[1, 1]","[1.0, 1.0]","[9.0, 10.0]","wanted 6 beans, wasn’t there today, sike.","mobility, warmup"
+40,6/1/20,comp squat,"[405.0, 315.0]","[1, 3]","[1.0, 5.0]","[6.0, 6.0]",all easy and great feeling,no moblity
+41,6/4/20,ssb squat,"[330.0, 240.0]","[1, 3]","[1.0, 3.0]","[6.5, None]",decided to get some practice before ssb starts next block,"foam rolling, mobility, warmup"
+42,6/4/20,comp bench,"[285.0, 255.0]","[1, 3]","[1.0, 2.0]","[7.5, None]",single was slightly higher rpe than anticipated because of 2 second pause and new equipment,"foam rolling, mobility, warmup"
+43,6/8/20,high bar,"[385.0, 335.0]","[1, 3]","[1.0, 6.0]","[6.0, 5.0]","6 / adductor hates me, high bar in flats from now on, no adductor pain with flats","mobility, warmup"
+44,6/8/20,comp deadlift,"[385.0, 435.0, 405.0]","[1, 1, 3]","[3.0, 5.0, 7.0]","[5.0, 6.0, None]","rushed the last 3 reps of top set from just being uncomfortable, so fucking tired felt like throw up was coming on every set but finished it","mobility, warmup"
+45,6/8/20,dumbbell rdl,[15.0],[4],[12.0],[None],"great stretch, incredibly light weight for proper form","mobility, warmup"
+46,6/8/20,belt squat,[25.0],[3],[12.0],[None],just fucking kill me,"mobility, warmup"
+47,6/9/20,comp bench,"[245.0, 260.0, 240.0]","[1, 1, 4]","[3.0, 5.0, 5.0]","[5.0, 10.0, None]","need you adjust to new equipment forsure, last set was @9","mobility, warmup"
+48,6/9/20,db flys,[20.0],[3],[12.0],[None],deep and pause,"mobility, warmup"
+49,6/10/20,comp squat,"[405.0, 425.0, 365.0]","[1, 1, 4]","[2.0, 3.0, 4.0]","[None, 7.5, None]",death.,no mobility
+50,6/11/20,comp bench,"[275.0, 285.0, 295.0, 255.0, 235.0]","[1, 1, 1, 1, 2]","[1.0, 1.0, 1.0, 5.0, 7.0]","[None, None, None, None, None]","last set felt the best despite fucking up so much, just need feet towards head another inch and to depress scapula more","comp bench - 275,285,295x1, 255x5, 235x2x7 - last set felt the best despite fucking up so much, just need feet towards head another inch and to depress scapula more"
+51,6/13/20,larsen press,"[245.0, 230.0]","[1, 3]","[3.0, 6.0]","[6.5, None]",i was literally half off of the bench on top set but it was very easy,"foam rolling, mobility, warmup"
+52,6/13/20,beltless comp deadlift,"[405.0, 425.0, 455.0, 410.0]","[1, 1, 1, 3]","[1.0, 1.0, 1.0, 3.0]","[None, None, 6.5, None]",fucked setup on top set but still moved fine,"foam rolling, mobility, warmup"
+53,6/15/20,high bar,"[405.0, 355.0]","[1, 3]","[1.0, 5.0]","[7.0, None]",single was very solid,no mobility
+54,6/15/20,comp deadlift,"[455.0, 425.0]","[1, 3]","[5.0, 7.0]","[7.0, None]","10lb pr set of 5, 20lb pr sets of 7, all very sub max since adaptation has occurred since last monday, just think of the sets as three doubles and a single and it’s so much easier",no mobility
+55,6/15/20,belt squat,[35.0],[3],[12.0],[None],easier than last week forsure,no mobility
+56,6/16/20,comp bench,"[265.0, 245.0]","[1, 4]","[5.0, 4.0]","[8.5, None]","have to lockout fully, backoff sets rpe 7/8","mobility, warmup"
+57,6/18/20,comp squat,"[405.0, 455.0, 465.0, 420.0]","[1, 1, 1, 4]","[2.0, 1.0, 3.0, 3.0]","[None, None, 8.0, None]","top set was fucking mint,  easy","mobility, warmup"
+58,6/19/20,comp bench,"[295.0, 315.0, 240.0, 245.0]","[1, 1, 1, 2]","[1.0, 1.0, 7.0, 7.0]","[7.0, 9.0, None, 6.0]","8 / last set may have been 8 but lost count, one ring wider feels really good","mobility, warmup - use iyt’s to just bounce the weight from lats"
+59,6/22/20,high bar,"[425.0, 365.0]","[1, 3]","[1.0, 5.0]","[8.0, 7.0]",7.5 / last set was best set because i found comfort in the hole,"foam rolling, mobility, warmup"
+60,6/23/20,comp bench,"[245.0, 265.0, 275.0, 255.0]","[1, 1, 1, 4]","[3.0, 2.0, 5.0, 4.0]","[None, None, 10.0, None]",were @7/8,no mobility
+61,6/24/20,comp squat,"[405.0, 415.0, 455.0, 385.0, 365.0]","[1, 1, 1, 3, 1]","[2.0, 1.0, 1.0, 3.0, 3.0]","[None, None, None, None, None]","going off of 425 for the double, everything feels so slow and off","foam rolling, mobility, warmup"
+62,6/25/20,t bar row,[90.0],[4],[8.0],[None],did instead of pendlay row and feels really good on shoulder,"foam rolling, mobility, warmup"
+63,6/27/20,pause comp squat,"[405.0, 365.0]","[1, 2]","[3.0, 4.0]","[7.5, 5.5]","6.5, 340x1x5 / elbows down gives me the best fucking leverages ever","mobility, warmup"
+64,6/27/20,larsen press,[265.0],[1],[3.0],[8.0],"8.5, 235x3x6@6/8 / fucking money","mobility, warmup"
+65,6/27/20,beltless comp deadlift,"[425.0, 455.0, 475.0]","[1, 1, 3]","[1.0, 1.0, 1.0]","[None, None, 7.0]","8, 430x3x3","mobility, warmup"
+66,6/29/20,high bar,"[365.0, 375.0, 375.0, 385.0]","[1, 1, 1, 1]","[1.0, 1.0, 1.0, 4.0]","[None, None, None, 7.0]",8,"added westside style warmups, mobility"
+67,6/29/20,comp deadlift,"[495.0, 405.0]","[1, 1]","[4.0, 7.0]","[9.5, None]",overshot top set and misgrooved last rep,"added westside style warmups, mobility"
+68,6/30/20,comp bench,[280.0],[2],[3.0],[8.5],"9, 265x3x4, 245x5","mobility, warmup"
+69,6/30/20,flat dumbbell bench,[65.0],[3],[10.0],[None],add into warmup??? helps stabilization quite a bit,"mobility, warmup"
+70,7/2/20,comp squat,"[495.0, 425.0, 435.0, 435.0]","[1, 1, 1, 1]","[1.0, 1.0, 1.0, 3.0]","[8.0, None, None, 6.0]","8, 385x1x3","mobility, warmup"
+71,7/3/20,comp bench,"[305.0, 255.0]","[1, 3]","[1.0, 6.0]","[9.0, 7.5]","8 / single felt okay with wider grip, just need to adjust","mobility, warmup"
+72,7/5/20,pause comp squat,"[415.0, 375.0]","[1, 2]","[3.0, 4.0]","[6.0, 5.5]","6.5, 340x1x5 / top set was amazing except the 3rd rep wasn’t pause and didn’t fully lockout first rep but flew, positioning feels godlike","mobility, warmup"
+73,7/5/20,larsen press,[270.0],[1],[3.0],[8.0],"8.5, 240x3x5@6/8 / soft touch feeling a lot better","mobility, warmup"
+74,7/7/20,high bar,[385.0],[3],[4.0],[7.0],"8, 355x4 / sets feel really good! heels are stronger but just need to make sure the hips approve, belt broke before 3rd working set fuck me","mobility, warmup"
+75,7/7/20,comp deadlift,"[565.0, 515.0, 475.0]","[1, 1, 2]","[1.0, 2.0, 2.0]","[8.5, 8.5, 7.0]",7.5 / positioning feels a1 baby,"mobility, warmup"
+76,7/9/20,comp bench,"[295.0, 315.0, 275.0]","[1, 1, 4]","[1.0, 1.0, 3.0]","[7.0, 10.0, 7.0]",8 / positioning and actual lift felt the best it has with this grip,no mobility
+77,7/11/20,comp bench,[245.0],[2],[1.0],[None],"can’t continue, bicep tendonitis is too much","mobility, warmup"
+78,7/13/20,high bar,[365.0],[3],[4.0],[7.5],"8.5, 340x4 / not trying to go insane before 545 squat attempt in 3 days, fitness drops very fast if sessions are missed but still completed the sets in about 30/35min","mobility, warmup"
+79,7/13/20,comp deadlift,"[545.0, 495.0]","[1, 1]","[1.0, 2.0]","[7.5, 8.0]","8.5, 455x2x2 / money!","mobility, warmup"
+80,7/14/20,comp bench,"[295.0, 245.0]","[1, 3]","[1.0, 3.0]","[None, 6.0]","8, 230x3 / hurts like a bitch","mobility, warmup"
+81,7/15/20,comp squat,"[495.0, 475.0]","[1, 1]","[1.0, 1.0]","[9.0, 10.0]","missed saturday technique session and just feels fucking terrible today, no  because of tendonitis","mobility, warmup"
+82,7/18/20,comp bench,[275.0],[1],[1.0],[6.0],"7, 255x4x5@6/9 / tendonitis was tolerable today","mobility, warmup"
+83,7/19/20,pause comp deadlift,"[545.0, 455.0, 405.0]","[1, 1, 2]","[1.0, 3.0, 3.0]","[10.0, None, None]",money money,"mobility, warmup"
+84,7/19/20,larsen press,"[275.0, 245.0]","[1, 4]","[2.0, 4.0]","[9.0, None]",double was very well executed and  feel solid,"mobility, warmup"
+85,7/19/20,comp squat,"[405.0, 365.0, 320.0]","[1, 1, 2]","[1.0, 7.0, 6.0]","[5.0, 6.0, None]",top set of 7 is going to take some adjusting....,"mobility, warmup"
+86,7/19/20,3:1:0 tempo comp bench,"[275.0, 245.0]","[1, 3]","[1.0, 3.0]","[7.0, 6.0]","using belt to try and increase tightness, nope didn’t do that past 185, can use same rep weight for next week and be fine","mobility, warmup"
+87,7/19/20,single arm t bar row,[70.0],[3],[12.0],[None],"can add dramatically next week, pack lat and squeeze","mobility, warmup"
+88,7/28/20,comp bench,[285.0],[1],[1.0],[6.0],"6.5, 245x3x5@6 / foot position needs to be straight forward and wide relative to previous positions, position>speed","mobility, warmup - added shoulder t nation movement and unilateral kneeling kb press"
+89,7/28/20,flat dumbbell feet up bench,[50.0],[3],[12.0],[None],very easy actually,"mobility, warmup - added shoulder t nation movement and unilateral kneeling kb press"
+90,7/30/20,comp deadlift,[405.0],[1],[6.0],[5.0],technically felt perfect and great starting point,"10 min bike warmup, mobility, warmup"
+91,7/30/20,candito deadlift,[315.0],[3],[5.0],[None],need to do beltless but feels amazing on quads,"10 min bike warmup, mobility, warmup"
+92,7/30/20,spoto press,"[245.0, 255.0, 265.0]","[1, 1, 1]","[2.0, 2.0, 2.0]","[None, None, None]","foot position feels great, stick to wider foot position for stability and spoto will take time to get used to ( trying to bring it to chest every rep and looks unnatural )","10 min bike warmup, mobility, warmup"
+93,7/30/20,goblet split squats,[25.0],[3],[10.0],[None],feels so much more stable in a front goblet position,"10 min bike warmup, mobility, warmup"
+94,7/31/20,pause comp squat,"[405.0, 365.0]","[1, 2]","[1.0, 4.0]","[6.0, None]","very technically sound,  the bar kept sliding down back even with a7 shirt and very annoying",10min bike warmup
+95,7/31/20,comp bench,"[280.0, 265.0, 250.0, 240.0]","[1, 1, 2, 2]","[1.0, 3.0, 2.0, 3.0]","[6.0, 6.0, None, None]",every set felt very technically solid,10min bike warmup
+96,8/1/20,high bar,"[385.0, 335.0]","[1, 3]","[1.0, 4.0]","[6.0, 6.0]",easy just hurts as a third day,"10min bike ride 64cal, mobility, warmup"
+97,8/1/20,comp deadlift,"[445.0, 455.0, 455.0, 460.0, 460.0]","[1, 1, 1, 1, 1]","[1.0, 1.0, 1.0, 1.0, 1.0]","[None, None, None, None, None]","all fucking easy, wedging is best it’s ever been by using the hips cue pre/knee","10min bike ride 64cal, mobility, warmup"
+98,8/1/20,close grip bench,[235.0],[1],[7.0],[5.0],"6, 215x2x6 / extremely smooth and easy","10min bike ride 64cal, mobility, warmup"
+99,8/3/20,comp squat,"[455.0, 385.0]","[1, 1]","[1.0, 7.0]","[7.0, 6.0]","7, 365x2x7 / hip flaring on top set of 7 but moved great","mobility, warmup"
+100,8/3/20,3:1:0 tempo bench,[305.0],[1],[1.0],[8.5],"9, 245x3x3@5/6 / think about reaching chest the entire movement, reach reach reach","mobility, warmup"
+101,8/3/20,comp bench,"[295.0, 255.0]","[1, 4]","[1.0, 5.0]","[7.0, 7.0]",either only have primer singles the day before or no single at all,"mobility, warmup"
+102,8/5/20,comp deadlift,[425.0],[3],[7.0],[None],fucking tiring,"56cal 10min bike ride warmup, mobility, warmup"
+103,8/5/20,spoto press,[245.0],[4],[3.0],[None],money and no tendonitis,"56cal 10min bike ride warmup, mobility, warmup"
+104,8/7/20,pause comp squat,[425.0],[1],[1.0],[7.5],"8, 365x3x3 / flats for first time and feel great","58cal 10min bike ride warmup, mobility, warmup"
+105,8/7/20,comp deadlift,"[475.0, 485.0, 495.0]","[2, 2, 1]","[1.0, 1.0, 1.0]","[None, None, None]",tired af going into it but easy,"58cal 10min bike ride warmup, mobility, warmup"
